@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "da1c1105efda3a1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d523f50d4229adbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fe1af9215a57f6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90a19a12f46475a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GW_Lab_Notebook/Algae Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1ebc42b8c52a7cc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b98a57e232085aeb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94954f91dbab1933",
+    "type": "split",
+    "children": [
+      {
+        "id": "50061d5f99603314",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54fad8d2a6111d12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e4a2a31f938c146",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abc9df386d581bcd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "01c7b20a1726c28b",
+    "type": "split",
+    "children": [
+      {
+        "id": "926b3e96270482a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8306bbf0c82b57cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cde7cd4813d3b1af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "187be06de1494b41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e353e19737782c6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "45bdc5cdc8195be1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b98a57e232085aeb",
+  "lastOpenFiles": [
+    "GW_Lab_Notebook/Algae Notes.md",
+    "Boys and Girls Club Outreach.md",
+    "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
+    "GW_Lab_Notebook",
+    "GW_Lab_Notebook/Protocols"
+  ]
+}
