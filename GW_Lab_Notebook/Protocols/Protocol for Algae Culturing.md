@@ -1,10 +1,6 @@
 The three species of algae we have are Tetraselmis chuii, Isochrysis galbana, and Chaetoceros
 
-  
-
 When opening anything that has algae in it, it must be done in the biosafety cabinet
-
-  
 
 Table of Contents:
 
@@ -13,8 +9,6 @@ Table of Contents:
 - Connecting culture to airway system
 - Using hemocytometer to count algae cells 
 - Making saltwater 
-
-  
 
 Optimum environment by species: 
 
@@ -109,109 +103,57 @@ Inoculating 
 
 
 Materials for connecting culture to airway system: 
-
 - Algae culture
-
 - Autoclaved stoppers
-
 - Autoclaved tubing 
-
 - Rubber band 
-
 - Small amount of foil 
 
-  
-
 Preparation for connecting culture to airway system: 
-
 - UV sterilize the autoclaved stoppers, autoclaved tubing, scissors, rubber band, foil, and parafilm for fifteen minutes
-
 - Place stopper into opening of flask, pull tubing through hole of stopper if the apparatus has not been made already
-
 - pull enough tubing so that opening of tubing is inside the culture
-
 - Secure any openings with parafilm to the best of ability so no air can escape 
-
 - Use rubber band to secure parafilm around neck of flask 
-
 - Use foil to wrap the end of the tubing that is outside of the flask, this will keep it sterile as possible when we bring the flask and tubing apparatus upstairs
 
-  
-
 Connecting culture to airway system 
-
 - Bring flask and tubing apparatus upstairs to autoclave room on sixth floor
-
 - Turn the air pump off and connect the tube to the air pump 
-
 - Turn the air pump back on and make sure the air is visibly bubbling in the flask 
 
-  
-
 Using the hemocytometer to count algae cells 
-
-  
-
 1. Use 70% ethanol for cleaning the coverslip of the hemacytometer 
-
 2. Gently dry with Kimwipe 
-
 3. Fill a small beaker with lab glassware soap and water and fill another small beaker with DI water
-
 4. Without gloves, swish the hemocytometer in the beaker with soap, take it out, and use your fingers to gently rub the two chambers of the hemocytometer 
-
 5. Repeat swishing the hemocytometer into the soap and gently rubbing with your fingers four times, and after rubbing for the fourth time, swish the hemocytometer in the soap solution one last time and do not touch the surface of the device again as this will leave finger oil droplets that will interfere with the cell count 
-
 6. Rinse the hemocytometer under tap water
-
 7. Swish the hemocytometer in the beaker with DI water 
-
 8. Use Kimwipes to dry the hemocytometer with gentle wiping movements 
-
 9. In the biosafety cabinet, pipette 10 uL of algae into each of the two chambers of the hemacytometer 
-
 10. Count total viable cells (cells with color) in four corner squares and center square 
-
 11. When counting, count any cells on the bottom line and right line of each square 
-
 12. Count total non viable cells (cells with no color) on the bottom line and right line of each square
 
 - Calculations using hemocytometer: 
-
-- Concentration, aka viable cells per mL = (avg # of cells per square * dilution factor * 10^4)
-
-- To find avg # of cells per square = (total # of viable cells / # of squares used)
-
-- For us, dilution factor will always be 1
+	- Concentration, aka viable cells per mL = (avg # of cells per square * dilution factor * 10^4)
+	- To find avg # of cells per square = (total # of viable cells / # of squares used)
+	- For us, dilution factor will always be 1
 
 Materials for making saltwater: 
-
 - Empty instant ocean buckets 
-
 - Instant ocean 
-
 - DI water 
-
 - Orion Star Meter (on field rack 2/3)
 
-  
-
 Making Saltwater 
-
 - Fill a bucket with DI water, leaving enough space for stirring the water 
-
 - Add Instant Ocean salt little by little while continuously measuring the salinity with the orion star meter 
-
 - After adding salt, stir, and hit "measure" on the orion star meter. Repeat this until reached desired salinity 
-
 - For diatoms (Chaetoceros) we make 20 psu saltwater
-
 - The acceptable range for diatoms is 20-25 psu
-
 - Aim for a psu a little over 20 psu, this way if the psu ends up measuring a little higher it can still be in the 20-25 range rather than if we aimed for 25 psu and the psu accidentally raised to out of that 20-25 psu range
-
 - For flagellates (Tetraselmis chuii and Isochrysis galbana) we make 25 psu saltwater 
-
 - The acceptable range for diatoms is 25-30 psu
-
 - Aim for a psu a little over 25 psu, this way if the psu ends up measuring a little higher it can still be in the 25-30 range rather than if we aimed for 30 psu and the psu accidentally raised to out of that 25-30 psu range
