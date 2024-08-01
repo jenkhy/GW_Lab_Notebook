@@ -19,156 +19,94 @@ Table of Contents:
 Optimum environment by species: 
 
 - Temperature: 
-- 16 to 27 C
-- Optimum temperature is 24 C
-- Room temperature is 20-22 C
+	- 16 to 27 C
+	- Optimum temperature is 24 C
+	- Room temperature is 20-22 C
 - Salinity: 
-
-- Diatoms (Chaetoceros)
-
-- 20-25 psu
-
-- We have 20 psu saltwater 
-
-- Flagellates (Isochrysis galbana and Tetraselmis Chuii)
-
-- 25-30 psu
-
-- We have 25 psu saltwater 
+	- Diatoms (Chaetoceros)
+		- 20-25 psu
+		- We have 20 psu saltwater 
+	- Flagellates (Isochrysis galbana and Tetraselmis Chuii)
+		- 25-30 psu
+		- We have 25 psu saltwater 
 
   
 
 Materials for inoculating: 
-
 - Stock culture you are using 
-
-- Tetraselmis chuii
-
-- Isochrysis galbana
-
-- Chaetoceros 
-
+	- Tetraselmis chuii
+	- Isochrysis galbana
+	- Chaetoceros 
 - Saltwater you are using 
-
-- 20 psu 
-
-- 25 psu 
+	- 20 psu 
+	- 25 psu 
 
 - 4000 mL flasks for each type of saltwater
-
 - Glassware for each culture you are making 
-
 - 1000 mL flasks
-
 - 2000 mL flasks 
-
 - 20 L carboys
-
 - Tape for labeling 
-
+- Sharpie for labeling
 - F/2 Media (in fridge)
-
 - 20-200 uL pipet (green pipet)
-
 - 20-200 uL pipet tips (green box)
-
 - Serological pipet 
-
 - Serological pipet tips
-
 - Large plastic beaker 
-
 - Rubber stoppers
-
-- Size 7 stoppers (for some flasks and for glass carboys)
-
-- Size 8 stoppers (for some flasks)
-
+	- Size 7 stoppers (for some flasks and for glass carboys)
+	- Size 8 stoppers (for some flasks)
 - Scalpel/Knife
 
   
 
 Preparation for inoculation: 
-
 - Sterilization: 
+	- Autoclaving Saltwater
+		- Use large plastic beaker to pour saltwater into 4000 mL flask 
+		- If autoclaving multiple salinities of saltwater, make note of which flask contains which salinity 
+		- Cover openings of the flask with foil and autoclave tape securely
+		- Place in autoclave bin and autoclave in the autoclave on sixth floor using liquid option 
 
-- Autoclaving Saltwater
-
-- Use large plastic beaker to pour saltwater into 4000 mL flask 
-
-- If autoclaving multiple salinities of saltwater, make note of which flask contains which salinity 
-
-- Cover openings of the flask with foil and autoclave tape securely
-
-- Place in autoclave bin and autoclave in the autoclave on sixth floor using liquid option 
-
-- Autoclaving glassware
-
-- Glassware that will hold the algae culture (algae stock, saltwater, and F/2 media) must be autoclaved before algae, autoclaved saltwater, and F/2 media are put in
-
-- Cover openings of empty glassware with foil and autoclave tape securely
-
-- Place in autoclave bin and autoclave in the autoclave on sixth floor using gravity option 
-
-- If other dry items need to be autoclaved as well, such as rubber stopper and tubing apparatus, these items can be autoclaved together using gravity option
-
-- Autoclaving rubber stoppers and tubing
-
-- Stopper and tubing apparatus must be autoclaved before plugging into air pump and into glassware holding the algae culture 
-
-- Pull tubing through opening of rubber stopper
-
-- If tubing does not fit, carve the opening with a scalpel or knife as needed 
-
-- Completely wrap the stopper and tubing apparatus with foil and cover with autoclave tape 
-
-- Place in autoclave bin and autoclave in the autoclave on sixth floor using gravity option 
-
-- If other dry items need to be autoclaved as well, such as empty glassware, these items can be autoclaved together using gravity option
+	- Autoclaving glassware
+		- Glassware that will hold the algae culture (algae stock, saltwater, and F/2 media) must be autoclaved before algae, autoclaved saltwater, and F/2 media are put in
+		- Cover openings of empty glassware with foil and autoclave tape securely
+		- Place in autoclave bin and autoclave in the autoclave on sixth floor using gravity option
+		- If other dry items need to be autoclaved as well, such as rubber stopper and tubing apparatus, these items can be autoclaved together using gravity option
+	- Autoclaving rubber stoppers and tubing
+		- Stopper and tubing apparatus must be autoclaved before plugging into air pump and into glassware holding the algae culture 
+		- Pull tubing through opening of rubber stopper
+		- If tubing does not fit, carve the opening with a scalpel or knife as needed 
+		- Completely wrap the stopper and tubing apparatus with foil and cover with autoclave tape 
+		- Place in autoclave bin and autoclave in the autoclave on sixth floor using gravity option 
+		- If other dry items need to be autoclaved as well, such as empty glassware, these items can be autoclaved together using gravity option
 
 - UV sterilization
-
-- UV for fifteen minutes
-
-- UV sterilize workspace, autoclaved glassware, autoclaved saltwater, autoclaved stopper and tubing apparatus, pipets, pipet tips
-
-- Do NOT UV the algae, this will kill the algae!
+	- UV for fifteen minutes
+	- UV sterilize workspace, autoclaved glassware, autoclaved saltwater, autoclaved stopper and tubing apparatus, pipets, pipet tips
+	- Do NOT UV the algae, this will kill the algae!
 
 Inoculating 
 
 - Inoculating (Putting the stock culture into the saltwater to make your culture) must be done in biosafety cabinet 
 
 - If moving algae into a 1000 mL flask:
-
-- Make sure the 1000 mL is autoclaved and UV sterilized for fifteen minutes
-
-- Add 495 mL of 25 psu/20 psu autoclaved saltwater to the 1000 mL flask 
-
-- Add 5 mL of the algae to the 1000 mL flask 
-
-- Add 56 uL of F/2 media to the 1000 mL flask 
-
+	- Make sure the 1000 mL is autoclaved and UV sterilized for fifteen minutes
+	- Add 495 mL of 25 psu/20 psu autoclaved saltwater to the 1000 mL flask 
+	- Add 5 mL of the algae to the 1000 mL flask 
+	- Add 56 uL of F/2 media to the 1000 mL flask 
 - If moving algae into a 2400 mL flask: 
-
-- Make sure the 2400 mL flask is autoclaved and UV sterilized for fifteen minutes
-
-- Add 1960 mL of 25 psu/20 psu autoclaved saltwater to the 2400 mL flask 
-
-- Add 40 mL of the algae to the 2400 mL flask 
-
-- Add 258 uL of F/2 media to the 2400 mL flask 
-
+	- Make sure the 2400 mL flask is autoclaved and UV sterilized for fifteen minutes
+	- Add 1960 mL of 25 psu/20 psu autoclaved saltwater to the 2400 mL flask 
+	- Add 40 mL of the algae to the 2400 mL flask 
+	- Add 258 uL of F/2 media to the 2400 mL flask 
 - If moving algae into a 20 L carboy: 
+	- Make sure the 20 L carboy is autoclaved and UV sterilized for fifteen minutes 
+	- Add 9.5 L of 25 psu/20 psu autoclaved saltwater to the 20 L carboy
+	- Add 500 mL of the algae to the 20 L carboy
+	- Add 1.29 mL of F/2 media 
 
-- Make sure the 20 L carboy is autoclaved and UV sterilized for fifteen minutes 
-
-- Add 9.5 L of 25 psu/20 psu autoclaved saltwater to the 20 L carboy
-
-- Add 500 mL of the algae to the 20 L carboy
-
-- Add 1.29 mL of F/2 media 
-
-  
 
 Materials for connecting culture to airway system: 
 
