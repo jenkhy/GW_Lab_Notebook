@@ -4,37 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "d523f50d4229adbe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9fe1af9215a57f6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90a19a12f46475a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GW_Lab_Notebook/Algae Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "1ebc42b8c52a7cc7",
         "type": "tabs",
         "children": [
@@ -169,12 +138,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
