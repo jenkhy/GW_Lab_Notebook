@@ -161,11 +161,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +178,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b98a57e232085aeb",
+  "active": "e353e19737782c6d",
   "lastOpenFiles": [
+    "GW-Lab-Notebook",
     "GW_Lab_Notebook/Algae Notes.md",
     "Boys and Girls Club Outreach.md",
     "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
