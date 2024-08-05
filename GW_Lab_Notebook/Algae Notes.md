@@ -273,8 +273,12 @@ Things that Savanna can help with: 
 	- three carboys of algae, one species in each 
 	- autoclaved 4000 mL of 20 psu and 28 psu saltwater 
 - plans: 
-	- will add more 28 psu saltwater to isochrysis carboy
-	- will add more 28 psu saltwater to tetraselmis carboy
-		- will add more tetraselmis stock to tetraselmis carboy
-	- will add more 20 psu saltwater to chaetoceros carboy
-	- will add more 20 psu saltwater to chaetoceros stock 
+	- isochrysis carboy
+		- add 1 L of 28 psu saltwater 
+	- tetraselmis carboy
+		- add 1 L of 28 psu saltwater 
+		- add more tetraselmis stock to tetraselmis carboy
+	- chaetoceros carboy
+		- add 2 L of 20 psu saltwater 
+	- chaetoceros stock 
+		- add more of 20 psu saltwater 
