@@ -224,42 +224,30 @@ Things that Savanna can help with: 
 07/29/2024
 
 - plans: 
-- tetraselmis: 
+	- tetraselmis: 
+		- 40 mL of tetraselmis 1 into 2400 mL flask 
+		- 1960 mL of 25 psu saltwater 
+		- 258 uL of F/2
 
-- 40 mL of tetraselmis 1 into 2400 mL flask 
+	- isochrysis: 
+		- 40 mL of isochrysis 1 into 2400 mL flask 
+		- 1960 mL of 25 psu saltwater 
+		- 258 uL of F/2
 
-- 1960 mL of 25 psu saltwater 
-
-- 258 uL of F/2
-
-- isochrysis: 
-
-- 40 mL of isochrysis 1 into 2400 mL flask 
-
-- 1960 mL of 25 psu saltwater 
-
-- 258 uL of F/2
-
-- chaetoceros 
-
-- 40 mL of chaetoceros 1 into 2400 mL flask 
-
-- 1960 mL of 20 psu saltwater
-
-- 258 uL of F/2
+	- chaetoceros 
+		- 40 mL of chaetoceros 1 into 2400 mL flask 
+		- 1960 mL of 20 psu saltwater
+		- 258 uL of F/2
 
 - progress: 
-
-- Autoclaved one carboy 
+	- Autoclaved one carboy 
 
 07/30/2024
 
 - progress:
-
-- secured new tetraselmis and chaetoceros in 4000 mL flasks parafilm
+	- secured new tetraselmis and chaetoceros in 4000 mL flasks parafilm
 
 07/31/2024
-
 - plans: 
 	- add 5 ml of tetraselmis stock to the 1000 mL flask that Savanna and Caroline took tetraselmis from 
 	- 495 mL of 25 psu saltwater 
