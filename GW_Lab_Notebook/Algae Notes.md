@@ -426,3 +426,4 @@ Things that Savanna can help with: 
 	- will add more 28 psu saltwater to isochrysis carboy
 	- will add more 28 psu saltwater to tetraselmis carboy
 	- will add more 20 psu saltwater to chaetoceros carboy
+	- will add more 20 psu saltwater to chaetoceros stock 
