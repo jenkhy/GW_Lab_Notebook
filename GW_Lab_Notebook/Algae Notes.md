@@ -399,12 +399,12 @@ Things that Savanna can help with: 
 07/31/2024
 
 - plans: 
-- add 5 ml of tetraselmis stock to the 1000 mL flask that Savanna and Caroline took tetraselmis from 
-- 495 mL of 25 psu saltwater 
-- 65 uL of F/2
-- add more 25 psu saltwater to isochrysis carboy 
-- autoclave 9.5 L of 25 psu saltwater in a carboy 
-- autoclave 9.5 L of 20 psu saltwater in a carboy 
+	- add 5 ml of tetraselmis stock to the 1000 mL flask that Savanna and Caroline took tetraselmis from 
+	- 495 mL of 25 psu saltwater 
+	- 65 uL of F/2
+	- add more 25 psu saltwater to isochrysis carboy 
+	- autoclave 9.5 L of 25 psu saltwater in a carboy 
+	- autoclave 9.5 L of 20 psu saltwater in a carboy 
 
 - progress: 
 	- combined chaetoceros in 4000 mL flask and chaetoceros in 1000 mL flask together into autoclaved carboy 
@@ -423,4 +423,6 @@ Things that Savanna can help with: 
 	- three carboys of algae, one species in each 
 	- autoclaved 4000 mL of 20 psu and 28 psu saltwater 
 - plans: 
-	- will 
+	- will add more 28 psu saltwater to isochrysis carboy
+	- will add more 28 psu saltwater to tetraselmis carboy
+	- will add more 20 psu saltwater to chaetoceros carboy
