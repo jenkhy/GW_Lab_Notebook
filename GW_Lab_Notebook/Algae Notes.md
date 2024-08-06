@@ -289,4 +289,4 @@ Things that Savanna can help with: 
 	- autoclave more 28 psu and 20 psu saltwater 
 	- add the autoclaved 28 psu saltwater and 50 mL of tetraselmis stock to tetraselmis carboy 
 	- add the 20 psu saltwater to chaetoceros stock 
-	- add more F/2 to 
+	- add 1.29 mL of F/2 to each of the carboys 
