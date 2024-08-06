@@ -284,6 +284,8 @@ Things that Savanna can help with: 
 		- add more of 20 psu saltwater 
 
 08/06/2024
+- progress:
+	- autoclaved 4000 mL of 28 psu and 20 psu saltwater 
 - plans:
 	- wash the 4000 mL flasks 
 	- autoclave more 28 psu and 20 psu saltwater 
