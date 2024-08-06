@@ -282,3 +282,11 @@ Things that Savanna can help with: 
 		- add 2 L of 20 psu saltwater 
 	- chaetoceros stock 
 		- add more of 20 psu saltwater 
+
+08/06/2024
+- plans:
+	- wash the 4000 mL flasks 
+	- autoclave more 28 psu and 20 psu saltwater 
+	- add the autoclaved 28 psu saltwater and 50 mL of tetraselmis stock to tetraselmis carboy 
+	- add the 20 psu saltwater to chaetoceros stock 
+	- add more F/2 to 
