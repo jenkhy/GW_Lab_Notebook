@@ -300,4 +300,5 @@ Things that Savanna can help with: 
 
 08/07/2024
 - plans:
-	- 
+	- there is currently about 125 mL of isochrysis 1 stock and about 50 mL of isochrysis 2 stock
+		- move 50 mL of iso 1 to iso 2 because iso 2 is very very light in color while iso 1 is much darker
