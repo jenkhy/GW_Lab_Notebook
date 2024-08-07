@@ -286,6 +286,11 @@ Things that Savanna can help with: 
 08/06/2024
 - progress:
 	- autoclaved 4000 mL of 28 psu and 20 psu saltwater 
+	- added about 2 L of 28 psu saltwater to tetraselmis carboy
+	- added 50 mL of tetraselmis stock to carboy
+	- added 1.29 mL of F/2 to tetraselmis carboy
+	- added 100 mL of 20 psu saltwater to chaetoceros stock 
+	- added 50 mL of 28 psu saltwater to tetraselmis stock 
 - plans:
 	- wash the 4000 mL flasks 
 	- autoclave more 28 psu and 20 psu saltwater 
