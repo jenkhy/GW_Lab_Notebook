@@ -320,7 +320,7 @@ Things that Savanna can help with: 
 		- add 65 uL to the tetraselmis carboy, which currently has about 5 L of algae
 	- adding more F/2 to the stock cultures 
 		- add 39 uL to the tetraselmis 1 stock, which currently has about 100 mL of algae 
-		- add 20 uL to the isochrysis 1 stock, which currently has about 100 mL of algae
+		- add 39 uL to the isochrysis 1 stock, which currently has about 100 mL of algae
 		- add 39 uL to the isochrysis 2 stock, which currently has about 100 mL of algae 
 		- add 39 uL to the chaetoceros 1 stock, which currently has about 150 mL of algae 
 		- add 39 uL to the chaetoceros 2 stock, which currently has about 125 mL of algae 
