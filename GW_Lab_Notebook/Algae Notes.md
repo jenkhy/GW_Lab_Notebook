@@ -302,3 +302,18 @@ Things that Savanna can help with: 
 - plans:
 	- there is currently about 125 mL of isochrysis 1 stock and about 50 mL of isochrysis 2 stock
 		- move 50 mL of iso 1 to iso 2 because iso 2 is very very light in color while iso 1 is much darker
+
+08/08/2024
+- plans: 
+	- make concentrated tetraselmis 
+		- add 100 mL of 28 psu saltwater to tetraselmis 2 stock (there is currently less than 50 mL after using some for outreach yesterday)
+		- add 39 uL of F/2, if the tetraselmis dont crash after four days, add another 26 uL of F/2
+	- make concentrated isochrysis
+		- take 200 mL from the isochrysis carboy
+		- add 39 uL of F/2, if it doesnt crash after four days, add another 26 uL of F/2
+	- make concentrated chaetoceros 
+		- take 200 mL from chaetoceros carboy 
+		- add 39 uL of F/2, if it doesnt crash after four days, add another 26 uL of F/2
+	- adding more F/2 to each of the carboys:
+		- add 645 uL to the isochrysis carboy, which currently has about 5 L of algae 
+		- 
