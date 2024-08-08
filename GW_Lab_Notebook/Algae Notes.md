@@ -315,9 +315,19 @@ Things that Savanna can help with: 
 		- take 200 mL from chaetoceros carboy 
 		- add 39 uL of F/2, if it doesnt crash after four days, add another 26 uL of F/2
 	- adding more F/2 to each of the carboys:
-		- add  uL to the isochrysis carboy, which currently has about 7.5 L of algae 
-		- add uL to the chaetoceros carboy, which currently has about 5 L of algae 
-		- add uL to the tetraselmis carboy, which currently has about 5 L of algae
+		- add 96 uL to the isochrysis carboy, which currently has about 7.5 L of algae 
+		- add 65 uL to the chaetoceros carboy, which currently has about 5 L of algae 
+		- add 65 uL to the tetraselmis carboy, which currently has about 5 L of algae
 	- adding more F/2 to the stock cultures 
-		- add uL to the tetraselmis 1 stock, which currently has about 100 mL of algae 
-		- add uL to the 
+		- add 39 uL to the tetraselmis 1 stock, which currently has about 100 mL of algae 
+		- add 20 uL to the isochrysis 1 stock, which currently has about 100 mL of algae
+		- add 39 uL to the isochrysis 2 stock, which currently has about 100 mL of algae 
+		- add 39 uL to the chaetoceros 1 stock, which currently has about 150 mL of algae 
+		- add 39 uL to the chaetoceros 2 stock, which currently has about 125 mL of algae 
+	- materials needed: 
+		- all stock cultures 
+		- F/2 media 
+		- pipette tips 
+		- pipette
+		- 28 psu saltwater (needs to be UV'd)
+		- 
