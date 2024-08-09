@@ -316,7 +316,7 @@ Things that Savanna can help with: 
 		- add 39 uL of F/2, if it doesnt crash after four days, add another 26 uL of F/2
 	- adding more F/2 to each of the carboys:
 		- yes add 96 uL to the isochrysis carboy, which currently has about 7.5 L of algae 
-		- yes zzadd 65 uL to the chaetoceros carboy, which currently has about 5 L of algae 
+		- yes add 65 uL to the chaetoceros carboy, which currently has about 5 L of algae 
 		- add 65 uL to the tetraselmis carboy, which currently has about 5 L of algae
 	- adding more F/2 to the stock cultures 
 		- add 39 uL to the tetraselmis 1 stock, which currently has about 100 mL of algae 
@@ -330,4 +330,9 @@ Things that Savanna can help with: 
 		- pipette tips 
 		- pipette
 		- 28 psu saltwater (needs to be UV'd)
-	- 
+
+08/09/2024
+- plans: 
+	- add more F/2 to each of the concentrated stocks of tetraselmis, isochrysis, and chaetoceros
+	- add more F/2 to the tetraselmis carboy
+	- decide how to make a tubing system for taking algae out of carboys
