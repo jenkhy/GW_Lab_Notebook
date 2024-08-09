@@ -335,5 +335,8 @@ Things that Savanna can help with: 
 - plans: 
 	- add more 26 uL of F/2 to each of the concentrated stocks of tetraselmis, isochrysis, and chaetoceros
 	- add 65 uL more F/2 to the tetraselmis carboy
+
+08/12/2024
+- plans: 
 	- decide how to make a tubing system for taking algae out of carboys
 	- autoclave more saltwater 
