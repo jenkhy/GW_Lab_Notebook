@@ -136,8 +136,12 @@ Using the hemocytometer to count algae cells 
 11. When counting, count any cells on the bottom line and right line of each square 
 12. Count total non viable cells (cells with no color) on the bottom line and right line of each square
 
-To clean the hemocytometer after use: 
-- 
+- To clean the hemocytometer after use: 
+	- Fill a small beaker with lab glassware soap and water and fill another beaker with DI water
+	- Without gloves, swish the hemoctometer in the beaker with soap, take it out, and use your fingers to gently rub the two chambers of the hemocytometer
+	- Repeat swishing the hemocytometer into the soap and gently rubbing your fingers four times, and after rubbing for the fourth time, swish the hemocytometer in the soap solution one last time and do not touch the surface of the device again as this will leave finger oil droplets that will interfere with the cell count
+	- Do the same with the cover slip of the hemocytometer
+
 - Calculations using hemocytometer: 
 	- Concentration, aka viable cells per mL = (avg # of cells per square * dilution factor * 10^4)
 	- To find avg # of cells per square = (total # of viable cells / # of squares used)
