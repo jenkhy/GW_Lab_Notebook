@@ -357,5 +357,8 @@ Things that Savanna can help with: 
 	- add more 25-28 psu saltwater and F/2 to the 1000 mL isochrysis, there is about 150 mL of it rn
 	- add 258 uL of F/2 to each of the outreach flasks 
 	- add enough saltwater so there is 600 mL in each of the 1000 mL flasks
+	- add 200 mL of 20 psu saltwater to the chaetoceros carboy, there is currently about 5 L, add 645 uL F/2 into carboy
+	- add 200 mL of 28 psu saltwater to the tetraselmis carboy, there is currently about 5 L, 
+	- add 645 uL F/2 into carboy
 notes:
 - if iso in the 1000 ml flask crashes its bc i put the autoclaved water in too early, it killed the algae
