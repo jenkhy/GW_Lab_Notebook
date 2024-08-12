@@ -337,6 +337,8 @@ Things that Savanna can help with: 
 	- add 65 uL more F/2 to the tetraselmis carboy
 
 08/12/2024
+- progress: 
+	- After adding 39 uL to each of the stock cultures excepputting all of the stock cultures 
 - plans: 
 	- decide how to make a tubing system for taking algae out of carboys
 	- autoclave more saltwater 
