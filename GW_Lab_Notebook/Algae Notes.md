@@ -338,7 +338,20 @@ Things that Savanna can help with: 
 
 08/12/2024
 - progress: 
-	- After adding 39 uL to each of the stock cultures excepputting all of the stock cultures 
+	- Last week on 8/8/24 after adding 39 uL to each of the stock cultures except for chaetoceros 2 because it was already very dark, all of the stock cultures except for chaetoceros 2 were put under the LED growlight
+	- Tetraselmis chuii 1 crashed 
+	- Tetraselmis 2 is still good but could crash soon, so add more 25-28 psu saltwater to it
+	- Isochrysis 1 and 2 are good 
+	- Chaetoceros 1 crashed 
+	- Chaetoceros 2 is good 
+	- Putting the algae under the growlight too long (four days) is too extreme and causes them to crash
 - plans: 
 	- decide how to make a tubing system for taking algae out of carboys
 	- autoclave more saltwater 
+	- put chaetoceros 1 (crashed) to waste 
+	- split chaetoceros 2 into two flasks to make a new chaetoceros 1 and 2
+	- put tetraselmis 1 to waste
+	- split tetraselmis 2 into two flasks to make a new tetraselmis 1 and 2
+	- add more F/2 to outreach flasks
+	- add more 20 psu saltwater and F/2 to the 1000 mL chaetoceros (will be used for outreach), there is about 100 mL of it rn
+	- add more 25-28 psu saltwater and F/2 to the 1000 mL isochrysis, there is about 150 mL of it rn
