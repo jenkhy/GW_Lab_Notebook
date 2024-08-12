@@ -362,3 +362,4 @@ Things that Savanna can help with: 
 	- add 645 uL F/2 into carboy
 notes:
 - if iso in the 1000 ml flask crashes its bc i put the autoclaved water in too early, it killed the algae
+- did NOT add saltwater to the tetraselmis yet because the 28 psu saltwater is too hot still and dont want to risk killing algae 
