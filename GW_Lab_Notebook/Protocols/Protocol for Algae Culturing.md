@@ -136,6 +136,8 @@ Using the hemocytometer to count algae cells 
 11. When counting, count any cells on the bottom line and right line of each square 
 12. Count total non viable cells (cells with no color) on the bottom line and right line of each square
 
+To clean the hemocytometer after use: 
+- 
 - Calculations using hemocytometer: 
 	- Concentration, aka viable cells per mL = (avg # of cells per square * dilution factor * 10^4)
 	- To find avg # of cells per square = (total # of viable cells / # of squares used)
