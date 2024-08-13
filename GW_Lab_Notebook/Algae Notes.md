@@ -371,3 +371,4 @@ notes:
 	- added 200 mL saltwater to each outreach flask (now 500 mL each) and added 26 uL F/2 to each 
 - plans:
 	- take 200 mL out of each carboy and add 258 uL of F/2 into each 200 mL
+	- will place the outreach flasks in front of growlight
