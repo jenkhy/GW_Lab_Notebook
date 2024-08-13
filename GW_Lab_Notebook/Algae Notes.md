@@ -368,5 +368,5 @@ notes:
 - progress: 
 	- isochrysis in the 1000 mL flask crashed due to too high temperature
 - plans:
-	- add 200 mL of saltwater to each of the outreach flasks (there are currently about 300 mL in each)
+	- add 200 mL of saltwater to each of the outreach flasks (there are currently about 300 mL in each) and 26 uL of F/2 to each
 	- take 100 mL out of each carboy and add 258 uL of F/2 into each 100 mL
