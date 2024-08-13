@@ -367,6 +367,7 @@ notes:
 08/13/2024
 - progress: 
 	- isochrysis in the 1000 mL flask crashed due to too high temperature
+	- added 200 uL F/2 to the 1000 mL flask of chaetoceros (currently about 600 mL)
+	- added 200 mL saltwater to each outreach flask (now 500 mL each) and added 26 uL F/2 to each 
 - plans:
-	- add 200 mL of saltwater to each of the outreach flasks (there are currently about 300 mL in each) and 26 uL of F/2 to each
-	- take 100 mL out of each carboy and add 258 uL of F/2 into each 100 mL
+	- take 200 mL out of each carboy and add 258 uL of F/2 into each 200 mL
