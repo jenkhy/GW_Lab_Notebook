@@ -363,3 +363,9 @@ Things that Savanna can help with: 
 notes:
 - if iso in the 1000 ml flask crashes its bc i put the autoclaved water in too early, it killed the algae
 - did NOT add saltwater to the tetraselmis yet because the 28 psu saltwater is too hot still and dont want to risk killing algae 
+
+08/13/2024
+- progress: 
+	- isochrysis in the 1000 mL flask crashed due to too high temperature
+- plans:
+	- 
