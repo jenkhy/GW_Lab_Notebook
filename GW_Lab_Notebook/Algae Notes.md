@@ -372,3 +372,9 @@ notes:
 - plans:
 	- take 200 mL out of each carboy and add 258 uL of F/2 into each 200 mL
 	- will place the outreach flasks in front of growlight
+
+08/14/2024
+- plans: 
+	- separate tetraselmis 2 into two stocks 
+	- separate chaetoceros 2 into two stocks 
+	- put failed algae to waste
