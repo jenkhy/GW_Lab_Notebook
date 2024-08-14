@@ -375,6 +375,4 @@ notes:
 
 08/14/2024
 - plans: 
-	- separate tetraselmis 2 into two stocks 
-	- separate chaetoceros 2 into two stocks 
-	- put failed algae to waste
+	- add 26 uL to stock cultures 
