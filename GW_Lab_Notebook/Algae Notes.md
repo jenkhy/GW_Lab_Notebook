@@ -375,4 +375,4 @@ notes:
 
 08/14/2024
 - plans: 
-	- add 26 uL to stock cultures 
+	- add 26 uL to stock cultures tetraselmis 1 and chaetoceros 1, the ones that failed, see if they can succeed in a few days, if not, dispose them as waste 
