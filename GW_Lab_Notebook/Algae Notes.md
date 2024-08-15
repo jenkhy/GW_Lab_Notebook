@@ -376,3 +376,7 @@ notes:
 08/14/2024
 - plans: 
 	- add 26 uL to stock cultures tetraselmis 1 and chaetoceros 1, the ones that failed, see if they can succeed in a few days, if not, dispose them as waste 
+
+08/15/2024
+- plans: 
+	- move the chaetoceros from the 1000 mL flask into the chaetoceros carboy, the flask currently has about 600 mL and carboy currently has about 6 L
