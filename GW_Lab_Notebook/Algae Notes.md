@@ -380,3 +380,16 @@ notes:
 08/15/2024
 - plans: 
 	- move the chaetoceros from the 1000 mL flask into the chaetoceros carboy, the flask currently has about 600 mL and carboy currently has about 6 L
+
+08/16/2024
+- plans: 
+	- pour chaetoceros 1 into waste
+	- pour chaetoceros flask into carboy
+	- split chaetoceros 2 into two flasks 
+	- add 26 uL of F/2 to tetraselmis 1 (the crashed one)
+	- pour isochrysis galbana crashed 1000 mL flask into waste 
+	- add enough saltwater to all the carboys so there is about 10 L
+		- currently about 8 L in iso carboy 
+		- currently about 6 L in chaeto carboy 
+		- currently about 5 L in tetra carboy 
+	- autoclave more saltwater to use for monday 
