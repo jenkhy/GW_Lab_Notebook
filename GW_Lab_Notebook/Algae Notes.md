@@ -33,18 +33,23 @@
 - successfully set up airpump for tetraselmis 1
 - note: cut the curved end of the tubing to prevent tube from curling when placed into flask
 - New flasks:
+	- one check mark: done but not successful 
+	- two check marks: done and successful
 	- ✓ tetraselmis 1: 455 mL of autoclaved 25 psu saltwater, 5 mL of tetraselmis, 65 uL of F/2
 	- ✓✓ tetraselmis 2: try 460 mL of autoclaved 25 psu saltwater, 40 mL of tetraselmis, 65 uL of F/2
 	- ✓✓ isochrysis 1: try 920 mL of autoclaved 25 psu saltwater, 40 mL of isochrysis, 258 uL of F/2
 	- ✓✓ isochrysis 2: try 495 mL of autoclaved 25 psu saltwater, 5 mL of isochrysis, 65 uL of F/2
 	- ✓ chaetoceros 1: try 495 mL of autoclaved 20 psu saltwater, 5 mL of chaetoceros, 65 uL of F/2
 	- ✓ chaetoceros 2: try 1960 mL of autoclaved 20 psu saltwater, 40 mL of chaetoceros, 258 uL of F/2
+- notes:
+	- Tetraselmis: 460 mL of 25 psu saltwater, 40 mL of tetraselmis, 65 uL F/2
+	- Isochrysis 1: 920 mL of autoclaved 25 psu saltwater, 40 mL of isochrysis, 258 uL of F/2
 
 
 06/25/2024
 - autoclaved rest of tubing
 - set up isochrysis 2
-- set up isochrysis 1, but it is in need of a stopper and 
+- set up isochrysis 1, but it is in need of a stopper
 - set up LED grow lights 
 
   

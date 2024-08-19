@@ -62,6 +62,7 @@ Preparation for inoculation: 
 		- If autoclaving multiple salinities of saltwater, make note of which flask contains which salinity 
 		- Cover openings of the flask with foil and autoclave tape securely
 		- Place in autoclave bin and autoclave in the autoclave on sixth floor using liquid option 
+		- Do not pour autoclaved saltwater into algae culture immediately while saltwater is still hot, this will kill the algae, wait until the next day to use the autoclaved saltwater
 
 	- Autoclaving glassware
 		- Glassware that will hold the algae culture (algae stock, saltwater, and F/2 media) must be autoclaved before algae, autoclaved saltwater, and F/2 media are put in
