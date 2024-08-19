@@ -404,4 +404,5 @@ notes:
 08/19/2024
 - plans: 
 	- add 28 psu saltwater to tetraselmis carboy
+	- add 20 psu saltwater to chaetoceros stocks and add 26 uL of F/2 into each 
 	- add 20 psu saltwater to chaetoceros carboy
