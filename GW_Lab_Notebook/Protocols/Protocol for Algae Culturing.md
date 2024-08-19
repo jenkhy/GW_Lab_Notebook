@@ -9,6 +9,7 @@ Table of Contents:
 - Connecting culture to airway system
 - Using hemocytometer to count algae cells 
 - Making saltwater 
+- Weekly tasks
 
 Optimum environment by species: 
 
@@ -164,3 +165,10 @@ Making Saltwater 
 - For flagellates (Tetraselmis chuii and Isochrysis galbana) we make 25 psu saltwater 
 - The acceptable range for diatoms is 25-30 psu
 - Aim for a psu a little over 25 psu, this way if the psu ends up measuring a little higher it can still be in the 25-30 range rather than if we aimed for 30 psu and the psu accidentally raised to out of that 25-30 psu range
+
+Weekly/Daily Tasks 
+- All cultures in flasks, carboys, etc. must be swirled at least once dail
+- Constantly add more saltwater and more F/2 media to cultures 
+- Add 258 uL of F/2 media once or twice a week
+- Chaetoceros lives in 20-25 psu saltwater 
+- Tetraselmis chuii and Isochrysis galbana live in 25-30 psu saltwater
