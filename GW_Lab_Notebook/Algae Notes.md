@@ -398,3 +398,10 @@ notes:
 		- currently about 6 L in chaeto carboy 
 		- currently about 5 L in tetra carboy 
 	- autoclave more saltwater to use for monday 
+- progress:
+	- added 258 uL of F/2 to each carboy
+
+08/19/2024
+- plans: 
+	- add 28 psu saltwater to tetraselmis carboy
+	- add 20 psu saltwater to chaetoceros carboy
