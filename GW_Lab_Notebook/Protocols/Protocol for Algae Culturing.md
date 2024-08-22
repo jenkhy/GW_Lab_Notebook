@@ -86,6 +86,7 @@ Preparation for inoculation: 
 Inoculating 
 
 - Inoculating (Putting the stock culture into the saltwater to make your culture) must be done in biosafety cabinet 
+- There are two ways that inoculating may be done, by adding the 
 
 - If moving algae into a 1000 mL flask:
 	- Make sure the 1000 mL is autoclaved and UV sterilized for fifteen minutes
