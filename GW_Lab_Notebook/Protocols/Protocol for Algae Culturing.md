@@ -35,7 +35,7 @@ Materials for inoculating: 
 - Saltwater you are using 
 	- 20 psu 
 	- 25 psu 
-- F/2 Media (kept in the )
+- F/2 Media (kept in the fridge)
 - 4000 mL flasks for each type of saltwater
 - Glassware for each culture you are making 
 - 1000 mL flasks
@@ -86,6 +86,8 @@ Preparation for inoculation: 
 Inoculating 
 
 - Inoculating (Putting the stock culture into the saltwater to make your culture) must be done in biosafety cabinet 
+- Shake the F/2 media bottle prior to using it
+- Keep F/2 media bottle in fridge when not using 
 - There are two ways to inoculate:
 	- individually adding the saltwater, algae, and F/2 media into the new glassware
 	- adding saltwater that already has F/2 media in it to the algae
