@@ -35,7 +35,7 @@ Materials for inoculating: 
 - Saltwater you are using 
 	- 20 psu 
 	- 25 psu 
-
+- F/2 Media (kept in the )
 - 4000 mL flasks for each type of saltwater
 - Glassware for each culture you are making 
 - 1000 mL flasks
@@ -86,23 +86,27 @@ Preparation for inoculation: 
 Inoculating 
 
 - Inoculating (Putting the stock culture into the saltwater to make your culture) must be done in biosafety cabinet 
-- There are two ways that inoculating may be done, by adding the 
-
-- If moving algae into a 1000 mL flask:
-	- Make sure the 1000 mL is autoclaved and UV sterilized for fifteen minutes
-	- Add 495 mL of 25 psu/20 psu autoclaved saltwater to the 1000 mL flask 
-	- Add 5 mL of the algae to the 1000 mL flask 
-	- Add 56 uL of F/2 media to the 1000 mL flask 
-- If moving algae into a 2400 mL flask: 
-	- Make sure the 2400 mL flask is autoclaved and UV sterilized for fifteen minutes
-	- Add 1960 mL of 25 psu/20 psu autoclaved saltwater to the 2400 mL flask 
-	- Add 40 mL of the algae to the 2400 mL flask 
-	- Add 258 uL of F/2 media to the 2400 mL flask 
-- If moving algae into a 20 L carboy: 
-	- Make sure the 20 L carboy is autoclaved and UV sterilized for fifteen minutes 
-	- Add 9.5 L of 25 psu/20 psu autoclaved saltwater to the 20 L carboy
-	- Add 500 mL of the algae to the 20 L carboy
-	- Add 1.29 mL of F/2 media 
+- There are two ways to inoculate:
+	- individually adding the saltwater, algae, and F/2 media into the new glassware
+	- adding saltwater that already has F/2 media in it to the algae
+- Individually adding saltwater, algae, and F/2 into the new glassware:
+	- If moving algae from stock culture into a 1000 mL flask:
+		- Make sure the 1000 mL flask is autoclaved and UV sterilized for fifteen minutes
+		- Add 495 mL of 25 psu/20 psu autoclaved saltwater to the 1000 mL flask 
+		- Add 5 mL of the algae to the 1000 mL flask 
+		- Add 56 uL of F/2 media to the 1000 mL flask 
+	- If moving algae from stock culture into a 2400 mL flask: 
+		- Make sure the 2400 mL flask is autoclaved and UV sterilized for fifteen minutes
+		- Add 1960 mL of 25 psu/20 psu autoclaved saltwater to the 2400 mL flask 
+		- Add 40 mL of the algae to the 2400 mL flask 
+		- Add 258 uL of F/2 media to the 2400 mL flask 
+	- If moving algae into a 20 L carboy: 
+		- Make sure the 20 L carboy is autoclaved and UV sterilized for fifteen minutes 
+		- Add 9.5 L of 25 psu/20 psu autoclaved saltwater to the 20 L carboy
+		- Add 500 mL of the algae to the 20 L carboy
+		- Add 1.29 mL of F/2 media 
+- Adding saltwater that already has F/2 media in it to the algae
+	- For every 1000 mL of saltwater, add 1 mL of F/2 media
 
 
 Materials for connecting culture to airway system: 
