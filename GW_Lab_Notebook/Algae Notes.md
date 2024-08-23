@@ -414,5 +414,5 @@ notes:
 			- top left square: 201 cells 
 			- top right square: 170
 			- center square: 192
-			- bottom left square: 
-			- bottom right square:
+			- bottom left square: 197
+			- bottom right square: 252
