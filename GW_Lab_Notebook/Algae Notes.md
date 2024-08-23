@@ -408,5 +408,8 @@ notes:
 	- add 20 psu saltwater to chaetoceros carboy
 
 8/23/2024
-- plans:
-	- 
+- progress: 
+	- counting on the hemocytometer for samples of carboys
+		- chaetoceros carboy sample 
+			- top left square: 201 cells 
+			- 
