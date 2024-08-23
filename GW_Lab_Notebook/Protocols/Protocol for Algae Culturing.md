@@ -43,7 +43,7 @@ Materials for inoculating: 
 - 20 L carboys
 - Tape for labeling 
 - Sharpie for labeling
-- F/2 Media (in fridge)
+- F/2 Media (in manatee 4 degree fridge)
 - 20-200 uL pipet (green pipet)
 - 20-200 uL pipet tips (green box)
 - Serological pipet 
