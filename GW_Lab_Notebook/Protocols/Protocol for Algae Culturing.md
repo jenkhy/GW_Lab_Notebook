@@ -35,7 +35,7 @@ Materials for inoculating: 
 - Saltwater you are using 
 	- 20 psu 
 	- 25 psu 
-- F/2 Media (kept in the fridge)
+- F/2 Media (kept in the manatee fridge)
 - 4000 mL flasks for each type of saltwater
 - Glassware for each culture you are making 
 - 1000 mL flasks
@@ -43,7 +43,6 @@ Materials for inoculating: 
 - 20 L carboys
 - Tape for labeling 
 - Sharpie for labeling
-- F/2 Media (in manatee 4 degree fridge)
 - 20-200 uL pipet (green pipet)
 - 20-200 uL pipet tips (green box)
 - Serological pipet 
@@ -52,7 +51,7 @@ Materials for inoculating: 
 - Rubber stoppers
 	- Size 7 stoppers (for some flasks and for glass carboys)
 	- Size 8 stoppers (for some flasks)
-- Scalpel/Knife
+- Scalpel/Knife/Scissors for carving
 
   
 
