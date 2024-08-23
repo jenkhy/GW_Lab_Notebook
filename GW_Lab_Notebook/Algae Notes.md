@@ -419,6 +419,12 @@ notes:
 		- isochrysis carboy sample
 			- top left square:  56
 			- top right square: 49
-			- center square: 
-			- bottom left square: 
-			- bottom right square: 
+			- center square: 51
+			- bottom left square: 49
+			- bottom right square: 50
+		- tetraselmis carboy sample
+			- top left square: 
+			- top right square:
+			- center square:
+			- bottom left square:
+			- bottom right square:
