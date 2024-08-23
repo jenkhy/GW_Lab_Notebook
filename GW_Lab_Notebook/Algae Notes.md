@@ -412,4 +412,7 @@ notes:
 	- counting on the hemocytometer for samples of carboys
 		- chaetoceros carboy sample 
 			- top left square: 201 cells 
-			- 
+			- top right square: 170
+			- center square: 192
+			- bottom left square: 
+			- bottom right square:
