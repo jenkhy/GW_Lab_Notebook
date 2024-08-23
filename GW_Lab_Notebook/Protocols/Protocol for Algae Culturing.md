@@ -108,6 +108,7 @@ Inoculating 
 		- Add 1.29 mL of F/2 media 
 - Adding saltwater that already has F/2 media in it to the algae
 	- For every 1000 mL of saltwater, add 1 mL of F/2 media
+	- Add this saltwater / F/2 media solution to algae culture 
 
 
 Materials for connecting culture to airway system: 
