@@ -416,3 +416,9 @@ notes:
 			- center square: 192
 			- bottom left square: 197
 			- bottom right square: 252
+		- isochrysis carboy sample
+			- top left square:  
+			- top right square: 
+			- center square: 
+			- bottom left square: 
+			- bottom right square: 
