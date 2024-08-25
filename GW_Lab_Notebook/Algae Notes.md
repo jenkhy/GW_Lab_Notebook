@@ -416,15 +416,18 @@ notes:
 			- center square: 192
 			- bottom left square: 197
 			- bottom right square: 252
+			- total cell count:
 		- isochrysis carboy sample
 			- top left square:  56
 			- top right square: 49
 			- center square: 51
 			- bottom left square: 49
 			- bottom right square: 50
+			- total cell count:
 		- tetraselmis carboy sample
 			- top left square: 39
 			- top right square: 37
 			- center square: 26
 			- bottom left square: 45
 			- bottom right square: 40
+			- total cell count:
