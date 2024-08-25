@@ -423,8 +423,8 @@ notes:
 			- bottom left square: 49
 			- bottom right square: 50
 		- tetraselmis carboy sample
-			- top left square: 
-			- top right square:
-			- center square:
-			- bottom left square:
-			- bottom right square:
+			- top left square: 39
+			- top right square: 37
+			- center square: 26
+			- bottom left square: 45
+			- bottom right square: 40
