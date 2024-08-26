@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GW_Lab_Notebook/Algae Notes.md",
+                "file": "GW_Lab_Notebook/Boys and Girls Club Outreach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GW_Lab_Notebook/Algae Notes.md",
+                "file": "GW_Lab_Notebook/Boys and Girls Club Outreach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GW_Lab_Notebook/Algae Notes.md"
+                "file": "GW_Lab_Notebook/Boys and Girls Club Outreach.md"
               }
             }
           },
@@ -179,10 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "728f9b1630cc516c",
+  "active": "b35fb61a36807dc9",
   "lastOpenFiles": [
-    "GW_Lab_Notebook/Boys and Girls Club Outreach.md",
     "GW_Lab_Notebook/Algae Notes.md",
+    "GW_Lab_Notebook/Boys and Girls Club Outreach.md",
     "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing copy.md",
     "Protocols/Protocol for Algae Culturing copy 2.md",
     "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing copy 2.md",
