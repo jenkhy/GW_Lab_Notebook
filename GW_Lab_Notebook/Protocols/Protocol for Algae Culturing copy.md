@@ -132,7 +132,7 @@ Connecting culture to airway system 
 - Turn the air pump back on and make sure the air is visibly bubbling in the flask 
 
 Using the hemocytometer to count algae cells 
-1. Use 70% ethanol for cleaning the coverslip of the hemacytometer 
+1. Use 70% ethanol for cleaning the coverslip of the hemocytometer before use
 2. Gently dry with Kimwipe 
 3. Fill a small beaker with lab glassware soap and water and fill another small beaker with DI water
 4. Without gloves, swish the hemocytometer in the beaker with soap, take it out, and use your fingers to gently rub the two chambers of the hemocytometer 

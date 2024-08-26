@@ -410,24 +410,29 @@ notes:
 8/23/2024
 - progress: 
 	- counting on the hemocytometer for samples of carboys
+	- Concentration, aka viable cells per mL = (avg # of cells per square * dilution factor * 10^4)
+	- To find avg # of cells per square = (total # of viable cells / # of squares used)
+	- For us, dilution factor will always be 1
 		- chaetoceros carboy sample 
 			- top left square: 201 cells 
 			- top right square: 170
 			- center square: 192
 			- bottom left square: 197
 			- bottom right square: 252
-			- total cell count:
+			- total cell count: 1012
+			- 1012/5
 		- isochrysis carboy sample
 			- top left square:  56
 			- top right square: 49
 			- center square: 51
 			- bottom left square: 49
 			- bottom right square: 50
-			- total cell count:
+			- total cell count: 255
 		- tetraselmis carboy sample
 			- top left square: 39
 			- top right square: 37
 			- center square: 26
 			- bottom left square: 45
 			- bottom right square: 40
-			- total cell count:
+			- total cell count: 187
+		- 
