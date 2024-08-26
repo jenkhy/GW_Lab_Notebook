@@ -420,7 +420,7 @@ notes:
 			- bottom left square: 197
 			- bottom right square: 252
 			- total cell count: 1012
-			- 1012/5
+			- (1012/5) x 10^4 = 2.024 x 10^6 cells/mL
 		- isochrysis carboy sample
 			- top left square:  56
 			- top right square: 49
@@ -428,6 +428,7 @@ notes:
 			- bottom left square: 49
 			- bottom right square: 50
 			- total cell count: 255
+			- (255/5) x 10^4 = 5.1 x 10^5 cells/mL
 		- tetraselmis carboy sample
 			- top left square: 39
 			- top right square: 37
@@ -435,4 +436,6 @@ notes:
 			- bottom left square: 45
 			- bottom right square: 40
 			- total cell count: 187
-		- 
+			- (187/5) x 10^4 = 3.74 x 10^5 cells/mL
+	- notes: 
+		- the concentration should be 10^6 cells/mL to feed to oysters, so at the moment the algae is still not concentrated enough
