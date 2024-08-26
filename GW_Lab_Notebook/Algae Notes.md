@@ -439,3 +439,6 @@ notes:
 			- (187/5) x 10^4 = 3.74 x 10^5 cells/mL
 	- notes: 
 		- the concentration should be 10^6 cells/mL to feed to oysters, so at the moment the algae is still not concentrated enough
+
+08/26/2024
+- progress: 
