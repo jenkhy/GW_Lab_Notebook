@@ -442,3 +442,11 @@ notes:
 
 08/26/2024
 - progress: 
+	- made a new stock flask for each species, so now there are three stocks of each species 
+		- tetraselmis: 35 mL of original tetraselmis in each flask with 70 mL of 25 psu saltwater + F/2 solution
+		- isochrysis: 50 mL of original isochrysis in each flask with 25 mL of 25 psu saltwater + F/2 solution
+		- chaetoceros: 70 mL of original chaetoceros in each flask with 10 mL of 20 psu saltwater + F/2 solution
+	- added more saltwater + F/2 solution to each of the carboys 
+		- tetraselmis: added about 1500 mL of 25 psu
+		- isochrysis: added about 1500 mL of 25 psu 
+		- chaetoceros: added about 3000 mL of 20 psu
