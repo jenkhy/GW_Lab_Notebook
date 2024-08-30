@@ -461,6 +461,7 @@ notes:
 	- counted algae cells in stocks 1 and 2 of each species
 	- keep in mind stock 1 has extra F/2
 		- tetraselmis 1
+			- 327/5 x 10^4 = 6.54 x 10^5
 		- tetraselmis 2
 			- spencer side of hemocytometer 
 		- isochrysis 1
