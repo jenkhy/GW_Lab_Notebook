@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
+                "file": "GW_Lab_Notebook/Algae Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
+                "file": "GW_Lab_Notebook/Algae Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
+                "file": "GW_Lab_Notebook/Algae Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md"
+                "file": "GW_Lab_Notebook/Algae Notes.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "b35fb61a36807dc9",
   "lastOpenFiles": [
-    "GW_Lab_Notebook/Algae Notes.md",
     "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
+    "GW_Lab_Notebook/Algae Notes.md",
     "GW_Lab_Notebook/Boys and Girls Club Outreach.md",
     "Protocols/Protocol for Algae Culturing copy 2.md",
     "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing copy 2.md",

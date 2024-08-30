@@ -454,3 +454,7 @@ notes:
 8/29/2024
 - progress:
 	- added 26 uL of F/2 media to stock 1 cultures only, left stock 2's and 3's as is
+
+8/30/2024
+- progress:
+	- added 258 uL f/2 to each carboy
