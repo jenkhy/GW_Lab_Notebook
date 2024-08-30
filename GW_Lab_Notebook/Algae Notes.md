@@ -464,6 +464,7 @@ notes:
 			- 327/5 x 10^4 = 6.54 x 10^5
 		- tetraselmis 2
 			- spencer side of hemocytometer 
+				- 397/5 x 10^4 = 7.94 x 10^5
 		- isochrysis 1
 		- isochrysis 2
 			- spencer side of hemocytometer 
