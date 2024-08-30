@@ -471,4 +471,4 @@ notes:
 			- spencer side of hemocytometer 
 		- chaetoceros 1 
 		- chaetoceros 2
-			- spencer side of hemocytometer 
+			- hausser side of hemocytometer 
