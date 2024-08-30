@@ -458,3 +458,14 @@ notes:
 8/30/2024
 - progress:
 	- added 258 uL f/2 to each carboy
+	- counted algae cells in stocks 1 and 2 of each species
+	- keep in mind stock 1 has extra F/2
+		- tetraselmis 1
+			- spencer side of hemocytometer 
+		- tetraselmis 2
+		- isochrysis 1
+			- spencer side of hemocytometer 
+		- isochrysis 2
+		- chaetoceros 1 
+			- spencer side of hemocytometer 
+		- chaetoceros 2
