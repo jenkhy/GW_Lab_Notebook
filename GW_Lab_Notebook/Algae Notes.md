@@ -473,6 +473,11 @@ notes:
 			- square 5:
 			- 
 		- isochrysis 2
+			- square 1: 276
+			- square 2: 308
+			- square 3: 201
+			- square 4: 
+			- square 5:
 			- spencer side of hemocytometer 
 		- chaetoceros 1 
 		- chaetoceros 2
