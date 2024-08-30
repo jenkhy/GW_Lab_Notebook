@@ -461,11 +461,11 @@ notes:
 	- counted algae cells in stocks 1 and 2 of each species
 	- keep in mind stock 1 has extra F/2
 		- tetraselmis 1
-			- spencer side of hemocytometer 
 		- tetraselmis 2
+			- spencer side of hemocytometer 
 		- isochrysis 1
-			- spencer side of hemocytometer 
 		- isochrysis 2
-		- chaetoceros 1 
 			- spencer side of hemocytometer 
+		- chaetoceros 1 
 		- chaetoceros 2
+			- spencer side of hemocytometer 
