@@ -8,8 +8,9 @@ Table of Contents:
 - Inoculating 
 - Connecting culture to airway system
 - Using hemocytometer to count algae cells / when to feed the algae to the oysters 
+- Best Concentration of Algae to Feed Oysters 
 - Making saltwater 
-- Weekly tasks
+- Weekly/Daily tasks
 
 Optimum environment by species: 
 
@@ -155,8 +156,10 @@ Using the hemocytometer to count algae cells 
 	- Concentration, aka viable cells per mL = (avg # of cells per square * dilution factor * 10^4)
 	- To find avg # of cells per square = (total # of viable cells / # of squares used)
 	- For us, dilution factor will always be 1
-- Best concentration of algae to feed oysters:
-	- 10^6 cells/mL is the best density of algae to feed the oysters, this is when the algae is in late log phase or early stationary phase
+
+Best concentration of algae to feed oysters:
+- Under 7.5 x 10^5 cells/mL is the best concentration of algae to feed the oysters, this is when the algae is in late log phase or early stationary phase
+- Do not exceed density of 7.5 x 10^5 cells/mL
 
 Materials for making saltwater: 
 - Empty instant ocean buckets 
