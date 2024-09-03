@@ -470,14 +470,14 @@ notes:
 			- square 2: 315
 			- square 3: 289
 			- square 4: 396
-			- square 5: 
-			- 
+			- square 5: 408
+			- 1679/5 x 10^4 = 3.358 x 10^6
 		- isochrysis 2
 			- square 1: 276
 			- square 2: 308
 			- square 3: 201
-			- square 4: 
-			- square 5:
+			- square 4: 358
+			- square 5: 
 			- spencer side of hemocytometer 
 		- chaetoceros 1 
 		- chaetoceros 2
