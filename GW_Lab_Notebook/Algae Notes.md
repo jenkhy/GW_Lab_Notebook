@@ -463,7 +463,6 @@ notes:
 		- tetraselmis 1
 			- 327/5 x 10^4 = 6.54 x 10^5
 		- tetraselmis 2
-			- spencer side of hemocytometer 
 			- 397/5 x 10^4 = 7.94 x 10^5
 		- isochrysis 1
 			- square 1: 271
@@ -477,8 +476,8 @@ notes:
 			- square 2: 308
 			- square 3: 201
 			- square 4: 358
-			- square 5: 
-			- spencer side of hemocytometer 
+			- square 5: 492
+			- 1635/5 x 10^4 = 3.27 x 10^6
 		- chaetoceros 1 
 		- chaetoceros 2
-			- hausser side of hemocytometer 
+		
