@@ -469,8 +469,8 @@ notes:
 			- square 1: 271
 			- square 2: 315
 			- square 3: 289
-			- square 4: 
-			- square 5:
+			- square 4: 396
+			- square 5: 
 			- 
 		- isochrysis 2
 			- square 1: 276
