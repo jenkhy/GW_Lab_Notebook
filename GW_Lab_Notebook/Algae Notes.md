@@ -481,4 +481,10 @@ notes:
 		- chaetoceros 1 
 			- 
 		- chaetoceros 2
+
+9/13/24
+- plans: 
+	- autoclave 25 psu and 20 psu saltwater on wednesdays
+	- add F/2 media into the saltwaters and add into carboys on fridays
+	- add F/2 to the stock cultures 
 		
