@@ -1,6 +1,6 @@
 The three species of algae we have are Tetraselmis chuii, Isochrysis galbana, and Chaetoceros
 
-When opening anything that has algae in it, it must be done in the biosafety cabinet
+When opening anything that has algae in it, it must be done in the biosafety cabinet, but since the algae carboys upstairs are so heavy it would be inefficient to have to carry it to a sterile workspace every time we open it. It is okay that we open the carboys very quickly to add more saltwater because we will make everything else that we will put into the carboys as sterile as possible. 
 
 Table of Contents:
 
