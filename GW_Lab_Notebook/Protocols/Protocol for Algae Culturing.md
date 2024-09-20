@@ -44,9 +44,15 @@ How to Use the Autoclave
 	- Sharpie
 	- Two 4000 mL flasks
 - Autoclaving saltwater 
-	- fill one 4000 mL flask with 3000 mL of 20 psu saltwater, this will be used for Chaetoceros
-	- fill one 4000 mL flask with 3000 mL of 25 psu saltwater, this will be used for Tetraselmis chuii/Isochrysis galbana
-	- With a sharpie and autoclave tape, label on the flask what 
+	- From the lab, gather cart, autoclave bin, two 4000 mL flasks, foil, autoclave tape, and sharpie
+	- With a sharpie and autoclave tape, label on each flask what psu saltwater will be in that flask 
+	- In autoclave room, fill one 4000 mL flask with 3000 mL of 20 psu saltwater, this will be used for Chaetoceros
+	- In autoclave room, fill one 4000 mL flask with 3000 mL of 25 psu saltwater, this will be used for Tetraselmis chuii/Isochrysis galbana
+	- Securely cover the opening of the flask with enough foil, add autoclave tape onto foil
+	- Using autoclave gloves place flasks and bin into autoclave and set autoclave to "liquid" setting
+	- Fill out autoclave log
+	- Do not pour autoclaved saltwater into algae culture immediately while saltwater is still hot, this will kill the algae, wait until the next day to use the autoclaved saltwater
+
 Materials for inoculating: 
 - Stock culture you are using 
 	- Tetraselmis chuii
@@ -77,13 +83,6 @@ Materials for inoculating: 
 
 Preparation for inoculation: 
 - Sterilization: 
-	- Autoclaving Saltwater
-		- Use large plastic beaker to pour saltwater into 4000 mL flask 
-		- If autoclaving multiple salinities of saltwater, make note of which flask contains which salinity 
-		- Cover openings of the flask with foil and autoclave tape securely
-		- Place in autoclave bin and autoclave in the autoclave on sixth floor using liquid option 
-		- Do not pour autoclaved saltwater into algae culture immediately while saltwater is still hot, this will kill the algae, wait until the next day to use the autoclaved saltwater
-
 	- Autoclaving glassware
 		- Glassware that will hold the algae culture (algae stock, saltwater, and F/2 media) must be autoclaved before algae, autoclaved saltwater, and F/2 media are put in
 		- Cover openings of empty glassware with foil and autoclave tape securely
