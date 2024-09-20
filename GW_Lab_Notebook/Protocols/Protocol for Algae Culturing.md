@@ -64,9 +64,17 @@ How to Use the Autoclave
 	- If other dry items need to be autoclaved as well, such as empty glassware, these items can be autoclaved together using gravity option
 
 Adding autoclaved saltwater with F/2 Media to Algae Carboys 
-- Materials needed 
-- After one day when autoclaved saltwater has been cooled 
-	- add 1 mL of F/2 media for every 1000 mL of saltwater
+- Materials needed for adding autoclaved saltwater with F/2 Media to Algae Carboys 
+	- F/2 media (found in manatee fridge)
+	- Biosafety cabinet
+	- Grey pipet 
+	- Disposable serological pipet tip
+	- Bleach 
+- Make sure to add F/2 media after one day when autoclaved saltwater has been cooled
+- Make sure to add this F/2 Media + Saltwater to the carboys as soon as possible after adding the F/2 media
+- In the biosafety cabinet, disinfect the work area with 10% bleach
+- Bring both flasks of saltwater and F/2 Media bottle into biosafety cabinet
+- Add 3 mL of F/2 Media to 3000 mL of each saltwater
 
 Using the hemocytometer to count algae cells 
 1. Use 70% ethanol for cleaning the coverslip of the hemocytometer before use
