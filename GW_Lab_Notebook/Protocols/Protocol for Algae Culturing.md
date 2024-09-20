@@ -7,9 +7,7 @@ Table of Contents:
 - Optimum environment by species 
 - Weekly/Daily tasks
 - How to use the autoclave
-- Materials for Inoculating
-- Inoculating 
-- Connecting culture to airway system
+- Adding saltwater with F/2 Media to Algae Carboys 
 - Using hemocytometer to count algae cells / when to feed the algae to the oysters 
 - Best Concentration of Algae to Feed Oysters 
 - Saltwater 
@@ -52,7 +50,23 @@ How to Use the Autoclave
 	- Using autoclave gloves place flasks and bin into autoclave and set autoclave to "liquid" setting
 	- Fill out autoclave log
 	- Do not pour autoclaved saltwater into algae culture immediately while saltwater is still hot, this will kill the algae, wait until the next day to use the autoclaved saltwater
+- Autoclaving glassware
+	- Glassware that will hold the algae culture (algae stock, saltwater, and F/2 media) must be autoclaved before algae, autoclaved saltwater, and F/2 media are put in
+	- Cover openings of empty glassware with foil and autoclave tape securely
+	- Place in autoclave bin and autoclave in the autoclave on sixth floor using gravity option
+	- If other dry items need to be autoclaved as well, such as rubber stopper and tubing apparatus, these items can be autoclaved together using gravity option
+- Autoclaving rubber stoppers and tubing
+	- Stopper and tubing apparatus must be autoclaved before plugging into air pump and into glassware holding the algae culture 
+	- Pull tubing through opening of rubber stopper
+	- If tubing does not fit, carve the opening with a scalpel or knife as needed 
+	- Completely wrap the stopper and tubing apparatus with foil and cover with autoclave tape 
+	- Place in autoclave bin and autoclave in the autoclave on sixth floor using gravity option 
+	- If other dry items need to be autoclaved as well, such as empty glassware, these items can be autoclaved together using gravity option
 
+Adding autoclaved saltwater with F/2 Media to Algae Carboys 
+- Materials needed 
+- After one day when autoclaved saltwater has been cooled 
+	- add 1 mL of F/2 media for every 1000 mL of saltwater
 
 Using the hemocytometer to count algae cells 
 1. Use 70% ethanol for cleaning the coverslip of the hemocytometer before use
