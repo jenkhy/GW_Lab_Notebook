@@ -5,6 +5,7 @@ When opening anything that has algae in it, it must be done in the biosafety cab
 Table of Contents:
 
 - Optimum environment by species 
+- Materials for Inoculating
 - Inoculating 
 - Connecting culture to airway system
 - Using hemocytometer to count algae cells / when to feed the algae to the oysters 
