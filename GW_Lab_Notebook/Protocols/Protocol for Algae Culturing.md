@@ -5,13 +5,15 @@ When opening anything that has algae in it, it must be done in the biosafety cab
 Table of Contents:
 
 - Optimum environment by species 
+- Weekly/Daily tasks
+- How to use the autoclave
 - Materials for Inoculating
 - Inoculating 
 - Connecting culture to airway system
 - Using hemocytometer to count algae cells / when to feed the algae to the oysters 
 - Best Concentration of Algae to Feed Oysters 
 - Making saltwater 
-- Weekly/Daily tasks
+
 
 Optimum environment by species: 
 
@@ -31,9 +33,20 @@ Optimum environment by species: 
 Weekly/Daily Tasks 
 - All cultures in flasks, carboys, etc. must be swirled at least once a day, this is to prevent self-shading and settling
 - Constantly add more saltwater with F/2 media to cultures twice a week
-- Add 26 uL 
+- Add 39 uL of F/2 media to stocks once a week
 
-
+How to Use the Autoclave
+- Materials for autoclave 
+	- Cart
+	- Autoclave bin 
+	- Foil
+	- Autoclave Tape
+	- Sharpie
+	- Two 4000 mL flasks
+- Autoclaving saltwater 
+	- fill one 4000 mL flask with 3000 mL of 20 psu saltwater, this will be used for Chaetoceros
+	- fill one 4000 mL flask with 3000 mL of 25 psu saltwater, this will be used for Tetraselmis chuii/Isochrysis galbana
+	- With a sharpie and autoclave tape, label on the flask what 
 Materials for inoculating: 
 - Stock culture you are using 
 	- Tetraselmis chuii
