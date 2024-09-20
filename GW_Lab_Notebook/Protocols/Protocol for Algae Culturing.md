@@ -28,6 +28,11 @@ Optimum environment by species: 
 		- We have 25 psu saltwater 
 
   
+Weekly/Daily Tasks 
+- All cultures in flasks, carboys, etc. must be swirled at least once a day, this is to prevent self-shading and settling
+- Constantly add more saltwater with F/2 media to cultures twice a week
+- Add 26 uL 
+
 
 Materials for inoculating: 
 - Stock culture you are using 
@@ -179,9 +184,4 @@ Making Saltwater 
 - The acceptable range for diatoms is 25-30 psu
 - Aim for a psu a little over 25 psu, this way if the psu ends up measuring a little higher it can still be in the 25-30 range rather than if we aimed for 30 psu and the psu accidentally raised to out of that 25-30 psu range
 
-Weekly/Daily Tasks 
-- All cultures in flasks, carboys, etc. must be swirled at least once a day, this is to prevent self-shading and settling
-- Constantly add more saltwater and more F/2 media to cultures 
-- Add 258 uL of F/2 media once or twice a week
-- Chaetoceros lives in 20-25 psu saltwater 
-- Tetraselmis chuii and Isochrysis galbana live in 25-30 psu saltwater
+
