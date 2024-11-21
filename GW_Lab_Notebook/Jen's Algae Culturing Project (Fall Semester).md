@@ -1,7 +1,9 @@
 Objective: Culture Algae in slants to practice culturing Perkinsus in slants 
 Question: What is the best concentration of F/2 required to yield the most efficient algae growth?
 
-
+Materials:
+- 2 plates for each algal species (there are 3 species, so 6 plates total)
+- 3 tubes for each algal species (there are 3 species, so 9 tubes toatl)
 11/21/2024
 - 2% agar solution was made 
 	- 193 mL of 25psu saltwater 
@@ -13,4 +15,5 @@ Question: What is the best concentration of F/2 required to yield the most effic
 - The tubes filled with 2% agar solution and the flask containing 120 mL of 2% agar solution were autoclaved at liquid setting for one hour 
 
 11/22/2024
-- 
+- Streaked agar plates with algae (2 plates for each algal species)
+- Placed agar plates into 
