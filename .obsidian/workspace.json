@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9642dcf352b99c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GW_Lab_Notebook/Jen's Algae Culturing Project (Fall Semester).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
+                "file": "GW_Lab_Notebook/Jen's Algae Culturing Project (Fall Semester).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
+                "file": "GW_Lab_Notebook/Jen's Algae Culturing Project (Fall Semester).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md"
+                "file": "GW_Lab_Notebook/Jen's Algae Culturing Project (Fall Semester).md"
               }
             }
           },
@@ -179,11 +191,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ef3c71858d50455",
+  "active": "a9642dcf352b99c5",
   "lastOpenFiles": [
+    "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
+    "GW_Lab_Notebook/Jen's Algae Culturing Project (Fall Semester).md",
     "GW_Lab_Notebook/Algae Notes.md",
     "GW_Lab_Notebook/Boys and Girls Club Outreach.md",
-    "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
     "Protocols/Protocol for Algae Culturing copy 2.md",
     "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing copy 2.md",
     "Protocols/Protocol for Algae Culturing copy.md",
