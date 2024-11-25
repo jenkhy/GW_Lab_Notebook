@@ -22,9 +22,10 @@ Materials:
 11/22/2024
 - Oysters from Whole foods bought on 11/21/2024 were placed in 11psu saltwater
 - Oysters will be used starting January to manipulate Perkinsus marinus
-	- Cotuit Oyster (Cotuit Bay, Massachusetts, USA)
-	- Chebooktook Oyster(Bouctouche Bay, New Brunswick, Canada)
-	- Beavertail Oyster (East Passage Narragansett Bay, RI, USA)
-	- Atlantic Blue Point Oyster (Westport and Norwalk Isles, CT, USA)
+	- Tank 5A: Beavertail Oyster (East Passage Narragansett Bay, RI, USA)
+	- Tank 5B: Chebooktook Oyster(Bouctouche Bay, New Brunswick, Canada)
+	- Tank 5C: Cotuit Oyster (Cotuit Bay, Massachusetts, USA)
+	- Tank 5D: Atlantic Blue Point Oyster (Westport and Norwalk Isles, CT, USA)
 
 11/25/2024
+- Airways were added to tanks 5A, 5B, 5C, 5D to raise DO
