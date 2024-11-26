@@ -17,7 +17,7 @@ Materials:
 
 11/21/2024
 - Streaked agar plates with algae (2 plates for each algal species)
-- Placed agar plates into 30°C incubator to incubate for four days 
+- Placed agar plates into 30°C incubator to incubate for four to five days 
 
 11/22/2024
 - Oysters from Whole foods bought on 11/21/2024 were placed in 11psu saltwater
@@ -29,3 +29,15 @@ Materials:
 
 11/25/2024
 - Airways were added to tanks 5A, 5B, 5C, 5D to raise DO
+
+11/26/2024
+- Algae agar plates were checked after five days, and the following plates may have saw the growth of algae 
+	- Tetraselmis + F/2 streaked by Jen
+	- Tetraselmis + F/2 streaked by Jade
+- Algae agar plates were checked after five days, and the following plates may have saw the growth of bacteria
+	- Isochrysis galbana + F/2 streaked by Jen
+	- Isochrysis galbana + F/2 streaked by Jade
+	- Isochrysis galbana + F/2 streaked by Jade
+	- Tetraselmis chuii + F/2 streaked by Jen
+	- Tetraselmis chuii + F/2 streaked by Jen
+	- Chaetoceros + F/2 streaked by Jade
