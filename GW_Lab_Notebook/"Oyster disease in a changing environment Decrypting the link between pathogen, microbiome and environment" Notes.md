@@ -23,4 +23,4 @@ What have I learned so far?
   
 
 possible questions to research:
-- Since P. marinus is 
+- Since P. marinus can be transmitted directly to a naive oyster via the water column, do stress factors such as irregular salinity and temperature impact how quickly P. marinus can be transmitted to a naive oyster?
