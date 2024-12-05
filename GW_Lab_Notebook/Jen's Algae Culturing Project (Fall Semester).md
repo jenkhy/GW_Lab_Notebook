@@ -41,3 +41,6 @@ Materials:
 	- Tetraselmis chuii + F/2 streaked by Jen
 	- Tetraselmis chuii + F/2 streaked by Jen
 	- Chaetoceros + F/2 streaked by Jade
+12/5/24
+- Algae may not have been growing due to high exposure to light, so algae agar plates were placed in a new light setting with a different, weaker light source in the incubator
+- 
