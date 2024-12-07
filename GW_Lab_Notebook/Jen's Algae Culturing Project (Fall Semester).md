@@ -46,3 +46,6 @@ Materials:
 
 12/6/2024
 - Autoclaved 140 mL of 2% agar solution
+
+12/7/2024
+- Poured six agar plates (two plates for each species)
