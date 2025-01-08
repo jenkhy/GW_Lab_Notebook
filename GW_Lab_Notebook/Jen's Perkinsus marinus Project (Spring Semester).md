@@ -17,7 +17,7 @@ Cell Counts for Old and New Algae Carboys
 	- Old Tetraselmis: 2.78 x 10^6 cells/mL
 	- New Tetraselmis: 7 x 10^4 cells/mL
 - Isochrysis galbana
-	- Old Isochrysis galbana: 
+	- Old Isochrysis galbana: 6.3 x 10^5 cells/mL
 		- Contaminated with Tetraselmis
 	- New Isochrysis galbana: No living isochrysis, some tetraselmis seems to have contaminated it 
 - Chaetoceros
