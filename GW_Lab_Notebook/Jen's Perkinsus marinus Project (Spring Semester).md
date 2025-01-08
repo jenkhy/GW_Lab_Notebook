@@ -1,4 +1,4 @@
-To-Do List: 
+**To-Do List:** 
 - New oysters need to be bought from Whole Foods 
 	- Four adult Cotuit Oysters from MA, USA
 	- Four adult Atlantic Blue Point Oysters from CT, USA
@@ -7,23 +7,19 @@ To-Do List:
 - Cell counts for old algae carboys and new algae carboys 
 - Read papers to learn how to use a technique for obtaining and culturing Perkinsus
 
-Oyster Meeting 1/8/2024
-- Do the tanks need to be cleaned?
-- Ordering more algae from Algae Research Supply?
-
-Cell Counts for Old and New Algae Carboys 
+**Cell Counts for Old and New Algae Carboys** 
 *Note: Best Concentration of Algae is 7.5 x 10^5 cells/mL*
 - Tetrasemis chuii 
 	- Old Tetraselmis: 2.78 x 10^6 cells/mL
 	- New Tetraselmis: 7 x 10^4 cells/mL
 - Isochrysis galbana
 	- Old Isochrysis galbana: 6.3 x 10^5 cells/mL (Tetraselmis contamination concentration)
-		- Possible Tetraselmis contamination
-	- New Isochrysis galbana: <10^4 cells/mL
+		- Tetraselmis contamination
+	- New Isochrysis galbana: <10^4 cells/mL (Tetraselmis contamination concentration)
 		- No living isochrysis
-		- Possible Tetraselmis contamination
+		- Tetraselmis contamination
 - Chaetoceros
-	- Old Chaetoceros: 3.83 x 10^6 (Chaetoceros concentration), 5 x
-		- contaminated with tetraselmis 
-	- New Chaetoceros
-		- almost completely contaminated with tetraselmis
+	- Old Chaetoceros: 3.83 x 10^6 cells/mL (Chaetoceros concentration), 5 x 10^4 cells/mL (Tetraselmis contamination concentration)
+		- Tetraselmis contamination
+	- New Chaetoceros: 9.1 x 10^5 cells/mL (Tetraselmis contamination concentration)
+		- Tetraselmis contamination
