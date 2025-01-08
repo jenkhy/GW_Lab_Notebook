@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "01c7b20a1726c28b",
@@ -245,7 +246,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef4dc6544c378966",
+  "active": "54fad8d2a6111d12",
   "lastOpenFiles": [
     "GW_Lab_Notebook/Algae Notes.md",
     "GW_Lab_Notebook/Summer Algae Notes Summary.md",
