@@ -12,12 +12,13 @@ Oyster Meeting 1/8/2024
 - Ordering more algae from Algae Research Supply?
 
 Cell Counts for Old and New Algae Carboys 
+*Note: Best Concentration of Algae is 7.5 x 10^5 cells/mL*
 - Tetrasemis chuii 
-	- Old Tetraselmis:
-	- New Tetraselmis:
+	- Old Tetraselmis: 2.78 x 10^6 cells/mL
+	- New Tetraselmis: 7 x 10^4 cells/mL
 - Isochrysis galbana
-	- Old Isochrysis galbana
-	- New Isochrysis galbana
+	- Old Isochrysis galbana: 
+	- New Isochrysis galbana: 
 - Chaetoceros
 	- Old Chaetoceros
 	- New Chaetoceros

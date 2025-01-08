@@ -88,7 +88,6 @@ Using the hemocytometer to count algae cells 
 9. In the biosafety cabinet, pipette 10 uL of algae into each of the two chambers of the hemacytometer 
 10. Count total viable cells (cells with color) in four corner squares and center square 
 11. When counting, count any cells on the bottom line and right line of each square 
-12. Count total non viable cells (cells with no color) on the bottom line and right line of each square
 
 - To clean the hemocytometer after use: 
 	- Fill a small beaker with lab glassware soap and water and fill another beaker with DI water
@@ -99,7 +98,7 @@ Using the hemocytometer to count algae cells 
 - Calculations using hemocytometer: 
 	- Concentration, aka viable cells per mL = (avg # of cells per square * dilution factor * 10^4)
 	- To find avg # of cells per square = (total # of viable cells / # of squares used)
-	- For us, dilution factor will always be 1
+	- The dilution factor will be 1 since no dyes are being used 
 
 Best concentration of algae to feed oysters:
 - Under 7.5 x 10^5 cells/mL is the best concentration of algae to feed the oysters, this is when the algae is in late log phase or early stationary phase
