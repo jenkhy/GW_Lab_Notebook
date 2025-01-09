@@ -8,7 +8,7 @@
 - Read papers to learn how to use a technique for obtaining and culturing Perkinsus
 
 **Cell Counts for Old and New Algae Carboys** 
-*Note: Best Concentration of Algae is 7.5 x 10^5 cells/mL*
+*Note: Best concentration for T. chuii is 30x10^6 cells/mL*
 - Tetrasemis chuii 
 	- Old Tetraselmis: 2.78 x 10^6 cells/mL
 	- New Tetraselmis: 7 x 10^4 cells/mL
