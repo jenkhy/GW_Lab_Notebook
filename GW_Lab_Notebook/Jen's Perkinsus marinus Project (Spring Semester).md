@@ -26,7 +26,8 @@
 
 
 **How to Identify Oysters with Perkinsus** 
-- 
+- First, incubate oyster tissue in Ray's Fluid Thioglycollate Media (RFTM) at 27°C for 5-7 days to enlarge the P. marinus cells
+- Stain oyster tissue with 2-5 drops of Lugol's Iodine under a dissecting microscope
 
 
 
