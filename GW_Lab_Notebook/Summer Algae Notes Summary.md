@@ -1,3 +1,3 @@
-- 295 mL of saltwater, 39 uL of F/2, 5 mL of algae into a 500 mL fla
-- 460 mL of saltwater, 65 uL of F/2, 40 mL of algae into a 1000 mL flask
-- 
+- 295 mL of saltwater, 39 uL of F/2, 5 mL of algae into a 500 mL flask 
+- 460 mL of saltwater, 65 uL of F/2, 40 mL of the previous inoculation into a 1000 mL flask
+- Transfer into a carboy, and add 3 L of autoclaved saltwater with 3 mL of F/2 media
