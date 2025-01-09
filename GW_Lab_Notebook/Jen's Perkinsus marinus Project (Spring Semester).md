@@ -8,16 +8,18 @@
 - Read papers to learn how to use a technique for obtaining and culturing Perkinsus
 
 **Cell Counts for Old and New Algae Carboys** 
-*Note: Best concentration for T. chuii is 30x10^6 cells/mL*
+*Note: Maximum concentration for T. chuii is 30x10^6 cells/mL*
 - Tetrasemis chuii 
 	- Old Tetraselmis: 2.78 x 10^6 cells/mL
 	- New Tetraselmis: 7 x 10^4 cells/mL
+*Note: Maximum concentration for I. galbana is 20x10^6 cells/mL*
 - Isochrysis galbana
 	- Old Isochrysis galbana: 6.3 x 10^5 cells/mL (Tetraselmis contamination concentration)
 		- Tetraselmis contamination
 	- New Isochrysis galbana: <10^4 cells/mL (Tetraselmis contamination concentration)
 		- No living isochrysis
 		- Tetraselmis contamination
+*Note: Maximum concentration for Chaetoceros is 8.88x10^6*
 - Chaetoceros
 	- Old Chaetoceros: 3.83 x 10^6 cells/mL (Chaetoceros concentration), 5 x 10^4 cells/mL (Tetraselmis contamination concentration)
 		- Tetraselmis contamination
