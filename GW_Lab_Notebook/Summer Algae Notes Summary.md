@@ -1,2 +1,3 @@
+- 295 mL of saltwater, 39 uL of F/2, 5 mL of algae into a 500 mL fla
 - 460 mL of saltwater, 65 uL of F/2, 40 mL of algae into a 1000 mL flask
 - 
