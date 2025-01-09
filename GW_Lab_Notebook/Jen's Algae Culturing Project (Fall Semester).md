@@ -3,7 +3,7 @@ Question: What is the best concentration of F/2 required to yield the most effic
 
 Materials:
 - 2 plates for each algal species (there are 3 species, so 6 plates total)
-- 3 tubes for each algal species (there are 3 species, so 9 tubes toatl)
+- 3 tubes for each algal species (there are 3 species, so 9 tubes total)
 11/20/2024
 - 2% agar solution was made 
 	- 193 mL of 25psu saltwater 
