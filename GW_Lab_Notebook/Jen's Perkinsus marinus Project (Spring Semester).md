@@ -7,6 +7,9 @@
 - Cell counts for old algae carboys and new algae carboys 
 - Read papers to learn how to use a technique for obtaining and culturing Perkinsus
 
+**Notes about P. marinus**
+- The optimum salinity for P. marinus to thrive is 25-30 ppt
+
 **Cell Counts for Old and New Algae Carboys** 
 *Note: Maximum concentration for T. chuii is 30x10^6 cells/mL*
 - Tetrasemis chuii 
@@ -31,6 +34,9 @@
 *Note to self: Keep in mind that this procedure is solely for identifying Perkinsus and is separate from culturing Perkinsus*
 - First, incubate oyster tissue in Ray's Fluid Thioglycollate Media (RFTM) at 27°C for 5-7 days to enlarge the P. marinus cells
 - Stain oyster tissue with 2-5 drops of Lugol's Iodine under a dissecting microscope
+
+Plans for Culturing Perkinsus 
+- According to *In Vitro Culture of... P. marinus: Optimization of the Methodology*, Ham's 
 
 
 
