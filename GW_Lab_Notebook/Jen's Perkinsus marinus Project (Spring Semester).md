@@ -42,8 +42,9 @@
 - First, incubate oyster tissue in Ray's Fluid Thioglycollate Media (RFTM) at 27°C for 5-7 days to enlarge the P. marinus cells
 - Stain oyster tissue with 2-5 drops of Lugol's Iodine under a dissecting microscope
 
-Plans for Culturing Perkinsus 
+**How to Culture Perkinsus** 
 - According to *In Vitro Culture of... P. marinus: Optimization of the Methodology*, Ham's F12 nutrient mixture and Dulbeco modified Eagle's base medium (DME) were used at a ratio of 2:1, respectively, to increase the growth of P. marinus
+- 
 
 
 
