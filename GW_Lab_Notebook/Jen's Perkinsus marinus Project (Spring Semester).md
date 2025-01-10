@@ -43,8 +43,15 @@
 - Stain oyster tissue with 2-5 drops of Lugol's Iodine under a dissecting microscope
 
 **How to Culture Perkinsus** 
-- According to *In Vitro Culture of... P. marinus: Optimization of the Methodology*, Ham's F12 nutrient mixture and Dulbeco modified Eagle's base medium (DME) were used at a ratio of 2:1, respectively, to increase the growth of P. marinus
-- 
+- Culture medium: 
+	- 1:1 DME (Dulbecco's modified Eagle's base medium) to Ham's F12 to increase the growth of P. marinus
+- Supplement: 
+	- FBS 10%
+	- Oyster plasma 5%
+- Buffer: 
+	- HEPES 100 mM
+- Antibiotic
+	- Penicillin G 100 U/mL
 
 
 
