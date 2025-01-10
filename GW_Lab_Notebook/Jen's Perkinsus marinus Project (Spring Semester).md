@@ -10,6 +10,9 @@
 **Notes about P. marinus**
 - The optimum salinity for P. marinus to thrive is 25-30 ppt
 
+**Streaking agar plates with Old Tetraselmis chuii Stocks** 
+- Three agar plates, each containing T. chuii from the three old stock flasks, were incubated at 
+
 **Cell Counts for Old and New Algae Carboys** 
 *Note: Maximum concentration for T. chuii is 30x10^6 cells/mL*
 - Tetrasemis chuii 
