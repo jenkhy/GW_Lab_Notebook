@@ -11,11 +11,11 @@
 - The optimum salinity for P. marinus to thrive is 25-30 ppt
 
 **Streaking agar plates with Old Tetraselmis chuii Stocks** 
-- Three agar plates, each containing T. chuii from the three old stock flasks, were incubated at 28° C
+- Three agar plates, each containing T. chuii from the three old stock flasks, were incubated at 28° C on Friday Jan 10, 2025
 	- T. chuii 1 is placed directly under the light source 
 	- T. chuii 2 and T. chuii 3 are placed above the light source and are exposed to light indirectly
 	- The light source runs on a timer
-		- Light on for 
+		- Light on for two hours, light off for two hours 
 
 **Cell Counts for Old and New Algae Carboys** 
 *Note: Maximum concentration for T. chuii is 30x10^6 cells/mL*
