@@ -43,7 +43,11 @@
 - Stain oyster tissue with 2-5 drops of Lugol's Iodine under a dissecting microscope
 
 **How to Culture Perkinsus** 
-- Culture medium: 
+1. Place finely minced oyster tissues in petri dishes (La Peyre, et al. 1993) 
+2. Wash minced tissue five times with YRW
+3. Resuspend minced tissue in a culture medium (as seen below) and place into culture flasks 
+4. Incubate cultures at 21°C 
+- Culture medium (La Peyre, et al. 1996): 
 	- 1:1 DME (Dulbecco's modified Eagle's base medium) to Ham's F12 to increase the growth of P. marinus
 - Supplement: 
 	- FBS 10%
