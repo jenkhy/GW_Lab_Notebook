@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "a2b23a7fa028c512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2ea4bd65af470ae8",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,10 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3911ce6c28dcddfb",
+  "active": "a2b23a7fa028c512",
   "lastOpenFiles": [
-    "GW_Lab_Notebook/Jen's Algae Culturing Project (Fall Semester).md",
+    "GW_Lab_Notebook/Oyster Kinds.md",
     "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
+    "GW_Lab_Notebook/Jen's Algae Culturing Project (Fall Semester).md",
     "GW_Lab_Notebook/Algae Notes.md",
     "GW_Lab_Notebook/Summer Algae Notes Summary.md",
     "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",

@@ -43,7 +43,7 @@
 - Stain oyster tissue with 2-5 drops of Lugol's Iodine under a dissecting microscope
 
 **How to Culture Perkinsus** 
-1. Place finely minced oyster tissues in petri dishes (La Peyre, et al. 1993) 
+1. Place finely minced oyster tissues in Petri dishes (La Peyre, et al. 1993) 
 2. Wash minced tissue five times with YRW
 3. Resuspend minced tissue in a culture medium (as seen below) and place into culture flasks 
 4. Incubate cultures at 21°C 
@@ -56,6 +56,11 @@
 	- HEPES 100 mM
 - Antibiotic
 	- Penicillin G 100 U/mL
+
+Protocol:
+1. Obtain an adult Beavertail Oyster
+2. Disinfect bench workspace with 70% ethanol
+3. Obtain 
 
 
 
