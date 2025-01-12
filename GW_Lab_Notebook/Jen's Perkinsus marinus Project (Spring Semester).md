@@ -58,7 +58,9 @@
 	- Penicillin G 100 U/mL
 
 Protocol for Perkinsus marinus assay:
-1. In a beaker with a stir bar, combine 14.6 g FTM powder, 10 g NaCl, and distilled water (Table 1).
+1. In a beaker with a stir bar, combine 14.6 g FTM powder, 10 g NaCl, and 485 mL distilled water
+2. Cover the flask with foil, and set heat to 55°C with stirring power at 300-400 rpm until near boiling
+3. Allow to cool briefly before adding chloramphenicol with stirring
 Protocol for culturing:
 1. Obtain an adult Beavertail Oyster
 2. Disinfect bench workspace with 70% ethanol
