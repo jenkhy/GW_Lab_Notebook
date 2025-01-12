@@ -14,8 +14,9 @@ II. RFTM inoculation with oyster tissues
 	c. Heart
 	d. Rectum
 1. Gently add 2-4 drops of nystatin suspension to inhibit fungus growth
-2. Under the biosafety cabinet, excise small pieces (3-5 mm) of oyster mantle, gill, and heart and inoculate each tissue into each respective 1.5 mL tube
-3. Cap tubes loosely, and incubate for 7 days in the dark at 27° (20°C to 30°C is effective)
+2. Obtain two 
+3. Under the biosafety cabinet, excise small pieces (3-5 mm) of the oyster mantle, gill, and heart and inoculate each tissue into each respective 1.5 mL tube
+4. Cap tubes loosely, and incubate for 7 days in the dark at 27° (20°C to 30°C is effective)
 III. RFTM assay analysis
 1. Create 30% (v/v) Lugol's iodine solution
 2. Label four microscope slides as follows, and add a small pool of 30 % (v/v) Lugol's iodine solution to each slide:
