@@ -1,7 +1,7 @@
 **To-Do List:** 
 - New oysters need to be bought from Whole Foods 
-	- Four adult Cotuit Oysters from MA, USA [[]]
-	- Four adult Atlantic Blue Point Oysters from CT, USA
+	- Four adult Cotuit Oysters from MA, USA [[Oyster Kinds]]
+	- Four adult Atlantic Blue Point Oysters from CT, USA [[Oyster Kinds]]
 - Check the algae agar plates for growth 
 - Streak an agar plate with the old Tetraselmis chuii stock 
 - Cell counts for old algae carboys and new algae carboys 
