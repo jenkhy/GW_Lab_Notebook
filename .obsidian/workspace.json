@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
+                "file": "GW_Lab_Notebook/**Notes about P. marinus**.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
+                "file": "GW_Lab_Notebook/Algae Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "01c7b20a1726c28b",
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
+                "file": "GW_Lab_Notebook/**Notes about P. marinus**.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
+                "file": "GW_Lab_Notebook/**Notes about P. marinus**.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md"
+                "file": "GW_Lab_Notebook/**Notes about P. marinus**.md"
               }
             }
           },
@@ -181,16 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2b23a7fa028c512",
+  "active": "3911ce6c28dcddfb",
   "lastOpenFiles": [
-    "GW_Lab_Notebook/Oyster Kinds.md",
-    "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
-    "GW_Lab_Notebook/Jen's Algae Culturing Project (Fall Semester).md",
     "GW_Lab_Notebook/Algae Notes.md",
+    "GW_Lab_Notebook/\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\" Notes.md",
+    "GW_Lab_Notebook/**Notes about P. marinus**.md",
+    "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
+    "GW_Lab_Notebook/Boys and Girls Club Outreach.md",
+    "GW_Lab_Notebook/Oyster Kinds.md",
+    "GW_Lab_Notebook/Jen's Algae Culturing Project (Fall Semester).md",
     "GW_Lab_Notebook/Summer Algae Notes Summary.md",
     "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
-    "GW_Lab_Notebook/Boys and Girls Club Outreach.md",
-    "GW_Lab_Notebook/\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\" Notes.md",
     "GW_Lab_Notebook/CoralNet.md",
     "Protocols/Protocol for Algae Culturing copy 2.md",
     "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing copy 2.md",

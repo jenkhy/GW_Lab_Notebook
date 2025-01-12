@@ -7,7 +7,7 @@
 - Cell counts for old algae carboys and new algae carboys 
 - Read papers to learn how to use a technique for obtaining and culturing Perkinsus
 
-**Notes about P. marinus**
+[[**Notes about P. marinus**]] 
 - The optimum salinity for P. marinus to thrive is 25-30 ppt
 
 **Streaking agar plates with Old Tetraselmis chuii Stocks** 
@@ -57,7 +57,7 @@
 - Antibiotic
 	- Penicillin G 100 U/mL
 
-Protocol for Perkinsus marinus assay:
+**Protocol for Perkinsus marinus assay:**
 I. Preparing the RFTM
 1. In a beaker with a stir bar, combine 14.6 g FTM powder, 10 g NaCl, and 485 mL distilled water
 2. Cover the flask with foil, and set heat to 55°C with stirring power at 300-400 rpm until near boiling
@@ -78,12 +78,14 @@ II. RFTM inoculation with oyster tissues
 3. Cap tubes loosely, and incubate for 7 days in the dark at 27° (20°C to 30°C is effective)
 III. RFTM assay analysis
 1. Create 30% (v/v) Lugol's iodine solution
-2. Label four microscope slides as follows, and add a small pool of Iodine solution to each slide:
+2. Label four microscope slides as follows, and add a small pool of 30 % (v/v) Lugol's iodine solution to each slide:
 	a. Mantle 
 	b. Gills
 	c. Heart
 	d. Rectum
-3. 
+3. With a clean probe, tease each tissue in the iodine solution apart, add another drop of 30 % (v/v) Lugol's iodine solution if needed, and mount a coverslip over the stained tissue
+4. Examine under microscope for spherical, blue-black *Perkinsus* sp. cells with diameters of 10-100 um
+5. Determine which oysters have Perkinsus
 	
 Protocol for culturing:
 1. Obtain an adult Beavertail Oyster
