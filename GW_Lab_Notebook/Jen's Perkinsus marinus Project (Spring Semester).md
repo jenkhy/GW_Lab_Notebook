@@ -67,14 +67,24 @@ I. Preparing the RFTM
 6. Allow RFTM to cool in a sterile environment, once they have cooled to room temp, close the bottle caps tightly
 7. Wrap RFTM in foil or tape to keep in dark at room temperature, can be used for 2-3 months, refrigeration allows for storage for a year 
 II. RFTM inoculation with oyster tissues
-1. Under the biosafety cabinet, aliquot 3 mL of RFTM into four 15 mL Falcon tubes
-2. Label the four falcon tubes as follows
+1. Under the biosafety cabinet, aliquot 1 mL of RFTM into four 1.5 mL  tubes
+2. Label the four 1.5 tubes as follows
 	a. Mantle 
 	b. Gills
-	c. Hemolymph
-	d. Heart
-3. Gently add 2-4 drops of nystatin suspension to inhibit fungus growth
-4. Under the biosafety cabinet, excise small pieces (3-5 mm) of oyster mantle, gill,  
+	c. Heart
+	d. Rectum
+1. Gently add 2-4 drops of nystatin suspension to inhibit fungus growth
+2. Under the biosafety cabinet, excise small pieces (3-5 mm) of oyster mantle, gill, and heart and inoculate each tissue into each respective 1.5 mL tube
+3. Cap tubes loosely, and incubate for 7 days in the dark at 27° (20°C to 30°C is effective)
+III. RFTM assay analysis
+1. Create 30% (v/v) Lugol's iodine solution
+2. Label four microscope slides as follows, and add a small pool of Iodine solution to each slide:
+	a. Mantle 
+	b. Gills
+	c. Heart
+	d. Rectum
+3. 
+	
 Protocol for culturing:
 1. Obtain an adult Beavertail Oyster
 2. Disinfect bench workspace with 70% ethanol
