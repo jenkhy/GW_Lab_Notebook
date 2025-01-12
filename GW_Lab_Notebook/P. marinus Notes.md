@@ -1,0 +1,1 @@
+- The optimum salinity for P. marinus to thrive is 25-30 ppt
