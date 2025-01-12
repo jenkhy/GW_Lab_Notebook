@@ -57,10 +57,17 @@
 - Antibiotic
 	- Penicillin G 100 U/mL
 
-Protocol:
+Protocol for Perkinsus marinus assay:
+1. In a beaker with a stir bar, combine 14.6 g FTM powder, 10 g NaCl, and distilled water (Table 1).
+Protocol for culturing:
 1. Obtain an adult Beavertail Oyster
 2. Disinfect bench workspace with 70% ethanol
-3. Obtain 
+3. Obtain four 1.5 mL tubes and label as follows
+	a. Mantle
+	b. Gills
+	c. Hemolymph
+	d. Heart
+4. Fill 
 
 
 
