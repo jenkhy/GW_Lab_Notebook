@@ -60,7 +60,9 @@
 Protocol for Perkinsus marinus assay:
 1. In a beaker with a stir bar, combine 14.6 g FTM powder, 10 g NaCl, and 485 mL distilled water
 2. Cover the flask with foil, and set heat to 55°C with stirring power at 300-400 rpm until near boiling
-3. Allow to cool briefly before adding chloramphenicol with stirring
+3. Allow to cool briefly before adding chloramphenicol (antibiotic) with stirring
+4. Fill (125 mL - 500 mL) autoclavable screw capped bottles to 75% capacity for room for heated RFTM, keep bottle caps loose for venting
+5. Autoclave 
 Protocol for culturing:
 1. Obtain an adult Beavertail Oyster
 2. Disinfect bench workspace with 70% ethanol
