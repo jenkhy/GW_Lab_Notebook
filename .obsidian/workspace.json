@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
+                "file": "GW_Lab_Notebook/\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\" Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GW_Lab_Notebook/\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\" Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GW_Lab_Notebook/\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\" Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GW_Lab_Notebook/\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\" Notes.md"
+              }
             }
           },
           {
@@ -176,16 +180,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c642bc0bf301497c",
+  "active": "3911ce6c28dcddfb",
   "lastOpenFiles": [
-    "GW_Lab_Notebook/Summer Algae Notes Summary.md",
+    "GW_Lab_Notebook/Algae Notes.md",
     "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
+    "GW_Lab_Notebook/Summer Algae Notes Summary.md",
     "Algae Culturing Protocol updated.md",
     "GW_Lab_Notebook/Protocols/Protocol for Culturing Perkinsus.md",
     "GW_Lab_Notebook/Protocols/Protocol for Perkinsus marinus Assay.md",
     "GW_Lab_Notebook/Oyster Kinds.md",
     "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
-    "GW_Lab_Notebook/Algae Notes.md",
     "GW_Lab_Notebook/\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\" Notes.md",
     "GW_Lab_Notebook/P. marinus Notes.md",
     "GW_Lab_Notebook/Boys and Girls Club Outreach.md",
