@@ -82,7 +82,11 @@ _______________________________________________________________________
 	- The dilution factor will be 1 since no dyes are being used 
 
 #CulturingAlgaeFromStocks 
-- Obtain f
+- Obtain algae starter cultures 
+- Create a stock culture
+	- Autoclave 295 mL of saltwater in a 500 mL flask
+	- Under a biosafety cabinet, add 39 uL of F/2 media and 5 mL of algae to the flask of autoclaved saltwater
+- After one week, add 65 uL of F/2 media to the flask of autoclaved saltwater 
 		
 		
 
