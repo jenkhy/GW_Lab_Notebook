@@ -86,10 +86,15 @@ _______________________________________________________________________
 2. Create a stock culture
 	- In a 500 mL flask, autoclave 295 mL of saltwater at liquid setting 
 	- Under a biosafety cabinet when the autoclaved saltwater has cooled to room temperature (takes one day), add 39 uL of F/2 media and 5 mL of algae to the 500 mL flask of autoclaved saltwater
-3. After one week, add 65 uL of F/2 media to the flask of autoclaved saltwater under the biosafety cabinet
-4. After three days, move the algae in the 500 mL flask to a 1000 mL flask 
+3. After one week, add 65 uL of F/2 media to the 500 mL flask under the biosafety cabinet
+4. After three days, transfer the contents in the 500 mL flask to a 1000 mL flask:
 	- In a 1000 mL flask, autoclave 460 mL of saltwater at liquid setting 
-	- Under a biosafety cabinet when the autoclaved saltwater has cooled to room temperature (takes one day), add 65 uL of F/2 and 40 mL of algae to the 1000 mL flask of autoclaved saltwater
+	- Under a biosafety cabinet when the autoclaved saltwater has cooled to room temperature (takes one day), add 65 uL of F/2 and 40 mL of the contents in the 500 mL flask to the 1000 mL flask of autoclaved saltwater
+5. After one week, add 65 uL of F/2 media to the 1000 mL flask under the biosafety cabinet
+6. After three days, transfer the contents in the 1000 mL flask to a 20 L carboy:
+	- In a 4000 mL flask, autoclave 3000 mL of saltwater
+	- Under a biosafety cabinet when the autoclaved saltwater has cooled to room temperature (takes one day), add 3 mL of F/2 media 
+	- 
 		
 		
 
