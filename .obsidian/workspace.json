@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CulturingAlgaeFromStocks",
+                "query": "tag:#Weekly/DailyTasks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

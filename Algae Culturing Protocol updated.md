@@ -2,7 +2,7 @@ Table of Contents:
 - #AlgaeSpecies 
 	- Optimum environment by species
 	- Best Concentration of Algae to feed oysters 
-- #Weekly/DailyTasks
+- #Monthly/Weekly/DailyTasks 
 	- Adding F/2 media + saltwater to algae carboys 
 - #UsingHemocytometer 
 - #CulturingAlgaeFromStocks
@@ -32,12 +32,52 @@ Table of Contents:
 		- Flagellates (Isochrysis galbana and Tetraselmis chuii)
 			- 25-30 psu
 			- Use 25 psu saltwater
-	#Weekly/DailyTasks 
+- The maximum concentration of algae to feed oysters before algae population crashes (Use #UsingHemocytometer  to determine concentration)
+	- Tetraselmis chuii
+		- 30 x 10^6 cells/mL
+	- Isochrysis galbana
+		- 20 x10^6 cells/mL
+	- Chaetoceros
+		- 8.88 x 10^6 cells/mL
+	#Monthly/Weekly/DailyTasks 
 	-  All algae cultures in flasks and carboys must be swirled once a day to prevent self-shading and settling
+	- Making saltwater once a month/ whenever saltwater runs out
+		- Materials for making saltwater:
+			- Empty Buckets
+			- Instant Ocean (Salt)
+			- DI Water
+			- Orion Star Meter
+			- Stirrer
+		- Calibrate the Orion Star Meter 
+		- Fill a bucket with DI water leaving about four inches of space before the bucket fills for room to stir 
+		- Add Instant Ocean salt while continuously measuring the salinity with the Orion Star Meter 
+		- Hit measure to read the salinity levels, 
 	- Add saltwater + F/2 media to algae carboys three times a week
 		- Autoclave approximately 3000 mL of saltwater 
 		- When autoclaved saltwater is cooled the next day, add 3 mL of F/2 media under a sterile biosafety cabinet
 		- Pour saltwater + F/2 media mixture into algae carboy
 	#UsingHemocytometer 
+1. Use 70% ethanol for cleaning the coverslip of the hemocytometer before use
+2. Gently dry with Kimwipe 
+3. Fill a small beaker with lab glassware soap and water and fill another small beaker with DI water
+4. Without gloves, swish the hemocytometer in the beaker with soap, take it out, and use your fingers to gently rub the two chambers of the hemocytometer 
+5. Repeat swishing the hemocytometer into the soap and gently rubbing with your fingers four times, and after rubbing for the fourth time, swish the hemocytometer in the soap solution one last time and do not touch the surface of the device again as this will leave finger oil droplets that will interfere with the cell count 
+6. Rinse the hemocytometer under tap water
+7. Swish the hemocytometer in the beaker with DI water 
+8. Use Kimwipes to dry the hemocytometer with gentle wiping movements 
+9. In the biosafety cabinet, pipette 10 uL of algae into each of the two chambers of the hemacytometer 
+10. Count total viable cells (cells with color) in four corner squares and center square 
+11. When counting, count any cells on the bottom line and right line of each square 
+
+- To clean the hemocytometer after use: 
+	- Fill a small beaker with lab glassware soap and water and fill another beaker with DI water
+	- Without gloves, swish the hemoctometer in the beaker with soap, take it out, and use your fingers to gently rub the two chambers of the hemocytometer
+	- Repeat swishing the hemocytometer into the soap and gently rubbing your fingers four times, and after rubbing for the fourth time, swish the hemocytometer in the soap solution one last time and do not touch the surface of the device again as this will leave finger oil droplets that will interfere with the cell count
+	- Do the same with the cover slip of the hemocytometer
+
+- Calculations using hemocytometer: 
+	- Concentration, aka viable cells per mL = (avg # of cells per square * dilution factor * 10^4)
+	- To find avg # of cells per square = (total # of viable cells / # of squares used)
+	- The dilution factor will be 1 since no dyes are being used 
 		
 		
