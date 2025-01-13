@@ -5,7 +5,7 @@ I. Preparing the RFTM
 4. Fill (125 mL - 500 mL) autoclavable screw capped bottles to 75% capacity for room for heated RFTM, keep bottle caps loose for venting
 5. Autoclave RFTM at 121°C for 20 minutes
 6. Allow RFTM to cool in a sterile environment, once they have cooled to room temp, close the bottle caps tightly
-7. Wrap RFTM in foil or tape to keep in dark at room temperature, can be used for 2-3 months, refrigeration allows for storage for a year 
+7. Wrap RFTM in foil or tape to keep in the dark at room temperature, can be used for 2-3 months, refrigeration allows for storage for a year 
 II. RFTM inoculation with oyster tissues
 1. Under the biosafety cabinet, aliquot 1 mL of RFTM into four 1.5 mL  tubes
 2. Label the four 1.5 tubes as follows

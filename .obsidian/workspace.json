@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GW_Lab_Notebook/Protocols/Protocol for Culturing Perkinsus.md",
+                "file": "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,6 +32,37 @@
             }
           }
         ]
+      },
+      {
+        "id": "9ae369745886b145",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdbc3acec9719ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbedf6b2383e5427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algae Culturing Protocol updated.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GW_Lab_Notebook/Protocols/Protocol for Culturing Perkinsus.md",
+                "file": "Algae Culturing Protocol updated.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GW_Lab_Notebook/Protocols/Protocol for Culturing Perkinsus.md",
+                "file": "Algae Culturing Protocol updated.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GW_Lab_Notebook/Protocols/Protocol for Culturing Perkinsus.md"
+                "file": "Algae Culturing Protocol updated.md"
               }
             }
           },
@@ -167,19 +198,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3911ce6c28dcddfb",
+  "active": "dbedf6b2383e5427",
   "lastOpenFiles": [
+    "Algae Culturing Protocol updated.md",
+    "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
+    "GW_Lab_Notebook/Protocols/Protocol for Culturing Perkinsus.md",
     "GW_Lab_Notebook/Protocols/Protocol for Perkinsus marinus Assay.md",
     "GW_Lab_Notebook/Oyster Kinds.md",
     "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
     "GW_Lab_Notebook/Algae Notes.md",
     "GW_Lab_Notebook/\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\" Notes.md",
-    "GW_Lab_Notebook/Protocols/Protocol for Culturing Perkinsus.md",
     "GW_Lab_Notebook/P. marinus Notes.md",
     "GW_Lab_Notebook/Boys and Girls Club Outreach.md",
     "GW_Lab_Notebook/Jen's Algae Culturing Project (Fall Semester).md",
     "GW_Lab_Notebook/Summer Algae Notes Summary.md",
-    "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
     "GW_Lab_Notebook/CoralNet.md",
     "Protocols/Protocol for Algae Culturing copy 2.md",
     "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing copy 2.md",
