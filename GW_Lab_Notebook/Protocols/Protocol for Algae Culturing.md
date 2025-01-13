@@ -82,11 +82,14 @@ _______________________________________________________________________
 	- The dilution factor will be 1 since no dyes are being used 
 
 #CulturingAlgaeFromStocks 
-- Obtain algae starter cultures 
-- Create a stock culture
-	- Autoclave 295 mL of saltwater in a 500 mL flask
-	- Under a biosafety cabinet, add 39 uL of F/2 media and 5 mL of algae to the flask of autoclaved saltwater
-- After one week, add 65 uL of F/2 media to the flask of autoclaved saltwater 
+1. Obtain algae starter cultures 
+2. Create a stock culture
+	- In a 500 mL flask, autoclave 295 mL of saltwater at liquid setting 
+	- Under a biosafety cabinet when the autoclaved saltwater has cooled to room temperature (takes one day), add 39 uL of F/2 media and 5 mL of algae to the 500 mL flask of autoclaved saltwater
+3. After one week, add 65 uL of F/2 media to the flask of autoclaved saltwater under the biosafety cabinet
+4. After three days, move the algae in the 500 mL flask to a 1000 mL flask 
+	- In a 1000 mL flask, autoclave 460 mL of saltwater at liquid setting 
+	- Under a biosafety cabinet when the autoclaved saltwater has cooled to room temperature (takes one day), add 65 uL of F/2 and 40 mL of algae to the 1000 mL flask of autoclaved saltwater
 		
 		
 
