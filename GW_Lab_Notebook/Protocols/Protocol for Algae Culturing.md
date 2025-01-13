@@ -1,12 +1,29 @@
 Table of Contents:
+- #CulturingAlgaeFromStocks
 - #AlgaeSpecies 
 	- Optimum environment by species
 	- Best Concentration of Algae to feed oysters 
 - #Monthly/Weekly/DailyTasks 
 	- Adding F/2 media + saltwater to algae carboys 
 - #UsingHemocytometer 
-- #CulturingAlgaeFromStocks
+
 _______________________________________________________________________
+
+#CulturingAlgaeFromStocks 
+1. Obtain algae starter cultures 
+2. Create a stock culture
+	- In a 500 mL flask, autoclave 295 mL of saltwater at liquid setting 
+	- Under a biosafety cabinet when the autoclaved saltwater has cooled to room temperature (takes one day), add 39 uL of F/2 media and 5 mL of algae to the 500 mL flask of autoclaved saltwater
+3. After one week, add 65 uL of F/2 media to the 500 mL flask under the biosafety cabinet
+4. After three days, transfer the contents in the 500 mL flask to a 1000 mL flask:
+	- In a 1000 mL flask, autoclave 460 mL of saltwater at liquid setting 
+	- Under a biosafety cabinet when the autoclaved saltwater has cooled to room temperature (takes one day), add 65 uL of F/2 and 40 mL of the contents in the 500 mL flask to the 1000 mL flask of autoclaved saltwater
+5. After one week, add 65 uL of F/2 media to the 1000 mL flask under the biosafety cabinet
+6. After three days, transfer the contents in the 1000 mL flask to a 20 L carboy:
+	- In a 4000 mL flask, autoclave 3000 mL of saltwater
+	- Under a biosafety cabinet when the autoclaved saltwater has cooled to room temperature (takes one day), add 3 mL of F/2 media and the contents of the 1000 mL flask
+7. Three times a week, add 3000 mL of autoclaved saltwater + 3 mL of F/2 media to algae carboy in a sterile environment
+	- This can be done more often as needed 
 
 #AlgaeSpecies 
 - We currently have three species of algae:
@@ -40,6 +57,7 @@ _______________________________________________________________________
 		- 20 x10^6 cells/mL
 	- Chaetoceros
 		- 8.88 x 10^6 cells/mL
+
 	#Monthly/Weekly/DailyTasks 
 	-  All algae cultures in flasks and carboys must be swirled once a day to prevent self-shading and settling
 	- Making saltwater once a month/ whenever saltwater runs out
@@ -57,6 +75,7 @@ _______________________________________________________________________
 		- Autoclave approximately 3000 mL of saltwater 
 		- When autoclaved saltwater is cooled the next day, add 3 mL of F/2 media under a sterile biosafety cabinet
 		- Pour saltwater + F/2 media mixture into algae carboy
+
 	#UsingHemocytometer 
 1. Use 70% ethanol for cleaning the coverslip of the hemocytometer before use
 2. Gently dry with Kimwipe 
@@ -80,22 +99,6 @@ _______________________________________________________________________
 	- Concentration, aka viable cells per mL = (avg # of cells per square * dilution factor * 10^4)
 	- To find avg # of cells per square = (total # of viable cells / # of squares used)
 	- The dilution factor will be 1 since no dyes are being used 
-
-#CulturingAlgaeFromStocks 
-1. Obtain algae starter cultures 
-2. Create a stock culture
-	- In a 500 mL flask, autoclave 295 mL of saltwater at liquid setting 
-	- Under a biosafety cabinet when the autoclaved saltwater has cooled to room temperature (takes one day), add 39 uL of F/2 media and 5 mL of algae to the 500 mL flask of autoclaved saltwater
-3. After one week, add 65 uL of F/2 media to the 500 mL flask under the biosafety cabinet
-4. After three days, transfer the contents in the 500 mL flask to a 1000 mL flask:
-	- In a 1000 mL flask, autoclave 460 mL of saltwater at liquid setting 
-	- Under a biosafety cabinet when the autoclaved saltwater has cooled to room temperature (takes one day), add 65 uL of F/2 and 40 mL of the contents in the 500 mL flask to the 1000 mL flask of autoclaved saltwater
-5. After one week, add 65 uL of F/2 media to the 1000 mL flask under the biosafety cabinet
-6. After three days, transfer the contents in the 1000 mL flask to a 20 L carboy:
-	- In a 4000 mL flask, autoclave 3000 mL of saltwater
-	- Under a biosafety cabinet when the autoclaved saltwater has cooled to room temperature (takes one day), add 3 mL of F/2 media and the contents of the 1000 mL flask
-7. Three times a week, add 3000 mL of autoclaved saltwater + 3 mL of F/2 media to algae carboy in a sterile environment
-	- This can be done more often as needed 
 		
 		
 
