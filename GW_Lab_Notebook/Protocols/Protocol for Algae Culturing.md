@@ -93,7 +93,8 @@ _______________________________________________________________________
 5. After one week, add 65 uL of F/2 media to the 1000 mL flask under the biosafety cabinet
 6. After three days, transfer the contents in the 1000 mL flask to a 20 L carboy:
 	- In a 4000 mL flask, autoclave 3000 mL of saltwater
-	- Under a biosafety cabinet when the autoclaved saltwater has cooled to room temperature (takes one day), add 3 mL of F/2 media 
+	- Under a biosafety cabinet when the autoclaved saltwater has cooled to room temperature (takes one day), add 3 mL of F/2 media and the contents of the 1000 mL flask
+7. Three times a week, add 3000 mL of autoclaved saltwater + 3 mL of F/2 media to algae carboy in a sterile environment 
 	- 
 		
 		
