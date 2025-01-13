@@ -32,6 +32,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "cb853c1efd5bd1c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c642bc0bf301497c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GW_Lab_Notebook/Summer Algae Notes Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,8 +95,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,8 +186,9 @@
   },
   "active": "3911ce6c28dcddfb",
   "lastOpenFiles": [
-    "Algae Culturing Protocol updated.md",
+    "GW_Lab_Notebook/Summer Algae Notes Summary.md",
     "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
+    "Algae Culturing Protocol updated.md",
     "GW_Lab_Notebook/Protocols/Protocol for Culturing Perkinsus.md",
     "GW_Lab_Notebook/Protocols/Protocol for Perkinsus marinus Assay.md",
     "GW_Lab_Notebook/Oyster Kinds.md",
@@ -180,7 +198,6 @@
     "GW_Lab_Notebook/P. marinus Notes.md",
     "GW_Lab_Notebook/Boys and Girls Club Outreach.md",
     "GW_Lab_Notebook/Jen's Algae Culturing Project (Fall Semester).md",
-    "GW_Lab_Notebook/Summer Algae Notes Summary.md",
     "GW_Lab_Notebook/CoralNet.md",
     "Protocols/Protocol for Algae Culturing copy 2.md",
     "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing copy 2.md",

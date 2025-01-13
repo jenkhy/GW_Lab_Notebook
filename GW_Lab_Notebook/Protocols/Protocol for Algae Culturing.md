@@ -82,7 +82,7 @@ _______________________________________________________________________
 	- The dilution factor will be 1 since no dyes are being used 
 
 #CulturingAlgaeFromStocks 
-
+- Obtain f
 		
 		
 
