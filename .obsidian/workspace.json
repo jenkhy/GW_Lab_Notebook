@@ -32,37 +32,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "9ae369745886b145",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bdbc3acec9719ae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbedf6b2383e5427",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algae Culturing Protocol updated.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Weekly/DailyTasks",
+                "query": "tag:#Monthly/Weekly/DailyTasks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algae Culturing Protocol updated.md",
+                "file": "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algae Culturing Protocol updated.md",
+                "file": "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algae Culturing Protocol updated.md"
+                "file": "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md"
               }
             }
           },
@@ -186,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,10 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbedf6b2383e5427",
+  "active": "3911ce6c28dcddfb",
   "lastOpenFiles": [
-    "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
     "Algae Culturing Protocol updated.md",
+    "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
     "GW_Lab_Notebook/Protocols/Protocol for Culturing Perkinsus.md",
     "GW_Lab_Notebook/Protocols/Protocol for Perkinsus marinus Assay.md",
     "GW_Lab_Notebook/Oyster Kinds.md",
