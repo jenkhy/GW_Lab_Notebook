@@ -2,9 +2,10 @@ Table of Contents:
 - #AlgaeSpecies 
 	- Optimum environment by species
 	- Best Concentration of Algae to feed oysters 
-- Weekly/Daily Tasks
+- #Weekly/DailyTasks
 	- Adding F/2 media + saltwater to algae carboys 
-- Using a hemocytometer to count algae cells
+- #UsingHemocytometer 
+- #CulturingAlgaeFromStocks
 
 #AlgaeSpecies 
 - We currently have three species of algae:
@@ -27,8 +28,16 @@ Table of Contents:
 	- Optimum salinity for algae 
 		- Diatoms (Chaetoceros)
 			- 20-25 psu
-			- We have 20 psu saltwater 
-	- Flagellates (Isochrysis galbana and Tetraselmis Chuii)
+			- Use 20 psu saltwater
+		- Flagellates (Isochrysis galbana and Tetraselmis chuii)
 			- 25-30 psu
+			- Use 25 psu saltwater
+	#Weekly/DailyTasks 
+	-  All algae cultures in flasks and carboys must be swirled once a day to prevent self-shading and settling
+	- Add saltwater + F/2 media to algae carboys three times a week
+		- Autoclave approximately 3000 mL of saltwater 
+		- When autoclaved saltwater is cooled the next day, add 3 mL of F/2 media under a sterile biosafety cabinet
+		- Pour saltwater + F/2 media mixture into algae carboy
+	#UsingHemocytometer 
 		
 		
