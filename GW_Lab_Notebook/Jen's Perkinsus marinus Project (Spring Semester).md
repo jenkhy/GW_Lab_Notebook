@@ -16,6 +16,8 @@
 	- T. chuii 2 and T. chuii 3 are placed above the light source and are exposed to light indirectly
 	- The light source runs on a timer
 		- Light on for two hours, light off for two hours 
+- Plates were examined on Monday, January 13, 2025
+	- White growth was observed on T. chuii 2 and T. chuii 3 plates
 
 **Cell Counts for Old and New Algae Carboys** 
 *Note: Maximum concentration for T. chuii is 30x10^6 cells/mL*
