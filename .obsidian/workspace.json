@@ -13,25 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
+                "file": "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ca0d0f0179bd8b03",
+            "id": "e5ef904756a2912c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GW_Lab_Notebook/Oyster Kinds.md",
+                "file": "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,40 +168,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3911ce6c28dcddfb",
+  "active": "e5ef904756a2912c",
   "lastOpenFiles": [
-    "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
-    "GW_Lab_Notebook/\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\" Notes.md",
-    "GW_Lab_Notebook/Algae Notes.md",
-    "GW_Lab_Notebook/Summer Algae Notes Summary.md",
-    "Algae Culturing Protocol updated.md",
-    "GW_Lab_Notebook/Protocols/Protocol for Culturing Perkinsus.md",
+    "Protocol for Dissecting Oyster.md",
     "GW_Lab_Notebook/Protocols/Protocol for Perkinsus marinus Assay.md",
-    "GW_Lab_Notebook/Oyster Kinds.md",
+    "GW_Lab_Notebook/Protocols/Protocol for Homogenizing Oyster Samples.md",
     "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
-    "GW_Lab_Notebook/P. marinus Notes.md",
-    "GW_Lab_Notebook/Boys and Girls Club Outreach.md",
-    "GW_Lab_Notebook/Jen's Algae Culturing Project (Fall Semester).md",
-    "GW_Lab_Notebook/CoralNet.md",
-    "Protocols/Protocol for Algae Culturing copy 2.md",
-    "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing copy 2.md",
-    "Protocols/Protocol for Algae Culturing copy.md",
-    "Protocols/Protocol for Algae Culturing.md",
+    "GW_Lab_Notebook/Protocols/Protocol for RFTM Assay of Perkinsus marinus.md",
+    "GW_Lab_Notebook/Protocols/Protocol for Culturing Perkinsus.md",
+    "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
+    "GW_Lab_Notebook/Oyster Kinds.md",
+    "SMART Goals Spring 2025.md",
     "Protocols/TBE_Buffer_Protocol.md",
-    "Protocols/README.md",
+    "Protocols/Protocol for Algae Culturing copy 2.md",
     "Protocols/Obsidian2GitHub-tutorial.md",
     "Protocols/Microbiome-enrichment.md",
     "Protocols/DNA-Extraction",
     "Protocols/ATAC-seq protocol.md",
     "Protocols/16S_library_prep.md",
-    "Protocols",
-    "Untitled",
-    "README.md",
-    "GWLabNotebook",
-    "GWLab_Notebook",
-    "GW-Lab-Notebook",
-    "Boys and Girls Club Outreach.md",
-    "GW_Lab_Notebook",
-    "GW_Lab_Notebook/Protocols"
+    "GW_Lab_Notebook/P. marinus Notes.md",
+    "conflict-files-obsidian-git.md",
+    "Oyster Room Cleaning.md",
+    "GW_Lab_Notebook/Algae Notes.md",
+    "GW_Lab_Notebook/\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\" Notes.md",
+    "Protocols/Wetlab/Using_Orion.md",
+    "Protocols/Wetlab/Algae-Culturing.md",
+    "Protocols/Wetlab",
+    "Protocols/Molecular_labwork/Trizol RNA and DNA Extraction Protocol.md",
+    "Protocols/Molecular_labwork/TBE_Buffer_Protocol.md",
+    "Protocols/Molecular_labwork/Microbiome-enrichment.md",
+    "Protocols/Molecular_labwork/DNA-Extraction",
+    "Protocols/Molecular_labwork/ATAC-seq protocol.md",
+    "Protocols/Molecular_labwork",
+    "Protocols/Fieldwork/WhiteBalancing_OlympusT6_T7.pdf",
+    "Protocols/Fieldwork/UnderwaterPrintableWhiteBalancing_OlympusT6_T7.pdf",
+    "Protocols/Fieldwork/SCTLDResamplingProtocol.pdf",
+    "Protocols/Fieldwork/SCTLDPackingList_EstablishedSite .pdf",
+    "Protocols/Fieldwork/FieldDataManagementProtocol.pdf",
+    "Protocols/Fieldwork/AssessingHealthStatus.pdf"
   ]
 }
