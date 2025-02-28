@@ -1,4 +1,4 @@
-B,**Oyster kinds** 
+**Oyster kinds** 
 
 Cotuit Oyster 
 - Cotuit Bay, Massachusetts, USA
