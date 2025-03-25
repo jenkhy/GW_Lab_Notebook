@@ -27,3 +27,4 @@
 - Is there a way to cure the disease 
 - how much perkinsus until it affects an oyster 
 - how large are the perkinsus cells normally and how large are they when the rftm enlarges them?
+- what are the magnifications of the shown images?
