@@ -41,19 +41,10 @@
 
 [[Protocol for Perkinsus marinus Assay]]
 
-[[Protocol for Culturing Perkinsus]]
-
-**How to Culture Perkinsus** 
-1. Place finely minced oyster tissues in Petri dishes (La Peyre, et al. 1993) 
-2. Wash minced tissue five times with YRW
-3. Resuspend minced tissue in a culture medium (as seen below) and place into culture flasks 
-4. Incubate cultures at 21°C 
-- Culture medium (La Peyre, et al. 1996): 
-	- 1:1 DME (Dulbecco's modified Eagle's base medium) to Ham's F12 to increase the growth of P. marinus
-- Supplement: 
-	- FBS 10%
-	- Oyster plasma 5%
-- Buffer: 
-	- HEPES 100 mM
-- Antibiotic
-	- Penicillin G 100 U/mL
+3/27/2025
+- 1 L of Perkinsus Broth Media (PBM) was made using:
+	- 16 g/L saltwater with instant ocean
+	- 4.2 g/L DME
+	- 5.4 g/L Ham's F12
+	- 0.15 g/L L-glutamine
+- PBM was filtered through a 0.22 um filter and kept in a sterile container 
