@@ -1,21 +1,20 @@
 **Questions people may ask at symposium:**
 
-- What areas is the eastern oyster found in?
 - Can the pathogen be transmitted to humans?
-- How common is this pathogen?
-- When is it most prevalent? What time of the year?
+	- No
 - Are oysters alive when you buy them/when you shuck them?
+	- Yes
 - How was the pathogen discovered?
+	- The pathogen was discovered in the Gulf of Mexico in the 1940s after their were mass mortalities of oysters there
 - Is there a certain area where the pathogen is most prevalent?
-- Is there an area where the pathogen is not prevalent?
+	- Not necessarily in any area along the East coast of Canada, America, and Mexico, but it might be found more during its season 
 - What is the lowest and highest salinity oysters can thrive in?
-
-- Oysters can survive in 5 ppt to 35 ppt, but their ideal range is 10 ppt to 28 ppt 
+	- Oysters can survive in as low as 5 ppt and as high as 35 ppt
+	- The ideal salinity for oysters is 10 ppt to 28 ppt
 
 - What is the lowest and highest salinity the pathogen can thrive in?
-
-- P. marinus can thrive in as low as 9 ppt salinity
-
+	- P. marinus can thrive in as low as 9 ppt salinity
+	- P. marinus can thrive in as high as 35 C
 - What are some reasons for oyster death?
 
 	- too high or too low temperatures, ideal range is 15 to 25 C
