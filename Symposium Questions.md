@@ -26,4 +26,5 @@
 - Is there a way to cure the disease 
 - how much perkinsus until it affects an oyster 
 - how large are the perkinsus cells normally and how large are they when the rftm enlarges them?
+	- perkinsus cells are 2-15 um
 - what are the magnifications of the shown images?
