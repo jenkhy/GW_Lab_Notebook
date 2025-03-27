@@ -13,10 +13,10 @@
 	- The ideal salinity for oysters is 10 ppt to 28 ppt
 
 - What is the lowest and highest salinity the pathogen can thrive in?
+	- Optimal temp of perkinsus is 28-32 C
 	- P. marinus can thrive in as low as 9 ppt salinity
 	- P. marinus can thrive in as high as 35 C
 - What are some reasons for oyster death?
-
 	- too high or too low temperatures, ideal range is 15 to 25 C
 	- too high or too low salinity 10 to 28 ppt
 	- pH levels, ideal is 7-9
