@@ -28,3 +28,4 @@
 - how large are the perkinsus cells normally and how large are they when the rftm enlarges them?
 	- perkinsus cells are 2-15 um
 - what are the magnifications of the shown images?
+- What are the oysters in the other tanks going to be used for?
