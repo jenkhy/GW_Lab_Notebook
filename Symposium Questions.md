@@ -8,14 +8,16 @@
 	- The pathogen was discovered in the Gulf of Mexico in the 1940s after their were mass mortalities of oysters there
 - Is there a certain area where the pathogen is most prevalent?
 	- Not necessarily in any area along the East coast of Canada, America, and Mexico, but it might be found more during its season 
-- What is the lowest and highest salinity oysters can thrive in?
-	- Oysters can survive in as low as 5 ppt and as high as 35 ppt
+- Salinity for oysters?
 	- The ideal salinity for oysters is 10 ppt to 28 ppt
+	- Oysters can survive in as low as 5 ppt and as high as 35 ppt
+- Temperature for oysters?
+	- 15 to 25 C
 
-- What is the lowest and highest salinity the pathogen can thrive in?
-	- Optimal temp of perkinsus is 28-32 C
+- Salinity for P. marinus?
 	- P. marinus can thrive in as low as 9 ppt salinity
 	- P. marinus can thrive in as high as 35 C
+- Temperature for 
 - What are some reasons for oyster death?
 	- too high or too low temperatures, ideal range is 15 to 25 C
 	- too high or too low salinity 10 to 28 ppt
