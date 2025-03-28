@@ -42,9 +42,12 @@
 [[Protocol for Perkinsus marinus Assay]]
 
 3/27/2025
-- 1 L of Perkinsus Broth Media (PBM) was made using:
+- 1 L of Perkinsus Culturing Media (PCM) was made using:
 	- 16 g/L saltwater with instant ocean
 	- 4.2 g/L DME
 	- 5.4 g/L Ham's F12
 	- 0.15 g/L L-glutamine
-- PBM was filtered through a 0.22 um filter and kept in a sterile container 
+	- 0.015 g/L Glycine betaine 
+	- 0.5 g/L glucose
+	- 0.65 g/L Sodium bicarbonate
+- PCM was filtered through a 0.22 um filter, transferred into a sterile container, and kept in a 4°C fridge
