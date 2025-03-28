@@ -15,9 +15,9 @@
 	- 15 to 25 C
 
 - Salinity for P. marinus?
-	- P. marinus can thrive in as low as 9 ppt salinity
-	- P. marinus can thrive in as high as 35 C
-- Temperature for 
+	- P. marinus 
+- Temperature for P. marinus
+	- The optimal temp of Perkinsus is 28-32 C
 - What are some reasons for oyster death?
 	- too high or too low temperatures, ideal range is 15 to 25 C
 	- too high or too low salinity 10 to 28 ppt
