@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symposium Questions.md",
+                "file": "GW_Lab_Notebook/P. marinus Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Symposium Questions"
+              "title": "P. marinus Notes"
             }
           }
         ],
@@ -196,9 +196,9 @@
   },
   "active": "358dd50eda2aa5a2",
   "lastOpenFiles": [
+    "Symposium Questions.md",
     "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
     "GW_Lab_Notebook/P. marinus Notes.md",
-    "Symposium Questions.md",
     "GW_Lab_Notebook/Protocols/Protocol for Culturing Perkinsus.md",
     "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
     "GW_Lab_Notebook/Protocols/Protocol for Perkinsus marinus Assay.md",
