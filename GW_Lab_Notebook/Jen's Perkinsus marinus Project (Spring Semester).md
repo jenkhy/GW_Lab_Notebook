@@ -64,5 +64,10 @@
 		- CI3-II
 		- DBNJ-1
 		- TXsc
+
+4/8/2025
+- Progress of culture plates in incubator:
+
+
 - P2
 	- Planning on moving media from culture plates into vertical culture flasks for P2
