@@ -64,9 +64,18 @@
 		- CI3-II
 		- DBNJ-1
 		- TXsc
+	- PRA393 strain was observed under the microscope
+		- Cell concentration is very dense
 
 4/8/2025
-- Progress of culture plates in incubator:
+- Progress of culture plates in the incubator:
+	- Cell count on hemocytometer:
+		-  PRA393
+		- PRA240
+		- LICT-1
+		- CI3-II
+		- DBNJ-1
+		- TXsc
 
 
 - P2
