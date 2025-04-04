@@ -51,3 +51,8 @@
 	- 0.5 g/L glucose
 	- 0.65 g/L Sodium bicarbonate
 - PCM was filtered through a 0.22 um filter, transferred into a sterile container, and kept in a 4°C fridge
+4/3/2025
+- volume of media in each culture flask:
+- number of culture flasks used:
+- amount of strain pipetted into each flask:
+- different strains:
