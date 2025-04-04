@@ -56,6 +56,7 @@
 	- The volume of media in each culture plate: 10 mL 
 	- Number of culture flasks used: six
 	- Amount of strain pipetted into each flask: 0.5 mL
+	- Temperature of incubator: 28°C
 	- Strains:
 		- PRA393
 		- PRA240
