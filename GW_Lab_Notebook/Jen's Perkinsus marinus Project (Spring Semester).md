@@ -53,7 +53,7 @@
 - PCM was filtered through a 0.22 um filter, transferred into a sterile container, and kept in a 4°C fridge
 4/3/2025
 - P1 was created 
-	- The volume of media in each culture flask: 10 mL 
+	- The volume of media in each culture plate: 10 mL 
 	- Number of culture flasks used: six
 	- Amount of strain pipetted into each flask: 0.5 mL
 	- Strains:
@@ -63,3 +63,5 @@
 		- CI3-II
 		- DBNJ-1
 		- TXsc
+- P2
+	- Planning on moving media from culture plates into vertical culture flasks for P2
