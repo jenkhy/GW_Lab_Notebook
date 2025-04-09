@@ -69,7 +69,7 @@
 
 4/8/2025
 - Progress of culture plates in the incubator:
-	- Cell count on hemocytometer:
+	- Cell count on hemocytometer (initial):
 		-  PRA393
 		- PRA240
 		- LICT-1

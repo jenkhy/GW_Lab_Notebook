@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Jen's Perkinsus marinus Project (Spring Semester)"
             }
+          },
+          {
+            "id": "a66e1fcd2528f669",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "358dd50eda2aa5a2",
+  "active": "a66e1fcd2528f669",
   "lastOpenFiles": [
     "GW_Lab_Notebook/P. marinus Notes.md",
     "Symposium Questions.md",
