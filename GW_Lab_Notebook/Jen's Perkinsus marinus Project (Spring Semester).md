@@ -1,4 +1,4 @@
-**To-Do List:** 
+=**To-Do List:** 
 - New oysters need to be bought from Whole Foods 
 	- Four adult Cotuit Oysters from MA, USA [[Oyster Kinds]]
 	- Four adult Atlantic Blue Point Oysters from CT, USA [[Oyster Kinds]]
@@ -69,6 +69,8 @@
 
 4/8/2025
 - Progress of culture plates in the incubator:
+	- Perkinsus cells have adhered to the plates
+	- Cell concentration is still abundant 
 	- Cell count on hemocytometer (initial):
 		-  PRA393
 		- PRA240
@@ -77,6 +79,7 @@
 		- DBNJ-1
 		- TXsc
 
+4/10/2025
+- Transfer inoculated media into labeled Erlenmeyer flasks 
 
-- P2
-	- Planning on moving media from culture plates into vertical culture flasks for P2
+
