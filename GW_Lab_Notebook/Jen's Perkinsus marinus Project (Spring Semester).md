@@ -80,6 +80,14 @@
 		- TXsc
 
 4/10/2025
-- Transfer inoculated media into labeled Erlenmeyer flasks 
+- Transferred inoculated media into 40 mL culture flasks 
 
+4/22/2025
+- Contamination is seen in all flasks; the source of contamination is unknown
+
+![[IMG_3574.heic]] 40 mL culture flask in Biosafety cabinet
+
+![[IMG_3577 1.heic]]40 mL culture flask in 30°C incubator
+
+![[IMG_3576 1.heic]]Petri Dish in 30°C incubator
 
