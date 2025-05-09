@@ -34,11 +34,13 @@ II. RFTM inoculation with oyster tissues
 Materials needed for RFTM assay analysis:
 - Lugol's iodine
 - DI water
-- 
+- Sterile probe or tweezers
+- Microscope slides
+- Microscope coverslips
 III. RFTM assay analysis
 13. Create 30% (v/v) Lugol's iodine solution
 14. Add a small pool of 30 % (v/v) Lugol's iodine solution to labeled microscope slides; slides are labeled by tissue types, such as mantle, gills, heart, and rectum
-15. With a sterile probe, tease each tissue in the iodine solution apart, add another drop of 30% (v/v) Lugol's iodine solution if needed, and mount a coverslip over the stained tissue
+15. With a sterile probe or tweezers, tease each tissue in the iodine solution apart, add another drop of 30% (v/v) Lugol's iodine solution if needed, and mount a coverslip over the stained tissue
 16. Examine under microscope for spherical, blue-black *Perkinsus* cells with diameters of 10-100 um
 17. Determine, count, and note which oysters have *Perkinsus* present
 	

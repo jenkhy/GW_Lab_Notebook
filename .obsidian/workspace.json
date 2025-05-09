@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GW_Lab_Notebook/Protocols/Protocol for Perkinsus marinus Assay.md",
+                "file": "GW_Lab_Notebook/Protocols/Protocol for RFTM Perkinsus marinus Assay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protocol for Perkinsus marinus Assay"
+              "title": "Protocol for RFTM Perkinsus marinus Assay"
             }
           }
         ],
@@ -236,7 +236,7 @@
     "GW_Lab_Notebook/Oyster Kinds.md",
     "GW_Lab_Notebook/P. marinus Notes.md",
     "Symposium Questions.md",
-    "GW_Lab_Notebook/Protocols/Protocol for Perkinsus marinus Assay.md",
+    "GW_Lab_Notebook/Protocols/Protocol for RFTM Perkinsus marinus Assay.md",
     "GW_Lab_Notebook/Protocols/Protocol for Homogenizing Oyster Samples.md",
     "SMART Goals Spring 2025.md",
     "Protocol for Dissecting Oyster.md",
