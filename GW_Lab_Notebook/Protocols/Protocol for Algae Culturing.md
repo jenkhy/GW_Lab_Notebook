@@ -1,15 +1,15 @@
 Table of Contents:
-- #CulturingAlgaeFromStocks
-- #AlgaeSpecies 
+- Culturing Algae From Stocks
+- Algae Species 
 	- Optimum environment by species
 	- Best Concentration of Algae to feed oysters 
-- #Monthly/Weekly/DailyTasks 
+- Monthly/Weekly/DailyTasks 
 	- Adding F/2 media + saltwater to algae carboys 
-- #UsingHemocytometer 
+- Using Hemocytometer 
 
 _______________________________________________________________________
 
-#CulturingAlgaeFromStocks 
+Culturing Algae From Stocks
 1. Obtain algae starter cultures 
 2. Create a stock culture
 	- In a 500 mL flask, autoclave 295 mL of saltwater at liquid setting 
@@ -25,7 +25,7 @@ _______________________________________________________________________
 7. Three times a week, add 3000 mL of autoclaved saltwater + 3 mL of F/2 media to algae carboy in a sterile environment
 	- This can be done more often as needed 
 
-#AlgaeSpecies 
+Algae Species
 - We currently have three species of algae:
 	- *Tetraselmis chuii*
 		- T. chuii is a type of flagellate algae 
@@ -50,7 +50,7 @@ _______________________________________________________________________
 		- Flagellates (Isochrysis galbana and Tetraselmis chuii)
 			- 25-30 psu
 			- Use 25 psu saltwater
-- The maximum concentration of algae to feed oysters before algae population crashes (Use #UsingHemocytometer  to determine concentration)
+- The maximum concentration of algae to feed oysters before algae population crashes (Use hemocytometer to determine concentration)
 	- Tetraselmis chuii
 		- 30 x 10^6 cells/mL
 	- Isochrysis galbana
@@ -58,7 +58,7 @@ _______________________________________________________________________
 	- Chaetoceros
 		- 8.88 x 10^6 cells/mL
 
-	#Monthly/Weekly/DailyTasks 
+Monthly/Weekly/Daily Tasks
 	-  All algae cultures in flasks and carboys must be swirled once a day to prevent self-shading and settling
 	- Making saltwater once a month/ whenever saltwater runs out
 		- Materials for making saltwater:
@@ -76,7 +76,7 @@ _______________________________________________________________________
 		- When autoclaved saltwater is cooled the next day, add 3 mL of F/2 media under a sterile biosafety cabinet
 		- Pour saltwater + F/2 media mixture into algae carboy
 
-	#UsingHemocytometer 
+Using Hemocytometer
 1. Use 70% ethanol for cleaning the coverslip of the hemocytometer before use
 2. Gently dry with Kimwipe 
 3. Fill a small beaker with lab glassware soap and water and fill another small beaker with DI water

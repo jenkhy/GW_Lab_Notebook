@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#UsingHemocytometer",
+                "query": "tag:#CulturingAlgaeFromStocks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -224,8 +224,9 @@
   },
   "active": "feacac23b15e43f0",
   "lastOpenFiles": [
-    "GW_Lab_Notebook/Protocols/Protocol for Culturing Perkinsus.md",
     "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
+    "GW_Lab_Notebook/Protocols/Protocol for RFTM Perkinsus marinus Assay.md",
+    "GW_Lab_Notebook/Protocols/Protocol for Culturing Perkinsus.md",
     "GW_Lab_Notebook/Jen's Algae Culturing Project (Fall Semester).md",
     "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
     "IMG_3576 1.heic",
@@ -236,7 +237,6 @@
     "GW_Lab_Notebook/Oyster Kinds.md",
     "GW_Lab_Notebook/P. marinus Notes.md",
     "Symposium Questions.md",
-    "GW_Lab_Notebook/Protocols/Protocol for RFTM Perkinsus marinus Assay.md",
     "GW_Lab_Notebook/Protocols/Protocol for Homogenizing Oyster Samples.md",
     "SMART Goals Spring 2025.md",
     "Protocol for Dissecting Oyster.md",

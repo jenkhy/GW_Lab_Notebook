@@ -25,6 +25,7 @@ Materials needed for RFTM inoculation with oyster tissues
 - Oysters 
 
 II. RFTM inoculation with oyster tissues
+
 8. In the biosafety cabinet, aliquot 1 mL of RFTM into labeled 1.5 mL tubes; tubes are labeled by tissue types, such as mantle, gills, heart, and rectum
 9. Gently add 2-4 drops of nystatin suspension to inhibit fungus growth
 10. Obtain two Chebooktook Oysters (Canada) and two Beavertail Oysters (Rhode Island)
