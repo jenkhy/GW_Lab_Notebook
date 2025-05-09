@@ -1,7 +1,10 @@
 Materials for Preparing RFTM: 
-- 
+- 600 mL beaker 
+- Stir bar 
+- Foil or masking tape
+- Autoclavable screw cap bottles
 I. Preparing the RFTM
-1. In a beaker with a stir bar, combine 14.6 g FTM powder, 10 g NaCl, and 485 mL distilled water
+1. In a 600 mL beaker with a stir bar, combine 14.6 g FTM powder, 10 g NaCl, and 485 mL distilled water
 2. Cover the flask with foil, and set heat to 55°C with stirring power at 300-400 rpm until near boiling
 3. Allow to cool briefly before adding chloramphenicol (antibiotic) with stirring, this is now your RFTM
 4. Fill (125 mL - 500 mL) autoclavable screw capped bottles to 75% capacity for room for heated RFTM, keep bottle caps loose for venting
