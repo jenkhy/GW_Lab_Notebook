@@ -21,6 +21,9 @@ Materials needed for RFTM inoculation with oyster tissues
 - RFTM
 - 1.5 mL tubes
 - Dissecting scissors
+- Nystatin suspension
+- Oysters 
+
 II. RFTM inoculation with oyster tissues
 8. In the biosafety cabinet, aliquot 1 mL of RFTM into labeled 1.5 mL tubes; tubes are labeled by tissue types, such as mantle, gills, heart, and rectum
 9. Gently add 2-4 drops of nystatin suspension to inhibit fungus growth
@@ -28,6 +31,10 @@ II. RFTM inoculation with oyster tissues
 11. Under the biosafety cabinet, excise small pieces (3-5 mm) of each oyster's mantle, gill, and heart and inoculate each tissue into each respective 1.5 mL tube
 12. Cap tubes loosely, and incubate for 7 days in the dark at 27° (20°C to 30°C is effective)
 
+Materials needed for RFTM assay analysis:
+- Lugol's iodine
+- DI water
+- 
 III. RFTM assay analysis
 13. Create 30% (v/v) Lugol's iodine solution
 14. Add a small pool of 30 % (v/v) Lugol's iodine solution to labeled microscope slides; slides are labeled by tissue types, such as mantle, gills, heart, and rectum
