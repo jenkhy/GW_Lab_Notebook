@@ -3,6 +3,11 @@ Materials for Preparing RFTM:
 - Stir bar 
 - Foil or masking tape
 - Autoclavable screw cap bottles
+- FTM powder
+- NaCl
+- DI water
+- chloramphenicol
+
 I. Preparing the RFTM
 1. In a 600 mL beaker with a stir bar, combine 14.6 g FTM powder, 10 g NaCl, and 485 mL distilled water
 2. Cover the flask with foil, and set heat to 55°C with stirring power at 300-400 rpm until near boiling
@@ -11,6 +16,11 @@ I. Preparing the RFTM
 5. Autoclave RFTM at 121°C for 20 minutes
 6. Allow RFTM to cool in a sterile environment, once they have cooled to room temp, close the bottle caps tightly
 7. Wrap RFTM in foil or tape to keep in the dark in 4°C fridge (fridge storage allows storage for a year)
+
+Materials needed for RFTM inoculation with oyster tissues
+- RFTM
+- 1.5 mL tubes
+- Dissecting scissors
 II. RFTM inoculation with oyster tissues
 8. In the biosafety cabinet, aliquot 1 mL of RFTM into labeled 1.5 mL tubes; tubes are labeled by tissue types, such as mantle, gills, heart, and rectum
 9. Gently add 2-4 drops of nystatin suspension to inhibit fungus growth
