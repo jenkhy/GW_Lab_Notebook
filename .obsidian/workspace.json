@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/Oyster_maintenance/Protocol for RFTM Perkinsus marinus Assay 1.md",
+                "file": "Protocols/Oyster_maintenance/Protocol for RFTM Perkinsus marinus Assay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protocol for RFTM Perkinsus marinus Assay 1"
+              "title": "Protocol for RFTM Perkinsus marinus Assay"
             }
           }
         ],
@@ -222,11 +222,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54fad8d2a6111d12",
+  "active": "feacac23b15e43f0",
   "lastOpenFiles": [
     "Protocols/GitHub-Desktop.md",
     "GW_Lab_Notebook/Protocols/Protocol for RFTM Perkinsus marinus Assay.md",
-    "Protocols/Oyster_maintenance/Protocol for RFTM Perkinsus marinus Assay 1.md",
+    "Protocols/Oyster_maintenance/Protocol for RFTM Perkinsus marinus Assay.md",
     "Protocols/Oyster_maintenance/Using_Orion.md",
     "Protocols/Oyster_maintenance/Hemocytometer.md",
     "Protocols/Oyster_maintenance/Algae-Culturing.md",

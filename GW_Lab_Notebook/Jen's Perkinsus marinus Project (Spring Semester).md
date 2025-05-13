@@ -39,7 +39,7 @@
 		- Tetraselmis contamination
 
 
-[[Protocol for RFTM Perkinsus marinus Assay]]
+[[GW_Lab_Notebook/Protocols/Protocol for RFTM Perkinsus marinus Assay]]
 
 3/27/2025
 - 1 L of Perkinsus Culturing Media (PCM) was made using:
