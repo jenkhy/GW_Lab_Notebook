@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -250,12 +250,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff3a8f3e6b5daf45",
+  "active": "7202599692d1f3ea",
   "lastOpenFiles": [
-    "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
     "Perkinsus Culturing Protocol.md",
-    "Protocols/Oyster_maintenance/Hemocytometer.md",
     "Protocols/Oyster_maintenance/Protocol for RFTM Perkinsus marinus Assay.md",
+    "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
+    "Protocols/Oyster_maintenance/Hemocytometer.md",
     "GW_Lab_Notebook/Protocols/Protocol for Algae Culturing.md",
     "Protocols/GitHub-Desktop.md",
     "GW_Lab_Notebook/Protocols/Protocol for RFTM Perkinsus marinus Assay.md",
