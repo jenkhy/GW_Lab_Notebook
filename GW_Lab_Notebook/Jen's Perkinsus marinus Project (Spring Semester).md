@@ -1,4 +1,4 @@
-=**To-Do List:** 
+**To-Do List:** 
 - New oysters need to be bought from Whole Foods 
 	- Four adult Cotuit Oysters from MA, USA [[Oyster Kinds]]
 	- Four adult Atlantic Blue Point Oysters from CT, USA [[Oyster Kinds]]
@@ -39,7 +39,7 @@
 		- Tetraselmis contamination
 
 
-[[GW_Lab_Notebook/Protocols/Protocol for RFTM Perkinsus marinus Assay]]
+[[Protocol for RFTM Perkinsus marinus Assay]]
 
 3/27/2025
 - 1 L of Perkinsus Culturing Media (PCM) was made using:
