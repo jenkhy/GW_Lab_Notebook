@@ -13,7 +13,7 @@ Materials for making 1 L of Perkinsus Culturing Media (PCM):
 - Sodium bicarbonate
 - Weigh paper/Weigh boat
 - Spatula
-- 1000 mL glass bottle or larger
+- 1000 mL glass screw cap bottle or larger
 - Vacuum filtering apparatus (glass filter funnel, filter base, clamp)
 - 0.22 um filter paper
 - 1000 mL filtration flask
@@ -21,7 +21,7 @@ Materials for making 1 L of Perkinsus Culturing Media (PCM):
 
 Making 1 L of PCM:
 1. Make 16 g/L saltwater with instant ocean by adding 16 g of instant ocean to 1000 mL of DI water in 1000 mL autoclavable glass bottle 
-2. To the 16 g/L saltwater in the 1000 mL glass bottle, add:
+2. To the 16 g/L saltwater in the 1000 mL screw cap glass bottle, add:
 	- 4.2 g/L DME
 	- 5.4 g/L Ham's F12
 	- 0.15 g/L L-glutamine
