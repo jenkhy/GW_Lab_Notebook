@@ -27,5 +27,14 @@ Materials for inoculating Perkinsus strains into PCM:
 - *Perkinsus marinus* strains
 - PCM
 - 40 mL culture flasks 
+- 1000 uL pipet
+- 1000 uL pipet tips 
+- Large pipet (grey)
+- 25 mL pipet tips
+- Sharpie
+
+Inoculating Perkinsus strains into PCM:
+
+1. In the BSC, pipet 20 mL of media into 40 mL culture flasks 
 
 
