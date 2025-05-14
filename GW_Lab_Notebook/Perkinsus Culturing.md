@@ -14,6 +14,8 @@ Materials for making 1 L of Perkinsus Culturing Media (PCM):
 - 1000 mL glass bottle or larger
 - Filtering apparatus (glass filter funnel, filter base, clamp)
 - 0.22 um filter paper
+- 1000 mL filtration flask
+- Vacuum
 
 Making 1 L of PCM:
 1. Make 16 g/L saltwater with instant ocean by adding 16 g of instant ocean to 1000 mL of DI water in 1000 mL autoclavable glass bottle 
@@ -24,8 +26,9 @@ Making 1 L of PCM:
 	- 0.015 g/L Glycine betaine 
 	- 0.5 g/L glucose
 	- 0.65 g/L Sodium bicarbonate
-3. Filter PCM through a 0.22 um filter into a sterile container
-4. Store sterile PCM in 4°C fridge
+3. Set up filtering apparatus 
+4. Filter PCM through a 0.22 um filter into a sterile container
+5. Store sterile PCM in 4°C fridge
 
 Materials for inoculating Perkinsus strains into PCM:
 - *Perkinsus marinus* strains
