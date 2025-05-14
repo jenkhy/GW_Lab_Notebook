@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/Oyster_maintenance/RFTM Perkinsus marinus Assay.md",
+                "file": "GW_Lab_Notebook/Perkinsus Culturing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RFTM Perkinsus marinus Assay"
+              "title": "Perkinsus Culturing"
             }
           }
         ],
@@ -252,11 +252,11 @@
   },
   "active": "ff3a8f3e6b5daf45",
   "lastOpenFiles": [
+    "Protocols/Oyster_maintenance/RFTM Perkinsus marinus Assay.md",
     "Protocols/Oyster_maintenance/Cell Counting with Hemocytometer.md",
     "Protocols/Oyster_maintenance/Algae-Culturing.md",
     "GW_Lab_Notebook/Protocol for Algae Culturing.md",
     "GW_Lab_Notebook/Perkinsus Culturing.md",
-    "Protocols/Oyster_maintenance/RFTM Perkinsus marinus Assay.md",
     "GW_Lab_Notebook/Protocol for RFTM Perkinsus marinus Assay.md",
     "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
     "GW_Lab_Notebook/P. marinus Notes.md",
