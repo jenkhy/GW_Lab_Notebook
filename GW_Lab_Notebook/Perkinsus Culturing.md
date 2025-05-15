@@ -33,10 +33,15 @@ Making 1 L of PCM:
 	- 0.65 g/L Sodium bicarbonate
 3. Set up vacuum filtration apparatus in the BSC by spraying each of the following with ethanol before placing into BSC
 	1. 1000 mL filtration flask
-	2. Spray autoclaved filtration flask tubing with ethanol and place into BSC
-	3. 
-4. Filter PCM through a 0.22 um filter into a sterile container
-5. Store sterile PCM in 4°C fridge
+	2. Filtration flask tubing
+	3. Glass filter funnel
+	4. Filter base
+	5. Clamp
+	6. Box of 0.22 um filter paper
+4. Place filter base into filtration flask 
+5. Place a 0.22 um filter paper onto 
+6. Filter PCM through a 0.22 um filter into a sterile container
+7. Store sterile PCM in 4°C fridge
 
 Materials for inoculating Perkinsus strains into PCM:
 - *Perkinsus marinus* strains
