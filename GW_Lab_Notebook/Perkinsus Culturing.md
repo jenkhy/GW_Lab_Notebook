@@ -1,7 +1,8 @@
 Materials to autoclave before beginning protocol:
 - 1000 mL autoclavable glass bottle 
-- Vacuum filtering apparatus (glass filter funnel, filter base, clamp)
+- Vacuum filtration apparatus (glass filter funnel, filter base, clamp)
 - 1000 mL filtration flask 
+
 Materials for making 1 L of Perkinsus Culturing Media (PCM):
 - DI water
 - Instant Ocean 
@@ -14,7 +15,7 @@ Materials for making 1 L of Perkinsus Culturing Media (PCM):
 - Weigh paper/Weigh boat
 - Spatula
 - 1000 mL glass screw cap bottle or larger
-- Vacuum filtering apparatus (glass filter funnel, filter base, clamp)
+- Vacuum filtration apparatus (glass filter funnel, filter base, clamp)
 - 0.22 um filter paper
 - 1000 mL filtration flask
 - Vacuum
