@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GW_Lab_Notebook/Perkinsus Culturing.md",
+                "file": "Protocols/Oyster_maintenance/Cell Counting with Hemocytometer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perkinsus Culturing"
+              "title": "Cell Counting with Hemocytometer"
             }
           }
         ],
@@ -252,9 +252,9 @@
   },
   "active": "ff3a8f3e6b5daf45",
   "lastOpenFiles": [
+    "GW_Lab_Notebook/Perkinsus Culturing.md",
     "Protocols/Oyster_maintenance/Cell Counting with Hemocytometer.md",
     "Protocols/Oyster_maintenance/RFTM Perkinsus marinus Assay.md",
-    "GW_Lab_Notebook/Perkinsus Culturing.md",
     "Protocols/Oyster_maintenance/Algae-Culturing.md",
     "GW_Lab_Notebook/Protocol for Algae Culturing.md",
     "GW_Lab_Notebook/Protocol for RFTM Perkinsus marinus Assay.md",
