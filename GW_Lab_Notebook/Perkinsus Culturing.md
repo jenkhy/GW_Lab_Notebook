@@ -40,7 +40,7 @@ Materials to autoclave before beginning protocol:
 	4. Filter base
 	5. Clamp
 	6. Box of 0.22 um filter paper
-4. 
+4. Set up vacuum on table o
 5. Place filter base into filtration flask 
 6. Connect tubing into side arm of filtration flask 
 7. Place a 0.22 um filter paper onto top of filter base
