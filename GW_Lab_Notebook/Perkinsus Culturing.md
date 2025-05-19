@@ -56,18 +56,22 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 13. Transfer filtered PCM into labeled new sterile 1000 mL glass screw cap bottle
 14. Store sterile PCM in 4°C fridge
 
-Materials for inoculating Perkinsus strains into PCM:
+### Inoculating Perkinsus strains into PCM:
+
+**Materials:**
 - *Perkinsus marinus* strains
 - PCM
-- 40 mL culture flasks 
+- 25 cm^2 culture flasks 
 - 1000 uL pipet
 - 1000 uL pipet tips 
 - Large pipet (grey)
 - 25 mL pipet tips
 - Sharpie
 
-Inoculating Perkinsus strains into PCM:
+**Protocol:**
 
-1. In the BSC, pipet 20 mL of media into 40 mL culture flasks 
+1. In the BSC, pipet 20 mL of PCM into each 25 cm^2 culture flask
+2. Label each 25 cm^2 flask with strain name
+3. Pipet 500 uL of Perkinsus strain into each 25 cm^2 flask
 
 
