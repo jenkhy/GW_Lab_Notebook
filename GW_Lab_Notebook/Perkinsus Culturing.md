@@ -1,5 +1,5 @@
-Materials to autoclave before beginning protocol:
-- 1000 mL autoclavable glass bottle 
+Materials to autoclave before beginning protocol, if not autoclaved already:
+- Two 1000 mL autoclavable glass bottles
 - Vacuum filtration apparatus (glass filter funnel, filter base, clamp)
 - 1000 mL filtration flask 
 - Filtration flask tubing
@@ -33,21 +33,24 @@ Materials to autoclave before beginning protocol:
 	- 0.015 g/L Glycine betaine 
 	- 0.5 g/L glucose
 	- 0.65 g/L Sodium bicarbonate
-3. Set up vacuum filtration apparatus in the BSC by spraying each of the following with ethanol before placing into BSC
+3. This is now your PCM
+4. Set up vacuum filtration apparatus in the BSC by spraying each of the following with ethanol before placing into BSC
 	1. 1000 mL filtration flask
-	2. Large filtration flask tubing
-	3. Glass filter funnel
-	4. Filter base
-	5. Clamp
-	6. Box of 0.22 um filter paper
-4. Set up vacuum on table o
+	2. 1000 mL glass screw cap bottle of PCM
+	3. Large filtration flask tubing
+	4. Glass filter funnel
+	5. Filter base
+	6. Clamp
+	7. Box of 0.22 um filter paper
+4. Set up vacuum on table outside of BSC
 5. Place filter base into filtration flask 
 6. Connect tubing into side arm of filtration flask 
 7. Place a 0.22 um filter paper onto top of filter base
 8. Place glass filter funnel on filter base
 9. Use clamp to secure filter base and filter funnel
-10. Filter PCM through a 0.22 um filter into a sterile container
-11. Store sterile PCM in 4°C fridge
+10. Turn on vacuum. Make sure it is vacuuming air out of the filtration flask
+11. Filter PCM by pouring it into filter funnel slowly, making sure to not overflow the filter funnel
+12. Store sterile PCM in 4°C fridge
 
 Materials for inoculating Perkinsus strains into PCM:
 - *Perkinsus marinus* strains
