@@ -75,6 +75,9 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 3. Label each 25 cm^2 flask with strain name and passage numerb (P1)
 4. Pipet 500 uL of Perkinsus strain into each labeled 25 cm^2 flask
 5. Keep inoculated flasks in 28°C incubator for eight days 
-6. After one day of incubatino
+6. After one day of incubation, perform a cell count using the hemocytometer and note cell density. 
+7. If cell density is 10^6 cells/mL, create P2. If cell density is less than 10^6 cells/mL, allow for cells to incubate for another day and repeat step 6 until cell density reaches 10^6 cells/mL
+
+### Creating P2
 
 
