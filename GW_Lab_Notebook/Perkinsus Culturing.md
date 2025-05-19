@@ -4,7 +4,9 @@ Materials to autoclave before beginning protocol:
 - 1000 mL filtration flask 
 - Filtration flask tubing
 
-Materials for making 1 L of Perkinsus Culturing Media (PCM):
+### Making 1 L of Perkinsus Culturing Media (PCM):
+
+**Materials:**
 - DI water
 - Instant Ocean 
 - DME
@@ -22,7 +24,7 @@ Materials for making 1 L of Perkinsus Culturing Media (PCM):
 - Vacuum
 - Filtration flask tubing
 
-Making 1 L of PCM:
+**Protocol:** 
 1. Make 16 g/L saltwater with instant ocean by adding 16 g of instant ocean to 1000 mL of DI water in 1000 mL glass screw cap bottle 
 2. To the 16 g/L saltwater in the 1000 mL glass screw cap bottle, add:
 	- 4.2 g/L DME
@@ -39,9 +41,12 @@ Making 1 L of PCM:
 	5. Clamp
 	6. Box of 0.22 um filter paper
 4. Place filter base into filtration flask 
-5. Place a 0.22 um filter paper onto 
-6. Filter PCM through a 0.22 um filter into a sterile container
-7. Store sterile PCM in 4°C fridge
+5. Connect tubing into 
+6. Place a 0.22 um filter paper onto top of filter base
+7. Place glass filter funnel on filter base
+8. Use clamp to secure filter base and filter funnel
+9. Filter PCM through a 0.22 um filter into a sterile container
+10. Store sterile PCM in 4°C fridge
 
 Materials for inoculating Perkinsus strains into PCM:
 - *Perkinsus marinus* strains
