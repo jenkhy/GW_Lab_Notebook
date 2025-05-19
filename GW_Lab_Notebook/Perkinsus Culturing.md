@@ -22,7 +22,7 @@ Materials to autoclave before beginning protocol:
 - 0.22 um filter paper
 - 1000 mL filtration flask
 - Vacuum
-- Filtration flask tubing
+- Large filtration flask tubing
 
 **Protocol:** 
 1. Make 16 g/L saltwater with instant ocean by adding 16 g of instant ocean to 1000 mL of DI water in 1000 mL glass screw cap bottle 
@@ -35,18 +35,19 @@ Materials to autoclave before beginning protocol:
 	- 0.65 g/L Sodium bicarbonate
 3. Set up vacuum filtration apparatus in the BSC by spraying each of the following with ethanol before placing into BSC
 	1. 1000 mL filtration flask
-	2. Filtration flask tubing
+	2. Large filtration flask tubing
 	3. Glass filter funnel
 	4. Filter base
 	5. Clamp
 	6. Box of 0.22 um filter paper
-4. Place filter base into filtration flask 
-5. Connect tubing into 
-6. Place a 0.22 um filter paper onto top of filter base
-7. Place glass filter funnel on filter base
-8. Use clamp to secure filter base and filter funnel
-9. Filter PCM through a 0.22 um filter into a sterile container
-10. Store sterile PCM in 4°C fridge
+4. 
+5. Place filter base into filtration flask 
+6. Connect tubing into side arm of filtration flask 
+7. Place a 0.22 um filter paper onto top of filter base
+8. Place glass filter funnel on filter base
+9. Use clamp to secure filter base and filter funnel
+10. Filter PCM through a 0.22 um filter into a sterile container
+11. Store sterile PCM in 4°C fridge
 
 Materials for inoculating Perkinsus strains into PCM:
 - *Perkinsus marinus* strains
