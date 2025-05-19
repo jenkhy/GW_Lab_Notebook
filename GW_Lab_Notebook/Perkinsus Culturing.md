@@ -74,6 +74,7 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 2. In the BSC, pipet 20 mL of PCM into each 25 cm^2 culture flask. If flasks are tissue treated, keep flask upright with cap of flask being at the top to avoid cells adhering
 3. Label each 25 cm^2 flask with strain name and passage numerb (P1)
 4. Pipet 500 uL of Perkinsus strain into each labeled 25 cm^2 flask
-5. Keep inoculated flasks in 28°C incubator 
+5. Keep inoculated flasks in 28°C incubator for eight days 
+6. After one day of incubatino
 
 
