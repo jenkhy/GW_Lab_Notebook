@@ -23,6 +23,8 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 - 1000 mL filtration flask
 - Vacuum
 - Large filtration flask tubing
+- Tape
+- Sharpie
 
 **Protocol:** 
 1. Make 16 g/L saltwater with instant ocean by adding 16 g of instant ocean to 1000 mL of DI water in 1000 mL glass screw cap bottle 
@@ -34,23 +36,25 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 	- 0.5 g/L glucose
 	- 0.65 g/L Sodium bicarbonate
 3. This is now your PCM
-4. Set up vacuum filtration apparatus in the BSC by spraying each of the following with ethanol before placing into BSC
+4. Set up vacuum filtration apparatus in the BSC by spraying each of the following with ethanol before bringing into BSC
 	1. 1000 mL filtration flask
 	2. 1000 mL glass screw cap bottle of PCM
-	3. Large filtration flask tubing
-	4. Glass filter funnel
-	5. Filter base
-	6. Clamp
-	7. Box of 0.22 um filter paper
-4. Set up vacuum on table outside of BSC
-5. Place filter base into filtration flask 
-6. Connect tubing into side arm of filtration flask 
-7. Place a 0.22 um filter paper onto top of filter base
-8. Place glass filter funnel on filter base
-9. Use clamp to secure filter base and filter funnel
-10. Turn on vacuum. Make sure it is vacuuming air out of the filtration flask
-11. Filter PCM by pouring it into filter funnel slowly, making sure to not overflow the filter funnel
-12. Store sterile PCM in 4°C fridge
+	3. Empty 1000 mL glass screw cap bottle 
+	4. Large filtration flask tubing
+	5. Glass filter funnel
+	6. Filter base
+	7. Clamp
+	8. Box of 0.22 um filter paper
+5. Set up vacuum on table outside of BSC
+6. Place filter base into filtration flask 
+7. Connect tubing into side arm of filtration flask 
+8. Place a 0.22 um filter paper onto top of filter base
+9. Place glass filter funnel on filter base
+10. Use clamp to secure filter base and filter funnel
+11. Turn on vacuum. Make sure it is vacuuming air out of the filtration flask
+12. Filter PCM by pouring it into filter funnel slowly, making sure to not overflow the filter funnel
+13. Transfer filtered PCM into labeled new sterile 1000 mL glass screw cap bottle
+14. Store sterile PCM in 4°C fridge
 
 Materials for inoculating Perkinsus strains into PCM:
 - *Perkinsus marinus* strains
