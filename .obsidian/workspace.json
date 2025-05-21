@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,10 +250,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff3a8f3e6b5daf45",
+  "active": "8d3260415fb67a99",
   "lastOpenFiles": [
-    "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
     "GW_Lab_Notebook/Perkinsus Culturing.md",
+    "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
     "GW_Lab_Notebook/Protocol for Algae Culturing.md",
     "GW_Lab_Notebook/Protocol for RFTM Perkinsus marinus Assay.md",
     "Protocols/Oyster_maintenance/Cell Counting with Hemocytometer.md",

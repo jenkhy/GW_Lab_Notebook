@@ -78,6 +78,6 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 6. After one day of incubation, take a 20 uL sample from each strain to perform a cell count using the hemocytometer and note cell density. 
 7. If cell density is 10^6 cells/mL, create P2. If cell density is less than 10^6 cells/mL, allow for cells to incubate for another day and repeat step 6 until cell density reaches 10^6 cells/mL
 
-### Creating P2
+
 
 
