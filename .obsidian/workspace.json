@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOP for Disposal of RFTM.md",
+                "file": "Protocols/Oyster_maintenance/Perkinsus Culturing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOP for Disposal of RFTM"
+              "title": "Perkinsus Culturing"
             }
           },
           {
@@ -266,8 +266,8 @@
   },
   "active": "65da52f85dd6750a",
   "lastOpenFiles": [
-    "Protocols/Oyster_maintenance/RFTM Perkinsus marinus Assay.md",
     "SOP for Disposal of RFTM.md",
+    "Protocols/Oyster_maintenance/RFTM Perkinsus marinus Assay.md",
     "Protocols/Oyster_maintenance/Perkinsus Culturing.md",
     "Protocols/Oyster_maintenance/Cell Counting with Hemocytometer.md",
     "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
