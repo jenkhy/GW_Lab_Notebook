@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GW_Lab_Notebook/Perkinsus Culturing.md",
+                "file": "Protocols/Oyster_maintenance/Perkinsus Culturing.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GW_Lab_Notebook/Perkinsus Culturing.md",
+                "file": "Protocols/Oyster_maintenance/Perkinsus Culturing.md",
                 "mode": "source",
                 "source": false
               },
@@ -250,10 +250,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d3260415fb67a99",
+  "active": "54fad8d2a6111d12",
   "lastOpenFiles": [
+    "GW_Lab_Notebook/Perkinsus Culturing 1.md",
+    "Protocols/Oyster_maintenance/Perkinsus Culturing.md",
     "Protocols/Oyster_maintenance/RFTM Perkinsus marinus Assay.md",
-    "GW_Lab_Notebook/Perkinsus Culturing.md",
     "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
     "GW_Lab_Notebook/Protocol for Algae Culturing.md",
     "GW_Lab_Notebook/Protocol for RFTM Perkinsus marinus Assay.md",
@@ -286,7 +287,6 @@
     "Protocols/Fieldwork",
     "Protocols/Computational/Obsidian2GitHub-tutorial.md",
     "Protocols/Computational",
-    "Protocols/Protocol for RFTM Perkinsus marinus Assay copy.md",
-    "GW_Lab_Notebook/Protocols/Protocol for RFTM Perkinsus marinus Assay copy.md"
+    "Protocols/Protocol for RFTM Perkinsus marinus Assay copy.md"
   ]
 }
