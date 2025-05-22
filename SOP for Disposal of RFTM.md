@@ -7,5 +7,5 @@
 	3. Building: Olsen
 	4. Rm#: 504
 	5. Phone: (your phone)
-	6. Contents of container: (list every chemical used) Thioglycollate Broth, Sodium chloride, chloramphenicol, Nystatin
+	6. Contents of container: (list every chemical used) Thioglycollate Broth, Sodium chloride, Chloramphenicol, Nystatin
 	7. Check "Other" and write "Biowaste"
