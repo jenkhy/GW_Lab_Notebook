@@ -7,7 +7,7 @@
 3. Prezoosporangium
 	- Protects itself when the oyster dies (the oyster's hemocytes were its home) or when the environment becomes harsh by thickening its cell wall, accumulation of carbs and lipids
 4. Zoosporangium
-	- Can release zoospores
+	- Can release zoospores that will enter more oysters
 
 **Optimum living environments** 
 - The optimum salinity for P. marinus to thrive is 25-30 ppt
