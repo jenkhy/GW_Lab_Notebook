@@ -1,9 +1,13 @@
 ## Perkinsus marinus
 **The life stages of P. marinus**
 1. Zoospore
+	- Motile, flagellated, enters the oyster
 2. Trophozoite
+	- Becomes immotile now that is in the oyster's hemocytes, causes tissue damage
 3. Prezoosporangium
+	- Protects itself when the oyster dies (the oyster's hemocytes were its home) or when the environment becomes harsh by thickening its cell wall, accumulation of carbs and lipids
 4. Zoosporangium
+	- Can release zoospores
 **Optimum living environments** 
 - The optimum salinity for P. marinus to thrive is 25-30 ppt
 
