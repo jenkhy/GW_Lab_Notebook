@@ -6,7 +6,7 @@
 	- Becomes immotile now that is in the oyster's hemocytes, causes tissue damage
 3. Prezoosporangium
 	- Protects itself when the oyster dies (the oyster's hemocytes were its home) or when the environment becomes harsh by thickening its cell wall, accumulation of carbs and lipids
-	- This stage is also what is seen when the perkinsus cells are 
+	- This stage is also what is seen when the perkinsus cells are in RFTM media
 4. Zoosporangium
 	- Can release zoospores that will enter more oysters
 
