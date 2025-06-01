@@ -3,7 +3,7 @@
 1. Zoospore
 	- Motile, flagellated, enters the oyster
 2. Trophozoite
-	- Becomes im0re.............................rrrrr4;;;;;;;;;;;;;;;;prpppp;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;c;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;'/motile now that is in the oyster's hemocytes, causes tissue damage
+	- Becomes motile now that is in the oyster's hemocytes, causes tissue damage
 3. Prezoosporangium
 	- Protects itself when the oyster dies (the oyster's hemocytes were its home) or when the environment becomes harsh by thickening its cell wall, accumulation of carbs and lipids
 	- This stage is also what is seen when the perkinsus cells are in RFTM media
