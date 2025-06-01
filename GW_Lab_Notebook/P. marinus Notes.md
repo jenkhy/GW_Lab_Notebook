@@ -13,6 +13,10 @@
 **Optimum living environments** 
 - The optimum salinity for P. marinus to thrive is 25-30 ppt
 
+**Infectivity of P. marinus**
+- P. marinus can exist in epizootic (sudden high intensity infections within oysters) infections or enzootic infections (consistent low intensity infections within oysters)
+- Intensity of P. marinus infections can range from low - low infections that stay for years and only cause slight effects to growth and reproduction, to high - high infections that cause death
+
 
 ## Perkinsus culturing 
 - Optimum incubation temperature: 28°C
