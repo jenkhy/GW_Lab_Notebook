@@ -28,6 +28,10 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 
 **Protocol:** 
 1. Make 16 g/L saltwater with instant ocean by adding 16 g of instant ocean to 1000 mL of DI water in 1000 mL glass screw cap bottle 
+	- The standard salinity based on existing protocols uses 16 g/L saltwater, for my experiment I will use three salinities:
+		- low (5-10 ppt)
+		- medium (10-15 ppt)
+		- high (20-25 ppt)
 2. To the 16 g/L saltwater in the 1000 mL glass screw cap bottle, add:
 	- 4.2 g/L DME
 	- 5.4 g/L Ham's F12
