@@ -1,7 +1,7 @@
 ## Perkinsus marinus
 **The life stages of P. marinus**
 1. Zoospore
-	- Motile, flagellated, enters the oyster
+	- Motile, has two flagella for it to move around in the water, enters the oyster
 2. Trophozoite
 	- Becomes motile now that is in the oyster's hemocytes, causes tissue damage
 3. Prezoosporangium

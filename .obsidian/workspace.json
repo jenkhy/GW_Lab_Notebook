@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
+                "file": "GW_Lab_Notebook/P. marinus Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jen's Perkinsus marinus Project (Spring Semester)"
+              "title": "P. marinus Notes"
             }
           },
           {
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "01c7b20a1726c28b",
@@ -266,6 +267,7 @@
   },
   "active": "7202599692d1f3ea",
   "lastOpenFiles": [
+    "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
     "GW_Lab_Notebook/P. marinus Notes.md",
     "Protocols/Oyster_maintenance/Cell Counting with Hemocytometer.md",
     "Protocols/Oyster_maintenance/Algae_Culturing.md",
@@ -276,7 +278,6 @@
     "GW_Lab_Notebook/Protocol for Algae Culturing.md",
     "GW_Lab_Notebook/Perkinsus Culturing 1.md",
     "GW_Lab_Notebook/Oyster Kinds.md",
-    "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
     "Protocols/Oyster_maintenance/Algae-Culturing.md",
     "GW_Lab_Notebook/Jen's Algae Culturing Project (Fall Semester).md",
     "GW_Lab_Notebook/Algae Notes.md",
