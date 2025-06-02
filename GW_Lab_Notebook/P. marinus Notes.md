@@ -19,7 +19,11 @@
 **Infectivity of P. marinus**
 - P. marinus can exist in epizootic (sudden high intensity infections within oysters) infections or enzootic infections (consistent low intensity infections within oysters)
 - Intensity of P. marinus infections can range from low - low infections that stay for years and only cause slight effects to growth and reproduction, to high - high infections that cause death
-Environmenta
+
+**Environmental Factors affecting *Perkinsus* growth**
+- High temperature and high salinity affect *Perkinsus* growth when the *Perkinsus* cells are in these two stages:
+	- it enlarges the cells by increasing the development of hypnospore (when trophozoites are under stress, like RFTM, trophozoites will enlarge into hypnospores)
+	- it enlarges the cells in the trophozoite stage, and increases the trophozoite's metabolic activities
 
 
 ## Perkinsus culturing 
