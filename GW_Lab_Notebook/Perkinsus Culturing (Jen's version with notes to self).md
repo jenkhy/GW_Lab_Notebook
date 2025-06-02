@@ -63,7 +63,7 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 ### Inoculating Perkinsus strains into PCM:
 
 **Materials:**
-- *Perkinsus marinus* strains
+- *Perkinsus marinus* strains or homogenized oyster tissue
 - PCM
 - 25 cm^2 culture flasks 
 - 1000 uL pipet
