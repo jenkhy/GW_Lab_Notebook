@@ -9,6 +9,9 @@
 	- This stage is also what is seen when the perkinsus cells are in RFTM media
 4. Zoosporangium
 	- Can release zoospores that will enter more oysters
+- Hypnospore
+	- when the trophozoite is under stress, such as when it is inoculated in RFTM, it enlarges the cell as the cell membrane is strengthened and the vacuole enlarges
+
 
 **Optimum living environments** 
 - The optimum salinity for P. marinus to thrive is 25-30 ppt
