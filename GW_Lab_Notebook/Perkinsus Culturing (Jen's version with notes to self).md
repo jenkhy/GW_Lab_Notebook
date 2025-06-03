@@ -74,24 +74,29 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 - Shucking knife
 - Shucking glove 
 - Plastic weigh boat 
-- Beaker of ethanol 
+- Two pairs of tweezers
+- Two pairs of dissecting scissors 
+- Beaker of ethanol (for ethanol flaming)
+- Bunsen burner (for ethanol flaming)
+- Beaker (for storing cooled down tools during ethanol flaming)
+- Plastic bag with no holes 
 
-**On bench** 
-Obtain oyster - shuck and dissect in plastic weigh boat on lab bench (to reduce mess)
+**Perform the following steps on the bench with a lit bunsen burner to ensure a sterile field.**
+1. Label different corners of the plastic weigh boat with tissue type for keeping track of excised tissue.
+2. Obtain oyster - shuck and dissect in plastic weigh boat on lab bench (to reduce mess)
 	- Keep sterile between oyster samples/tissues - ethanol flame tweezers/scissors between individuals (have two sets, one working and one cooling down from the flame (in an empty sterile beaker) - *do not dissect with hot tools*)
-   	- If necessary, discard excess liquid from oyster into a plastic bag with no holes. This and all leftover soft oyster tissue contents will be discarded later. Oyster shells can be rinsed with water and kept in 'shell bag' in the bottom of the Narwhal freezer
-
+3. If necessary, discard excess liquid from oyster into a plastic bag with no holes. This and all leftover soft oyster tissue contents will be discarded later. Oyster shells can be rinsed with water and kept in 'shell bag' in the bottom of the Narwhal freezer
+4. Place samples of oyster tissue into new sterile 2 mL tubes, making sure to sterilize (ethanol-flame) tweezer between samples
 **Perform the following procedure in the fume hood. Take precautions to avoid contamination.**
-1. Place samples of oyster tissue into new sterile 2 mL tubes, making sure to sterilize (ethanol-flame) forceps between samples
-2. Add 500uL of PCM to each sample
-3. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
-4. Submerge probe in 2mL tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 5 clicks to the right, hold for 10 seconds
+5. Add 500uL of PCM to each sample
+6. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
+7. Submerge probe in 2mL tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 5 clicks to the right, hold for 10 seconds
     - Keep tubes in cold rack while homogenizing and watch for spillover
     - _Never run homogenizer dry_
-5. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, repeat step 4
-6. Clean probe immediately as follows: first DI bath 10s, bleach 10s, second DI bath 10s
-7. Remove probe and leave in second DI bath
-8. Repeat steps 3-5 for all samples
+8. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, repeat step 4
+9. Clean probe immediately as follows: first DI bath 10s, bleach 10s, second DI bath 10s
+10. Remove probe and leave in second DI bath
+11. Repeat steps 3-5 for all samples
 
 Due to the Homogenizer 150 getting hot with use and the potential for RNA degradation, do not exceed 10 samples without resting the equipment for 30 minutes. (_untested_)
 
