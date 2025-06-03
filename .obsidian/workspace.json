@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -278,11 +278,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "268b99d3b3a20a66",
+  "active": "7202599692d1f3ea",
   "lastOpenFiles": [
+    "Papers/Zotero Color Coding.md",
     "Protocols/Oyster_maintenance/RFTM Perkinsus marinus Assay.md",
     "GW_Lab_Notebook/Perkinsus Culturing (Jen's version with notes to self).md",
-    "Papers/Zotero Color Coding.md",
     "Papers",
     "GW_Lab_Notebook/P. marinus Notes.md",
     "GW_Lab_Notebook/Protocol for RFTM Perkinsus marinus Assay.md",
