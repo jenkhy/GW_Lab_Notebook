@@ -83,6 +83,8 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 - 1000 uL pipet
 - Pipet tips
 - Tubes with oyster tissue
+- Tube rack 
+- Ice for tube rack 
 - Homogenizer 150
 - Plastic probe
 - Two DI baths in beakers
@@ -113,7 +115,7 @@ Due to the Homogenizer 150 getting hot with use and the potential for RNA degrad
 ## Inoculating Perkinsus strains into PCM:
 
 ### Materials:
-- *Perkinsus marinus* strains or homogenized oyster tissue
+- Homogenized oyster tissue
 - PCM
 - 25 cm^2 culture flasks 
 - 1000 uL pipet
