@@ -67,13 +67,21 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 ## Homogenizing oyster tissue for inoculation:
 ### Materials: 
 *Reagents needed:* 
-- 
+- 500 uL of PCM
 
-**Perform the following procedure in the fume hood. Take precautions to avoid contamination.**
+*Other materials:*
+- Oyster
+- Shucking knife
+- Shucking glove 
+- Plastic weigh boat 
+- Beaker of ethanol 
+
 **On bench** 
 Obtain oyster - shuck and dissect in plastic weigh boat on lab bench (to reduce mess)
 	- Keep sterile between oyster samples/tissues - ethanol flame tweezers/scissors between individuals (have two sets, one working and one cooling down from the flame (in an empty sterile beaker) - *do not dissect with hot tools*)
    	- If necessary, discard excess liquid from oyster into a plastic bag with no holes. This and all leftover soft oyster tissue contents will be discarded later. Oyster shells can be rinsed with water and kept in 'shell bag' in the bottom of the Narwhal freezer
+
+**Perform the following procedure in the fume hood. Take precautions to avoid contamination.**
 1. Place samples of oyster tissue into new sterile 2 mL tubes, making sure to sterilize (ethanol-flame) forceps between samples
 2. Add 500uL of PCM to each sample
 3. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
