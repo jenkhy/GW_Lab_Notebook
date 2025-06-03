@@ -1,3 +1,8 @@
+General steps for Perkinsus culturing: 
+1. Make Perkinsus culturing media
+2. Homogenize oyster tissue
+3. Inoculate homogenized oyster tissue into Perkinsus culturing media 
+
 Materials to autoclave before beginning protocol, if not autoclaved already:
 - Two 1000 mL autoclavable glass bottles or larger 
 - Vacuum filtration apparatus (glass filter funnel, filter base, clamp)
