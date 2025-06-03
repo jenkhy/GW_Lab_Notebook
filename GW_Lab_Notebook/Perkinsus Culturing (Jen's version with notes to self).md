@@ -80,6 +80,9 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 - Bunsen burner (for ethanol flaming)
 - Beaker (for storing cooled down tools during ethanol flaming)
 - Plastic bag with no holes 
+- 1000 uL pipet
+- Pipet tips
+- ubes with oyster tissue, Homogenizer 150, plastic probe, two DI baths, bleach bath
 ### Protocol: 
 **Perform the following steps on the bench with a lit bunsen burner to ensure a sterile field.**
 1. Label different corners of the plastic weigh boat with tissue type for keeping track of excised tissue.
