@@ -112,7 +112,7 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 Due to the Homogenizer 150 getting hot with use and the potential for RNA degradation, do not exceed 10 samples without resting the equipment for 30 minutes. (_untested_)
 
 
-## Inoculating Perkinsus strains into PCM:
+## Inoculating Perkinsus into PCM:
 
 ### Materials:
 - Homogenized oyster tissue
