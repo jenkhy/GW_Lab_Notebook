@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -264,8 +264,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7202599692d1f3ea",
+  "active": "358dd50eda2aa5a2",
   "lastOpenFiles": [
+    "Protocols/Oyster_maintenance/RFTM Perkinsus marinus Assay.md",
     "GW_Lab_Notebook/Perkinsus Culturing (Jen's version with notes to self).md",
     "GW_Lab_Notebook/Protocol for RFTM Perkinsus marinus Assay.md",
     "GW_Lab_Notebook/Protocol for Algae Culturing.md",
@@ -275,7 +276,6 @@
     "GW_Lab_Notebook/Jen's Algae Culturing Project (Fall Semester).md",
     "GW_Lab_Notebook/Algae Notes.md",
     "GW_Lab_Notebook/\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\" Notes.md",
-    "Protocols/Oyster_maintenance/RFTM Perkinsus marinus Assay.md",
     "Protocols/Oyster_maintenance/Perkinsus Culturing.md",
     "Protocols/Oyster_maintenance/Cell Counting with Hemocytometer.md",
     "Protocols/Oyster_maintenance/Algae_Culturing.md",

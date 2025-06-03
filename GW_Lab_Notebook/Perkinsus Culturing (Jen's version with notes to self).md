@@ -9,9 +9,9 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 - 1000 mL filtration flask 
 - Filtration flask tubing
 
-### Making 1 L of Perkinsus Culturing Media (PCM):
+## Making 1 L of Perkinsus Culturing Media (PCM):
 
-**Materials:**
+### Materials:
 - DI water
 - Instant Ocean 
 - DME
@@ -31,7 +31,7 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 - Tape
 - Sharpie
 
-**Protocol:** 
+### Protocol:
 1. Make 16 g/L saltwater with instant ocean by adding 16 g of instant ocean to 1000 mL of DI water in 1000 mL glass screw cap bottle 
 	- The standard salinity based on existing protocols uses 16 g/L saltwater, for my experiment I will use three salinities:
 		- low (5-10 ppt)
@@ -64,27 +64,33 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 12. Filter PCM by pouring it into filter funnel slowly, making sure to not overflow the filter funnel
 13. Transfer filtered PCM into labeled new sterile 1000 mL glass screw cap bottle
 14. Store sterile PCM in 4°C fridge
-### Homogenizing oyster tissue for inoculation:
-**Perform the following procedure in the fume hood. Take precautions to avoid contamination.**
+## Homogenizing oyster tissue for inoculation:
+### Materials: 
+*Reagents needed:* 
+- 
 
-1. Shuck oyster 
-2. Place samples of oyster tissue into new sterile 2 mL tubes, making sure to sterilize (ethanol-flame) forceps between samples
-3. Add 500uL of PCM to each sample
-4. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
-5. Submerge probe in 2mL tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 5 clicks to the right, hold for 10 seconds
+**Perform the following procedure in the fume hood. Take precautions to avoid contamination.**
+**On bench** 
+Obtain oyster - shuck and dissect in plastic weigh boat on lab bench (to reduce mess)
+	- Keep sterile between oyster samples/tissues - ethanol flame tweezers/scissors between individuals (have two sets, one working and one cooling down from the flame (in an empty sterile beaker) - *do not dissect with hot tools*)
+   	- If necessary, discard excess liquid from oyster into a plastic bag with no holes. This and all leftover soft oyster tissue contents will be discarded later. Oyster shells can be rinsed with water and kept in 'shell bag' in the bottom of the Narwhal freezer
+1. Place samples of oyster tissue into new sterile 2 mL tubes, making sure to sterilize (ethanol-flame) forceps between samples
+2. Add 500uL of PCM to each sample
+3. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
+4. Submerge probe in 2mL tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 5 clicks to the right, hold for 10 seconds
     - Keep tubes in cold rack while homogenizing and watch for spillover
     - _Never run homogenizer dry_
-6. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, repeat step 4
-7. Clean probe immediately as follows: first DI bath 10s, bleach 10s, second DI bath 10s
-8. Remove probe and leave in second DI bath
-9. Repeat steps 3-5 for all samples
+5. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, repeat step 4
+6. Clean probe immediately as follows: first DI bath 10s, bleach 10s, second DI bath 10s
+7. Remove probe and leave in second DI bath
+8. Repeat steps 3-5 for all samples
 
 Due to the Homogenizer 150 getting hot with use and the potential for RNA degradation, do not exceed 10 samples without resting the equipment for 30 minutes. (_untested_)
 
 
-### Inoculating Perkinsus strains into PCM:
+## Inoculating Perkinsus strains into PCM:
 
-**Materials:**
+### Materials:
 - *Perkinsus marinus* strains or homogenized oyster tissue
 - PCM
 - 25 cm^2 culture flasks 
@@ -94,7 +100,7 @@ Due to the Homogenizer 150 getting hot with use and the potential for RNA degrad
 - 25 mL pipet tips
 - Sharpie
 
-**Protocol:**
+### Protocol:
 
 1. This initial inoculation will be P1. 
 2. In the BSC, pipet 20 mL of PCM into each 25 cm^2 culture flask. If flasks are tissue treated, keep flask upright with cap of flask being at the top to avoid cells adhering
