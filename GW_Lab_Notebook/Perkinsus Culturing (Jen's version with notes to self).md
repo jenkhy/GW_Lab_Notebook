@@ -82,7 +82,11 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 - Plastic bag with no holes 
 - 1000 uL pipet
 - Pipet tips
-- ubes with oyster tissue, Homogenizer 150, plastic probe, two DI baths, bleach bath
+- Tubes with oyster tissue
+- Homogenizer 150
+- Plastic probe
+- Two DI baths in beakers
+- Bleach bath in beaker 
 ### Protocol: 
 **Perform the following steps on the bench with a lit bunsen burner to ensure a sterile field.**
 1. Label different corners of the plastic weigh boat with tissue type for keeping track of excised tissue.
