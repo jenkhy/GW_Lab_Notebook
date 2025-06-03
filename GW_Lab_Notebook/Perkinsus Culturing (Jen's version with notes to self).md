@@ -65,7 +65,21 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 13. Transfer filtered PCM into labeled new sterile 1000 mL glass screw cap bottle
 14. Store sterile PCM in 4°C fridge
 ### Homogenizing oyster tissue for inoculation:
+**Perform the following procedure in the fume hood. Take precautions to avoid contamination.**
 
+1. Shuck oyster 
+2. Place samples of oyster tissue into new sterile 2 mL tubes, making sure to sterilize (ethanol-flame) forceps between samples
+3. Add 500uL of PCM to each sample
+4. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
+5. Submerge probe in 2mL tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 5 clicks to the right, hold for 10 seconds
+    - Keep tubes in cold rack while homogenizing and watch for spillover
+    - _Never run homogenizer dry_
+6. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, repeat step 4
+7. Clean probe immediately as follows: first DI bath 10s, bleach 10s, second DI bath 10s
+8. Remove probe and leave in second DI bath
+9. Repeat steps 3-5 for all samples
+
+Due to the Homogenizer 150 getting hot with use and the potential for RNA degradation, do not exceed 10 samples without resting the equipment for 30 minutes. (_untested_)
 
 
 ### Inoculating Perkinsus strains into PCM:
