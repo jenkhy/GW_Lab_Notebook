@@ -64,6 +64,9 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 12. Filter PCM by pouring it into filter funnel slowly, making sure to not overflow the filter funnel
 13. Transfer filtered PCM into labeled new sterile 1000 mL glass screw cap bottle
 14. Store sterile PCM in 4°C fridge
+### Homogenizing oyster tissue for inoculation:
+
+
 
 ### Inoculating Perkinsus strains into PCM:
 
