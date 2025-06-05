@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -279,16 +279,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "358dd50eda2aa5a2",
+  "active": "268b99d3b3a20a66",
   "lastOpenFiles": [
+    "GW_Lab_Notebook/P. marinus Notes.md",
+    "GW_Lab_Notebook/Perkinsus Culturing (Jen's version with notes to self).md",
     "Papers/Zotero Color Coding.md",
     "Protocols/Oyster_maintenance/Cell Counting with Hemocytometer.md",
     "Protocols/Oyster_maintenance/Perkinsus Culturing.md",
     "Protocols/Oyster_maintenance/RFTM Perkinsus marinus Assay.md",
     "liuIdentificationGlycineBetaine2023.md",
-    "GW_Lab_Notebook/Perkinsus Culturing (Jen's version with notes to self).md",
     "Papers",
-    "GW_Lab_Notebook/P. marinus Notes.md",
     "GW_Lab_Notebook/Protocol for RFTM Perkinsus marinus Assay.md",
     "GW_Lab_Notebook/Protocol for Algae Culturing.md",
     "GW_Lab_Notebook/Oyster Kinds.md",
