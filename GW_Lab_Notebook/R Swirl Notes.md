@@ -20,3 +20,6 @@ Common functions:
 - ls() for listing all objects on workspace
 - dir() or list.files() for listing all files in working directory on my mac 
 - ?"  " for help 
+- One of the most helpful parts of any R help file is the See Also section. Read that section for list.files. Some of these functions may be used in later portions of this lesson.
+- args() for seeing what arguments a function can take
+- 
