@@ -8,3 +8,8 @@ When you are at the R prompt (>):
 
 Vector: small collection of numbers, can be at least one number 
 - To create a vector, type c()
+
+Common functions: 
+- ^ means squared
+- sqrt() for square root 
+- abs() for absolute value 
