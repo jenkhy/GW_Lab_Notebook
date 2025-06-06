@@ -5,3 +5,6 @@ When you are at the R prompt (>):
 - Typing bye() causes swirl to exit. Your progress will be saved.
 - Typing main() returns you to swirl's main menu.
 - Typing info() displays these options again.
+
+Vector: small collection of numbers, can be at least one number 
+- To create a vector, type c()
