@@ -17,3 +17,6 @@ Common functions:
 - ^ means squared
 - sqrt() for square root 
 - abs() for absolute value 
+- ls() for listing all objects on workspace
+- dir() or list.files() for listing all files in working directory on my mac 
+- ?"  " for help 
