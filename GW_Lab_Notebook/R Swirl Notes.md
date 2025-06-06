@@ -1,3 +1,7 @@
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
 When you are at the R prompt (>):
 - Typing skip() allows you to skip the current question.
 - Typing play() lets you experiment with R on your own; swirl will ignore what you do...
