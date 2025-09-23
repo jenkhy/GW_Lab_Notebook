@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/Oyster_maintenance/Perkinsus Culturing.md",
+                "file": "Protocols/Oyster_maintenance/SOP for Disposal of RFTM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perkinsus Culturing"
+              "title": "SOP for Disposal of RFTM"
             }
           },
           {
@@ -310,8 +310,8 @@
   },
   "active": "c9ce3ebd8a4d27cf",
   "lastOpenFiles": [
-    "Protocols/Oyster_maintenance/SOP for Disposal of RFTM.md",
     "Protocols/Oyster_maintenance/Perkinsus Culturing.md",
+    "Protocols/Oyster_maintenance/SOP for Disposal of RFTM.md",
     "GW_Lab_Notebook/Perkinsus Culturing (Jen's version with notes to self).md",
     "GW_Lab_Notebook/R Swirl Notes.md",
     "liuIdentificationGlycineBetaine2023.md",
