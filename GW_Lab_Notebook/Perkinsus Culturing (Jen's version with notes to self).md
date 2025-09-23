@@ -98,8 +98,8 @@ Materials to autoclave before beginning protocol, if not autoclaved already:
 4. Place samples of oyster tissue into new sterile 2 mL tubes, making sure to sterilize (ethanol-flame) tweezer between samples
 
 **Perform the following procedure in the fume hood. Take precautions to avoid contamination.**
-5. Into the fume hood, bring PCM, 1000 uL pipet, pipet tips, tubes with oyster tissue, Homogenizer 150, plastic probe, two DI baths, bleach bath. 
-6. Add 500uL of PCM to each sample
+5. Into the fume hood, bring saltwater, 1000 uL pipet, pipet tips, tubes with oyster tissue, Homogenizer 150, plastic probe, two DI baths, bleach bath. 
+6. Add 500uL of saltwater to each sample
 7. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
 8. Submerge probe in 2mL tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 5 clicks to the right, hold for 10 seconds
     - Keep tubes in cold rack while homogenizing and watch for spillover
