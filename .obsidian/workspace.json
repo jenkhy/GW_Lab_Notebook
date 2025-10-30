@@ -125,26 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/Oyster_maintenance/Perkinsus Culturing.md",
+                "file": "GW_Lab_Notebook/Perkinsus Culturing Notes and Perkinsus Papers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perkinsus Culturing"
-            }
-          },
-          {
-            "id": "c9ce3ebd8a4d27cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocols/Oyster_maintenance/SOP for Disposal of RFTM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SOP for Disposal of RFTM"
+              "title": "Perkinsus Culturing Notes and Perkinsus Papers"
             }
           },
           {
@@ -336,43 +322,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e302bf185655874d",
+  "active": "54fad8d2a6111d12",
   "lastOpenFiles": [
-    "GW_Lab_Notebook/Perkinsus Culturing Notes and Perkinsus Papers.md",
-    "GW_Lab_Notebook/Troubleshooting Perkinsus Culturing.md",
-    "Protocols/Oyster_maintenance/Perkinsus Culturing.md",
-    "Protocols/Oyster_maintenance/RFTM Perkinsus marinus Assay.md",
-    "Protocols/Oyster_maintenance/SOP for Disposal of RFTM.md",
-    "GW_Lab_Notebook/P. marinus Notes.md",
-    "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
-    "GW_Lab_Notebook/R Swirl Notes.md",
-    "liuIdentificationGlycineBetaine2023.md",
-    "Papers/Zotero Color Coding.md",
-    "Protocols/Oyster_maintenance/Cell Counting with Hemocytometer.md",
-    "Papers",
-    "GW_Lab_Notebook/Protocol for RFTM Perkinsus marinus Assay.md",
-    "GW_Lab_Notebook/Protocol for Algae Culturing.md",
-    "GW_Lab_Notebook/Oyster Kinds.md",
-    "GW_Lab_Notebook/Jen's Algae Culturing Project (Fall Semester).md",
-    "GW_Lab_Notebook/Algae Notes.md",
-    "Papers/\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\" Notes.md",
-    "Protocols/Oyster_maintenance/Algae_Culturing.md",
-    "Protocols/Oyster_maintenance/Algae-Culturing.md",
-    "GW_Lab_Notebook/Protocols/Protocol for Culturing Perkinsus.md",
-    "Protocols/Computational/GitHub-Desktop.md",
-    "Protocols/GitHub-Desktop.md",
-    "Protocols/Oyster_maintenance/Using_Orion.md",
-    "Protocols/Oyster_maintenance",
-    "Protocols/Molecular_labwork/Trizol RNA and DNA Extraction Protocol.md",
-    "Protocols/Molecular_labwork/TBE_Buffer_Protocol.md",
-    "Protocols/Molecular_labwork/Qubit.md",
-    "Protocols/Molecular_labwork",
-    "Protocols/Fieldwork/WhiteBalancing_OlympusT6_T7.pdf",
-    "Protocols/Fieldwork/UnderwaterPrintableWhiteBalancing_OlympusT6_T7.pdf",
-    "Protocols/Fieldwork/SCTLDResamplingProtocol.pdf",
-    "Protocols/Fieldwork/SCTLDPackingList_EstablishedSite .pdf",
-    "Protocols/Fieldwork/FieldDataManagementProtocol.pdf",
-    "Protocols/Fieldwork/AssessingHealthStatus.pdf",
-    "Protocols/Fieldwork"
+    "Protocols2/Untitled/Oyster_maintenance/Using_Orion.md",
+    "Protocols2/Untitled/Oyster_maintenance/F2 media.md",
+    "Protocols2/Untitled/Oyster_maintenance/Cell Counting with Hemocytometer.md",
+    "Protocols2/Untitled/Oyster_maintenance/Algae_Culturing.md",
+    "Protocols2/Untitled/Molecular_labwork/Trizol_RNA-DNA_Extraction_Protocol.md",
+    "Protocols2/Untitled/Molecular_labwork/TBE_Buffer_Protocol.md",
+    "Protocols2/Untitled/Molecular_labwork/Qubit.md",
+    "Protocols2/Untitled/Molecular_labwork/Qiagen Gel Extraction.md",
+    "Protocols2/Untitled/Molecular_labwork/Microbiome-enrichment.md",
+    "Protocols2/Untitled/Molecular_labwork/Histology_Slide_Prep.md",
+    "Protocols2/Untitled/Molecular_labwork/DNase_Treatment.md",
+    "Protocols2/Untitled/Molecular_labwork/DNA_Extraction_Protocol.md",
+    "Protocols2/Untitled/Molecular_labwork/Calibrate_Pipettes.md",
+    "Protocols2/Untitled/Molecular_labwork/ATAC-seq_protocol.md",
+    "Protocols2/Untitled/Molecular_labwork/16S_library_prep.md",
+    "Protocols2/Untitled/Oyster_labwork/RFTM_Pmarinus_Assay.md",
+    "Protocols2/Untitled/Oyster_labwork/Perkinsus_Culturing.md",
+    "Protocols2/Untitled/Oyster_labwork/Oyster_Shell Macroparasite_Protocol.md",
+    "Protocols2/Untitled/Fieldwork/coraldemographicsfieldsheet_Double .pdf",
+    "Protocols2/Untitled/Fieldwork/coralconditions_DOUBLE.pdf",
+    "Protocols2/Untitled/Fieldwork/WhiteBalancing_OlympusT6_T7.pdf",
+    "Protocols2/Untitled/Fieldwork/UnderwaterPrintableWhiteBalancing_OlympusT6_T7.pdf",
+    "Protocols2/Untitled/Fieldwork/SCTLDResamplingProtocol.pdf",
+    "Protocols2/Untitled/Fieldwork/SCTLDPackingList_EstablishedSite .pdf",
+    "Protocols2/Untitled/Fieldwork/SCTLD Packing List_ NewSite.pdf",
+    "Protocols2/Untitled/Fieldwork/ProbioticSamplingFieldsheet DOUBLE.pdf",
+    "Protocols2/Untitled/Fieldwork/PIC Oyster Sampling Protocol.md",
+    "Protocols2/Untitled/Fieldwork/EstablishingCoralMonitoringSite.pdf",
+    "Protocols2/Untitled/Fieldwork/FieldDataManagementProtocol.pdf",
+    "Protocols2/Untitled/Computational/SRA-tutorial.md",
+    "Protocols2/Untitled/Computational/Obsidian2GitHub-tutorial.md",
+    "Protocols2/Untitled/Computational/GitHub-Desktop.md",
+    "Protocols2/Untitled/README.md",
+    "Protocols2/Oyster_maintenance/SOP for Disposal of RFTM.md",
+    "Protocols2/Oyster_maintenance/Using_Orion.md",
+    "Protocols2/Oyster_maintenance/Cell Counting with Hemocytometer.md"
   ]
 }
