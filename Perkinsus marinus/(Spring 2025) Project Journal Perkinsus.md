@@ -7,7 +7,7 @@
 - Cell counts for old algae carboys and new algae carboys 
 - Read papers to learn how to use a technique for obtaining and culturing Perkinsus
 
-[[About P. marinus]] 
+[[Notes Culturing Perkinsus]] 
 - The optimum salinity for P. marinus to thrive is 25-30 ppt
 
 **Streaking agar plates with Old Tetraselmis chuii Stocks** 

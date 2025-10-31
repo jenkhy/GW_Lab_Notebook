@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers/\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\".md",
+                "file": "Culturing P. marinus/Notes Culturing Perkinsus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\""
+              "title": "Notes Culturing Perkinsus"
+            }
+          },
+          {
+            "id": "acced08c9073a1ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culturing P. marinus/Notes Culturing Perkinsus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes Culturing Perkinsus"
+            }
+          },
+          {
+            "id": "3cc9a5cc89c5e370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culturing P. marinus/Notes Culturing Perkinsus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes Culturing Perkinsus"
+            }
+          },
+          {
+            "id": "588e53a77dd7b745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culturing P. marinus/Notes Culturing Perkinsus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes Culturing Perkinsus"
+            }
+          },
+          {
+            "id": "2832127ac86e3172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -181,18 +238,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cded8cc8d88eca3",
+  "active": "2832127ac86e3172",
   "lastOpenFiles": [
-    "Papers/Zotero Color Coding.md",
+    "Perkinsus marinus/(Spring 2025) Project Journal Perkinsus.md",
+    "Algae/Jen's Algae Culturing Project (Fall Semester).md",
+    "Algae/Old Protocol Draft Algae Culturing.md",
+    "Algae/Old Algae Notes.md",
+    "Culturing P. marinus/Notes Culturing Perkinsus.md",
+    "Algae",
+    "Culturing Perkinsus.md",
+    "Culturing P. marinus",
+    "Perkinsus marinus/Environmental Factors affecting *Perkinsus* growth.md",
+    "Untitled",
+    "Perkinsus marinus/Infectivity of P. marinus.md",
+    "Perkinsus marinus/Optimum Living Environment for Perkinsus.md",
+    "Perkinsus marinus/Life Stages of P. marinus.md",
+    "Perkinsus marinus",
     "Papers/\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\".md",
-    "About P. marinus.md",
-    "Algae Notes.md",
-    "Jen's Algae Culturing Project (Fall Semester).md",
-    "Jen's Perkinsus marinus Project (Spring Semester).md",
-    "Papers for Perkinsus Culturing.md",
+    "Papers/Zotero Color Coding.md",
+    "Culturing P. marinus/Papers for Perkinsus Culturing.md",
     "Oyster Kinds.md",
-    "Protocol for Algae Culturing.md",
-    "Troubleshooting Perkinsus Culturing.md",
+    "Culturing P. marinus/Troubleshooting Perkinsus Culturing.md",
     "README.md",
     "Protocol for RFTM Perkinsus marinus Assay.md",
     "R Swirl Notes.md",
@@ -203,21 +269,11 @@
     "GW_Lab_Notebook/Perkinsus Culturing Notes and Perkinsus Papers.md",
     "GW_Lab_Notebook/P. marinus Notes.md",
     "GW_Lab_Notebook/Oyster Kinds.md",
-    "GW_Lab_Notebook/Jen's Perkinsus marinus Project (Spring Semester).md",
-    "GW_Lab_Notebook/Jen's Algae Culturing Project (Fall Semester).md",
-    "GW_Lab_Notebook/Algae Notes.md",
     "GW_Lab_Notebook",
-    "Lab_Notebook/Troubleshooting Perkinsus Culturing.md",
-    "Lab_Notebook/R Swirl Notes.md",
-    "Lab_Notebook/Protocol for RFTM Perkinsus marinus Assay.md",
     "Lab_Notebook",
     "Protocols/Oyster_labwork",
     "Protocols/Computational",
     "Protocols/Fieldwork/coraldemographicsfieldsheet_Double .pdf",
-    "Protocols/Fieldwork/coralconditions_DOUBLE.pdf",
-    "Protocols/Fieldwork/WhiteBalancing_OlympusT6_T7.pdf",
-    "Protocols/Fieldwork/UnderwaterPrintableWhiteBalancing_OlympusT6_T7.pdf",
-    "Protocols/Fieldwork/SCTLDResamplingProtocol.pdf",
-    "Protocols/Fieldwork/SCTLDPackingList_EstablishedSite .pdf"
+    "Protocols/Fieldwork/coralconditions_DOUBLE.pdf"
   ]
 }
