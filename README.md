@@ -1,1 +1,1 @@
-GW_Lab_Notebook
+GW_LabNotebook
