@@ -41,26 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culturing P. marinus/Notes Culturing Perkinsus.md",
+                "file": "Culturing P. marinus/Papers for Perkinsus Culturing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes Culturing Perkinsus"
-            }
-          },
-          {
-            "id": "588e53a77dd7b745",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Culturing P. marinus/Notes Culturing Perkinsus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes Culturing Perkinsus"
+              "title": "Papers for Perkinsus Culturing"
             }
           },
           {
@@ -69,16 +55,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culturing P. marinus/Papers for Perkinsus Culturing.md",
+                "file": "Culturing P. marinus/Troubleshooting Perkinsus Culturing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Papers for Perkinsus Culturing"
+              "title": "Troubleshooting Perkinsus Culturing"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
+      },
+      {
+        "id": "5040bffa1adbfe3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c1bd26eea84bf7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culturing P. marinus/Troubleshooting Perkinsus Culturing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Troubleshooting Perkinsus Culturing"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,9 +244,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2832127ac86e3172",
+  "active": "3c1bd26eea84bf7d",
   "lastOpenFiles": [
+    "Culturing P. marinus/Papers for Perkinsus Culturing.md",
     "Culturing P. marinus/Troubleshooting Perkinsus Culturing.md",
+    "Culturing P. marinus/Notes Culturing Perkinsus.md",
     "Perkinsus marinus/Life Stages of P. marinus.md",
     "Perkinsus marinus/Optimum Living Environment for Perkinsus.md",
     "README.md",
@@ -248,7 +256,6 @@
     "Algae/Jen's Algae Culturing Project (Fall Semester).md",
     "Algae/Old Protocol Draft Algae Culturing.md",
     "Algae/Old Algae Notes.md",
-    "Culturing P. marinus/Notes Culturing Perkinsus.md",
     "Algae",
     "Culturing Perkinsus.md",
     "Culturing P. marinus",
@@ -258,7 +265,6 @@
     "Perkinsus marinus",
     "Papers/\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\".md",
     "Papers/Zotero Color Coding.md",
-    "Culturing P. marinus/Papers for Perkinsus Culturing.md",
     "Oyster Kinds.md",
     "Protocol for RFTM Perkinsus marinus Assay.md",
     "R Swirl Notes.md",

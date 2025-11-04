@@ -7,3 +7,8 @@
 	- One with rectum tissue inoculated in PCM
 	- One with mantle tissue inoculated in PCM
 	- One control with just PCM
+
+1. Decontaminate tissue with antibiotics 
+	1. 400 mgL-1 streptomycin, 400 mUL-1 penicillin, 50 mgL-1 nystatin, 50 mgL-1 chloramphenicol in saltwater
+	2. 
+2. 
