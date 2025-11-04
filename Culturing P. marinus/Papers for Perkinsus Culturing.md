@@ -15,5 +15,7 @@
 	**My notes:** 
 	- Use this information to: know what antibiotics to use for decontaminating tissue
 	- Under Materials and Methods, 2.2 Isolation and In Vitro Culture Initiation: Perkinsus is isolated by first decontaminating tissue with antibiotic solution (400 mgL -1 streptomycin, 400 mUL-1 penicillin, 50 mgL-1 nystatin, 50 mgL-1 chloramphenicol) diluted in filter sterilized saltwater, then Perkinsus cells were enlarged by transferring tissues into RFTM with its antibiotics  (200 mgL-1 Streptomycin, 200 mUL-1Penicillin, 50 mgL-1 Nystatin, and 5 mgL-1Chloramphenicol) and incubated at 22°C in the dark with gentle shaking, tissue samples were then inoculated into PCM, antibiotic treatment (200 mgL-1Streptomycin, 200 mUL-1 Penicillin, 50 mgL-1Nystatin, and 5 mgL-1 Chloramphenicol) added to the inoculated PCM, incubated in dark at 22°C and shaken at 20 rpm. 
+Paper Name: Dungan, Reece 2006
+
 
 

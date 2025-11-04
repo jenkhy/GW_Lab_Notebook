@@ -8,6 +8,10 @@
 	- One with mantle tissue inoculated in PCM
 	- One control with just PCM
 
-1. Decontaminate tissue with antibiotics 
-	1. 400 mgL-1 streptomycin, 400 mUL-1 penicillin, 50 mgL-1 nystatin, 50 mgL-1 chloramphenicol in filter sterilized saltwater
-2. 
+From paper: Dungan, Reece 2006
+1. Sterile dissection of the oyster tissue 
+2. Inoculate the mantle and rectum tissue into its own 2 mL of RFTM tube with antibiotics
+3. Incubate for 48h at 27°C
+4. Take just tissue from RFTM and inoculate into 2 mL PCM with antibiotics in a tube 
+5. Pipette up and down to disturb tissue, this is to dislodge cells 
+6. Put 0.5 into a new tube with PCM and antibiotics, put 0.5 of PCM with antibiotics into a new 2 mL PCM 
