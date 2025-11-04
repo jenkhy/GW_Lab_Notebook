@@ -9,6 +9,5 @@
 	- One control with just PCM
 
 1. Decontaminate tissue with antibiotics 
-	1. 400 mgL-1 streptomycin, 400 mUL-1 penicillin, 50 mgL-1 nystatin, 50 mgL-1 chloramphenicol in saltwater
-	2. 
+	1. 400 mgL-1 streptomycin, 400 mUL-1 penicillin, 50 mgL-1 nystatin, 50 mgL-1 chloramphenicol in filter sterilized saltwater
 2. 
