@@ -14,8 +14,11 @@ Materials:
 - One oyster 
 - Sterile scissors 
 - Autoclaved four 5 mL tubes (for RFTM)
-- 12 mL RFTM with antibiotics (this is including extra RFTM)
-	- 
+- 100 mL RFTM with antibiotics (this is including extra RFTM)
+	- 5 mg nystatin
+	- 500 mg chloramphenicol
+	- 2 mL of pen/strap
+	- 98 mL RFTM
 
 
 **Day 1**
