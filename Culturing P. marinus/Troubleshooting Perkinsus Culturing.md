@@ -10,6 +10,8 @@
 
 From paper: Dungan, Reece 2006
 
+Rough draft of protocol: 
+
 Materials:
 - One oyster 
 - Sterile dissecting scissors 
