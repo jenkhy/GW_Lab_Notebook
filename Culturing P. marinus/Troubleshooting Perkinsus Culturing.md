@@ -20,12 +20,12 @@ Materials:
 - Beaker of ethanol 
 - Ethanol lamp 
 - Four autoclaved 5 mL tubes (for RFTM)
-- 100 mL RFTM with antibiotics (this is including extra RFTM)
+- 100 mL RFTM with antibiotics (this includes extra RFTM)
 	- 5 mg nystatin
 	- 500 mg chloramphenicol
 	- 2 mL of pen/strap
 	- 98 mL RFTM
-- 100 mL PCM with antibiotics (this is including extra PCM)
+- 100 mL PCM with antibiotics (this includes extra PCM)
 	- 5 mg nystatin 
 	- 500 mg chloramphenicol
 	- 2 mL of pen/strap
@@ -47,3 +47,16 @@ Materials:
 11. Take the remaining two tubes in the incubator out to stain with iodine 
 **Day 13**
 12. Take the PCM tubes out of the incubator now that 10 days have passed
+
+11/11/2025 Tuesday 
+- Obtained an oyster from Rowley in Wild tank 
+- Sterile dissection of rectum and mantle tissue, cut each in half. There are now two rectum samples and two mantle samples, each sample is put into autoclaved 5 mL labeled tubes
+- Weighed out antibiotics with the "more accurate" scale as seen in the above protocol (5 mg nystatin, 500 mg chloramphenicol, 2 mL of pen/strep) into a 100 mL screw cap bottle. 
+- In the BSC, added 98 mL of RFTM into the 100 mL screw cap bottle to ensure the big bottle of RFTM remains sterile. 
+- Added 2 mL of RFTM into labeled tubes with tissue
+- Placed in lab incubator at 26.5°C rather than at 27°C
+
+11/13/2025 Thursday 
+- Make PCM with antibiotics by weighing out antibiotics with the "more accurate" scale (5 mg nystatin, 500 mg chloramphenicol, 2 mL of pen/strep), add to a 100 mL screw cap bottle, in BSC, add 98 mL of PCM
+- In two 5 mL tubes, add 2 mL of PCM w antibiotics and inoculate rectum tissue into one, and mantle into the other, pipet up and down to dislodge tissue
+- In nine 5 mL tubes (four for mantle and four for rectum), add 2 mL of PCM into each. Then inoculate 0.5 mL of the PCM containing dislodged tissue into eight of these tubes, one tube will be empty as a control
