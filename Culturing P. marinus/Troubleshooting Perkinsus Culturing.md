@@ -48,13 +48,27 @@ Materials:
 - Two labeled microscope slides 
 - Microscope slide covers
 - Dropper
-- 100% Iodine 
-- Tweezers/Forceps 
-1. Take the remaining two tubes in the incubator out to stain with iodine and look at under microscope 
+- 50% Iodine 
+- Two pairs of tweezers
+- Forceps
+- Tray with paper towel to keep slides on
+- Beaker to pour out RFTM
+- Ethanol lamp
+- Beaker of ethanol
+- Beaker for hot sterile tools
+1. Take the remaining two tubes in the incubator out 
+2. Label two microscope slides "M" and "R"
+3. Place a drop of 50% iodine onto each slide
+4. Pour RFTM into a beaker
+5. Ethanol-flame sterilize forceps to take out tissue and place onto their labeled slides into the pool of iodine
+6. Ethanol-flame sterilize two pairs of tweezers to tease tissue apart
+7. Add 3-4 more drops of iodine
+8. Observe the stained tissue under microscope, looking for blue-black round perkinsus cells
+9. Write down observations 
 **Day 13**
-2. Take the PCM tubes out of the incubator now that 10 days have passed
+10. Take the PCM tubes out of the incubator now that 10 days have passed
 
-11/11/2025 Tuesday 
+11/11/2025 Tuesday (Day 1)
 - Obtained an oyster from Rowley in Wild tank 
 - Sterile dissection of rectum and mantle tissue, cut each in half. There are now two rectum samples and two mantle samples, each sample is put into autoclaved 5 mL labeled tubes
 - Weighed out antibiotics with the "more accurate" scale as seen in the above protocol (5 mg nystatin, 500 mg chloramphenicol into a 100 mL screw cap bottle. 
@@ -64,7 +78,7 @@ Materials:
 - Added 2 mL of RFTM into labeled tubes with tissue
 - Placed in lab incubator at 26.5°C rather than at 27°C, led lights turning on occasionally for algae (forgot about this at the time)
 
-11/13/2025 Thursday 
+11/13/2025 Thursday (Day 3)
 - Made PCM with antibiotics by weighing out antibiotics with the "more accurate" scale (5 mg nystatin, 500 mg chloramphenicol) and added to a 100 mL screw cap bottle
 - Thawed a 2 mL aliquot of pen/strep in a beaker of water on the hot plate, and added 2 mL pen/strep to 100 mL screw cap bottle 
 - In the BSC (to ensure the main stock of PCM remains sterile), added 98 mL of RFTM into the 100 mL screw cap bottle 
@@ -76,4 +90,7 @@ Materials:
 - Labeled nine empty 5 mL tubes (four "M" for mantle, four "R" for rectum, and one "C" for control), added 2 mL of PCM into each. Then, inoculated 0.5 mL of the PCM w/ dislodged tissue into eight of these tubes into their respectively labeled tubes. 
 - Placed in lab incubator at 26.5°C rather than at 27°C, led lights turning on occasionally for algae 
 
-11/18/2025
+11/18/2025 Tuesday (Day 7)
+- The two tubes of RFTM-inoculated tissue were taken out of the incubator after 7 days
+- The mantle and rectum tissue were placed on labeled microscope slides, teased apart, stained with lugol's iodine, and looked at under a microscope
+- No perkinsus marinus cells were found
