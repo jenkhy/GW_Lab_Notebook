@@ -36,7 +36,7 @@ Materials:
 2. Cut mantle tissue in half and cut rectum tissue in half
 3. Inoculate tissue samples into two tubes that will be used for iodine staining: one set of mantle into one tube of 2 mL of RFTM with antibiotics, and one set of rectum into one tube of 2 mL of RFTM with antibiotics
 4. Inoculate tissue samples into two tubes that will be used for culturing: one set of mantle into one tube of 2 mL of RFTM with antibiotics, and one set of rectum tissue into one tube of 2 mL of RFTM with antibiotics
-5. Incubate two tubes for 48h at 27°C, leave two tubes to incubate for 7 days
+5. Incubate two tubes for 2 days (48h) at 27°C, leave two tubes to incubate for 7 days
 **Day 3**
 6. Take just tissue from RFTM and inoculate into 2 mL PCM with antibiotics in a tube 
 7. Pipette up and down to disturb tissue, this is to dislodge cells 
@@ -44,9 +44,15 @@ Materials:
 9. Make an extra fifth tube of PCM with antibiotics as a control 
 10. Incubate these four new tubes and the fifth tube (the control) at 27°C (this may take 10-14 days)
 **Day 7**
-11. Take the remaining two tubes in the incubator out to stain with iodine 
+Materials:
+- Two labeled microscope slides 
+- Microscope slide covers
+- Dropper
+- 100% Iodine 
+- Tweezers/Forceps 
+1. Take the remaining two tubes in the incubator out to stain with iodine and look at under microscope 
 **Day 13**
-12. Take the PCM tubes out of the incubator now that 10 days have passed
+2. Take the PCM tubes out of the incubator now that 10 days have passed
 
 11/11/2025 Tuesday 
 - Obtained an oyster from Rowley in Wild tank 
@@ -69,3 +75,5 @@ Materials:
 - Pipetted up and down to dislodge tissue and vortexed each tube. This is now PCM w/ dislodged tissue
 - Labeled nine empty 5 mL tubes (four "M" for mantle, four "R" for rectum, and one "C" for control), added 2 mL of PCM into each. Then, inoculated 0.5 mL of the PCM w/ dislodged tissue into eight of these tubes into their respectively labeled tubes. 
 - Placed in lab incubator at 26.5°C rather than at 27°C, led lights turning on occasionally for algae 
+
+11/18/2025
