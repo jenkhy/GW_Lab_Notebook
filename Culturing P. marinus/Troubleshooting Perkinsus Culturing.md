@@ -9,7 +9,7 @@
 	- One control with just PCM
 
 
-[[Rough draft of Perkinsus Culturing protocol]]
+[[Rough draft of Perkinsus Culturing protocol]] is used 
 
 11/11/2025 Tuesday (Day 1)
 - Obtained an oyster from Rowley in Wild tank 
