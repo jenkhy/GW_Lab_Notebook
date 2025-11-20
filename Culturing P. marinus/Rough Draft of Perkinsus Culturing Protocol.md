@@ -1,7 +1,7 @@
 From paper: Dungan, Reece 2006
 
 ## RFTM Inoculation and Incubation 
-**Materials for RFTM inoculation and incubation:**
+### **Materials for RFTM inoculation and incubation:**
 - One oyster 
 - Tray and paper towel for dissection 
 - Dissecting scissors 
@@ -18,7 +18,7 @@ From paper: Dungan, Reece 2006
 	- 2 mL of pen/strap
 	- 98 mL RFTM
 - Stir bar
-
+### **Protocol** for RFTM inoculation and incubation: 
 **Day 0** 
 1. Autoclave:
 	- Full rack of 5 mL glass tubes with covers 
@@ -34,7 +34,7 @@ From paper: Dungan, Reece 2006
 8. Inoculate tissue samples into two tubes that will be used for culturing: one set of mantle into one tube of 2 mL of RFTM with antibiotics, and one set of rectum tissue into one tube of 2 mL of RFTM with antibiotics
 9. Incubate two tubes for 2 days (48h) at 27°C, leave two tubes to incubate for 7 days
 ## Transferring Tissue from RFTM to PCM
-**Materials for transferring tissue from RFTM to PCM:**
+### **Materials for transferring tissue from RFTM to PCM:**
 - Small empty beaker (for discarding RFTM)
 - 100 mL Perkinsus Culturing Media (PCM) with antibiotics (this includes extra PCM)
 	- 5 mg nystatin 
@@ -46,7 +46,7 @@ From paper: Dungan, Reece 2006
 - Beaker of 100% ethanol 
 - Empty beaker (for storing hot tools)
 - Tweezers/forceps (for transferring tissue from RFTM to PCM)
-
+### Protocol for transferring tissue from RFTM to PCM:
 **Day 3**
 1. If PCM with antibiotics has not been made already, weigh out antibiotics and measure RFTM as above into an autoclaved 100 mL screw cap bottle
 2. Stir with a stir bar and stir plate if necessary
@@ -62,20 +62,25 @@ From paper: Dungan, Reece 2006
 12. Inoculate 0.5 mL of "R" with disturbed oyster tissue into "R1", and 0.5 mL into "R2"
 13. "C" does not contain any tissue, only containing PCM
 14. Incubate these four new tubes and the fifth tube (the control) at 27°C (this may take 10-14 days)
-**Day 7**
-Materials:
+## RFTM Assay Analysis of Tissue
+***Goal**: We're aiming to determine if the oyster from which we took tissue samples to inoculate in PCM contains any Perkinsus. Performing an RFTM Assay Analysis will help us gauge the intensity of any Perkinsus infection this oyster may have had, or if it had any Perkinsus at all.*
+
+
+### Materials for RFTM assay analysis of tissue:
 - Two labeled microscope slides 
 - Microscope slide covers
 - Dropper
 - 50% Iodine 
 - Two pairs of tweezers
 - Forceps
-- Tray with paper towel to keep slides on
+- Tray with paper towel (for slides)
 - Beaker to pour out RFTM
 - Ethanol lamp
 - Beaker of ethanol
 - Beaker for hot sterile tools
-1. Take the remaining two tubes in the incubator out 
+### Protocol for RFTM assay analysis of tissue:
+**Day 7**
+1. Take out the remaining two tubes in the incubator
 2. Label two microscope slides "M" and "R"
 3. Place a drop of 50% iodine onto each slide
 4. Pour RFTM into a beaker
@@ -84,13 +89,14 @@ Materials:
 7. Add 3-4 more drops of iodine
 8. Observe the stained tissue under microscope, looking for blue-black round perkinsus cells
 9. Write down observations 
-
-Materials for Homogenizing: 
+## Homogenizing Tissue
+### Materials for Homogenizing Tissue: 
 - Homogenizer
 - Homogenizer probes 
 - Beaker of DI water 
 - PCM-inoculated tissue in tubes (in incubator)
 - Culture flasks 
 - PCM in fridge 
+### Protocol for homogenizing tissue
 **Day 13**
 1. Take the PCM tubes out of the incubator now that 10 days have passed
