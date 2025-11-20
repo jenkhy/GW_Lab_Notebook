@@ -96,7 +96,12 @@ From paper: Dungan, Reece 2006
 - Beaker of DI water 
 - PCM-inoculated tissue in tubes (in incubator)
 - Culture flasks 
-- PCM in fridge 
+- 100 mL bottle of PCM with antibiotics
+- 25 cm^2 Culture Flask
 ### Protocol for homogenizing tissue
 **Day 13**
-1. Take the PCM tubes out of the incubator now that 10 days have passed
+1. In the BSC, bring 100 mL bottle of PCM with antibiotics and two 25 cm^2 culture flasks
+2. Pipette 18 mL of PCM into each 25 cm^2 culture flask. If flasks are tissue-treated, keep the flask upright with the cap at the top to avoid cell adhesion. 
+3. Label each 25 cm^2 culture flask with tissue type "M" or "R", and "P1" for first passage
+4. Take the PCM tubes out of the incubator now that 10 days have passed
+5. In fume hood, bring homogenizer, homogenizer probes, beaker of DI water, and PCM tubes
