@@ -18,7 +18,7 @@ From paper: Dungan, Reece 2006
 	- 98 mL RFTM
 
 **Day 0** 
-1. Autoclave a full rack of 5 mL glass tubes and a 100 mL screw cap bottle
+1. Autoclave a full rack of 5 mL glass tubes and two 100 mL screw cap bottles (one for RFTM with antibiotics and one for PCM with antibiotics)
 **Day 1**
 2. Label four 5 mL tubes: two "M" and two "R"
 3. Weigh out antibiotics and measure RFTM as above into an autoclaved 100 mL screw cap bottle
@@ -35,9 +35,10 @@ From paper: Dungan, Reece 2006
 	- 500 mg chloramphenicol
 	- 2 mL of pen/strap
 	- 98 mL PCM
+- Autoclaved 100 mL 
 
 **Day 3**
-1. Weigh out antibiotics and measure RFTM
+1. Weigh out antibiotics and measure RFTM into 
 2. Take out two tubes from the incubator 
 3. Pour out PCM into a beaker and transfer tissue from RFTM into 2 mL PCM with antibiotics in a tube 
 4. Pipette up and down to disturb tissue, this is to dislodge cells 
