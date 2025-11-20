@@ -89,7 +89,7 @@ From paper: Dungan, Reece 2006
 7. Add 3-4 more drops of iodine
 8. Observe the stained tissue under microscope, looking for blue-black round perkinsus cells
 9. Write down observations 
-## Homogenizing Tissue
+## Homogenizing Tissue and Transferring to Culture Flasks
 ### Materials for Homogenizing Tissue: 
 - Homogenizer
 - Homogenizer probes 

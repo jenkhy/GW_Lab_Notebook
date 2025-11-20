@@ -64,17 +64,13 @@
             }
           },
           {
-            "id": "2832127ac86e3172",
+            "id": "0fa36928797f2651",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Culturing P. marinus/Troubleshooting Perkinsus Culturing.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Troubleshooting Perkinsus Culturing"
+              "title": "New tab"
             }
           }
         ],
@@ -240,9 +236,9 @@
   },
   "active": "31d848ea4ec88f17",
   "lastOpenFiles": [
+    "Culturing P. marinus/Rough Draft of Perkinsus Culturing Protocol.md",
     "Culturing P. marinus/Troubleshooting Perkinsus Culturing.md",
     "Papers/Perkinsus Culturing Papers.md",
-    "Culturing P. marinus/Rough Draft of Perkinsus Culturing Protocol.md",
     "Culturing P. marinus/Notes Culturing Perkinsus.md",
     "Papers/\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\".md",
     "Papers/Zotero Color Coding.md",
