@@ -39,4 +39,5 @@
 - No perkinsus marinus cells were found
 
 11/25/2025 (Day 14)
-- 
+- PCM tubes were taken out of the incubator and homogenized for ten seconds each
+- The same homogenizer probe was used for each of the tubes since contamination between samples was not a concern as all tissue samples were from the same oyster 

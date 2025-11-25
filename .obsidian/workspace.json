@@ -85,8 +85,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,10 +246,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31d848ea4ec88f17",
+  "active": "9cded8cc8d88eca3",
   "lastOpenFiles": [
-    "Culturing P. marinus/Troubleshooting Perkinsus Culturing.md",
     "Culturing P. marinus/Rough Draft of Perkinsus Culturing Protocol.md",
+    "Culturing P. marinus/Troubleshooting Perkinsus Culturing.md",
     "Papers/Perkinsus Culturing Papers.md",
     "Culturing P. marinus/Notes Culturing Perkinsus.md",
     "Papers/\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\".md",
