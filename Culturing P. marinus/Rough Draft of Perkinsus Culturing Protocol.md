@@ -105,3 +105,7 @@ From paper: Dungan, Reece 2006
 3. Label each 25 cm^2 culture flask with tissue type "M" or "R", and "P1" for first passage
 4. Take the PCM tubes out of the incubator now that 10 days have passed
 5. In fume hood, bring homogenizer, homogenizer probes, beaker of DI water, and PCM tubes
+6. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
+7. Submerge probe in PCM tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 5 clicks to the right, hold for 10 seconds - _Never run homogenizer dry_
+8. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, repeat step 7
+9. Clean probe immediately in DI bath for 10s
