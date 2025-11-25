@@ -110,3 +110,4 @@ From paper: Dungan, Reece 2006
 8. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, repeat step 7
 9. Clean probe immediately in DI bath for 10s
 10.  Repeat steps 6-9 for all tubes
+11. Once homogenized, inoculate the homogenized tissue in PCM tubes into the 25 cm^2 culture flasks
