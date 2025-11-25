@@ -109,3 +109,4 @@ From paper: Dungan, Reece 2006
 7. Submerge probe in PCM tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 5 clicks to the right, hold for 10 seconds - _Never run homogenizer dry_
 8. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, repeat step 7
 9. Clean probe immediately in DI bath for 10s
+10.  Repeat steps 6-9 for all tubes
