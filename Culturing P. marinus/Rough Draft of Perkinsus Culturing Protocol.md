@@ -103,7 +103,7 @@ From paper: Dungan, Reece 2006
 1. In the BSC, bring 100 mL bottle of PCM with antibiotics and two 25 cm^2 culture flasks
 2. Pipette 18 mL of PCM into each 25 cm^2 culture flask. If flasks are tissue-treated, keep the flask upright with the cap at the top to avoid cell adhesion. 
 3. Label each 25 cm^2 culture flask with tissue type "M" or "R", and "P1" for first passage
-4. Take the PCM tubes out of the incubator now that 10 days have passed
+4. Take the PCM tubes out of the incubator now that 10-14 days have passed
 5. In fume hood, bring homogenizer, homogenizer probes, beaker of DI water, and PCM tubes
 6. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
 7. Submerge probe in PCM tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 5 clicks to the right, hold for 10 seconds - _Never run homogenizer dry_

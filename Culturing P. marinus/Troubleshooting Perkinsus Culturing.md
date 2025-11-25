@@ -37,3 +37,6 @@
 - The two tubes of RFTM-inoculated tissue were taken out of the incubator after 7 days
 - The mantle and rectum tissue were placed on labeled microscope slides, teased apart, stained with lugol's iodine, and looked at under a microscope
 - No perkinsus marinus cells were found
+
+11/25/2025 (Day 14)
+- 
