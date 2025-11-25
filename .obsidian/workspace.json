@@ -85,7 +85,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,8 +247,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cded8cc8d88eca3",
+  "active": "31d848ea4ec88f17",
   "lastOpenFiles": [
+    "Culturing P. marinus/Troubleshooting Perkinsus Culturing.md",
+    "Debris with potential cells in Rectum PCM.heic",
+    "Debris with potential cells .heic",
+    "Potential contamination.heic",
     "IMG_8727.jpg",
     "IMG_8726.heic",
     "IMG_8724.heic",
@@ -260,7 +265,6 @@
     "IMG_8713.heic",
     "IMG_8712.heic",
     "Culturing P. marinus/Rough Draft of Perkinsus Culturing Protocol.md",
-    "Culturing P. marinus/Troubleshooting Perkinsus Culturing.md",
     "Papers/Perkinsus Culturing Papers.md",
     "Culturing P. marinus/Notes Culturing Perkinsus.md",
     "Papers/\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\".md",
@@ -272,11 +276,8 @@
     "Algae/Jen's Algae Culturing Project (Fall Semester).md",
     "Algae/Old Protocol Draft Algae Culturing.md",
     "Algae/Old Algae Notes.md",
-    "Algae",
     "Culturing Perkinsus.md",
-    "Culturing P. marinus",
     "Perkinsus marinus/Environmental Factors affecting *Perkinsus* growth.md",
-    "Untitled",
     "Perkinsus marinus/Infectivity of P. marinus.md",
     "Oyster Kinds.md",
     "Protocol for RFTM Perkinsus marinus Assay.md",

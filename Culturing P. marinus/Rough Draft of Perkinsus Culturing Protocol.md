@@ -18,6 +18,14 @@ From paper: Dungan, Reece 2006
 	- 2 mL of pen/strap
 	- 98 mL RFTM
 - Stir bar
+### Materials for Homogenizing Tissue: 
+- Homogenizer
+- Homogenizer probes 
+- Beaker of DI water 
+- PCM-inoculated tissue in tubes (in incubator)
+- Culture flasks 
+- 100 mL bottle of PCM with antibiotics
+- 25 cm^2 Culture Flask
 ### **Protocol** for RFTM inoculation and incubation: 
 **Day 0** 
 1. Autoclave:
@@ -32,7 +40,13 @@ From paper: Dungan, Reece 2006
 6. On a tray and paper towel, perform a sterile dissection of the oyster by dissecting a large piece of the mantle and the rectum. Cut the mantle tissue in half, and cut the rectum tissue in half
 7. Inoculate tissue samples into two tubes that will be used for iodine staining: one set of mantle into one tube of 2 mL of RFTM with antibiotics, and one set of rectum into one tube of 2 mL of RFTM with antibiotics
 8. Inoculate tissue samples into two tubes that will be used for culturing: one set of mantle into one tube of 2 mL of RFTM with antibiotics, and one set of rectum tissue into one tube of 2 mL of RFTM with antibiotics
-9. Incubate two tubes for 2 days (48h) at 27°C, leave two tubes to incubate for 7 days
+9. In fume hood, bring homogenizer, homogenizer probes, beaker of DI water, and the two tubes of RFTM that will be used for culturing
+10. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
+11. Submerge probe in RFTM tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 3 clicks to the right, hold for 10 seconds - _Never run homogenizer dry_
+12. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, repeat step 7
+13. Clean probe immediately in DI bath for 10s
+14.  Repeat steps 11-13 for all tubes
+15. Incubate the two tubes that will be used for culturing for 2 days (48h) at 27°C, leave two tubes that will be used for iodine staining to incubate for 7 days
 ## Transferring Tissue from RFTM to PCM
 ### **Materials for transferring tissue from RFTM to PCM:**
 - Small empty beaker (for discarding RFTM)
@@ -89,25 +103,14 @@ From paper: Dungan, Reece 2006
 7. Add 3-4 more drops of iodine
 8. Observe the stained tissue under microscope, looking for blue-black round perkinsus cells
 9. Write down observations 
-## Homogenizing Tissue and Transferring to Culture Flasks
-### Materials for Homogenizing Tissue: 
-- Homogenizer
-- Homogenizer probes 
-- Beaker of DI water 
-- PCM-inoculated tissue in tubes (in incubator)
-- Culture flasks 
+## Transferring to Culture Flasks
+### Materials for Transferring to Culture Flasks 
 - 100 mL bottle of PCM with antibiotics
 - 25 cm^2 Culture Flask
-### Protocol for homogenizing tissue
+### Protocol for Transferring to Culture Flasks
 **Day 13**
 1. In the BSC, bring 100 mL bottle of PCM with antibiotics and two 25 cm^2 culture flasks
 2. Pipette 18 mL of PCM into each 25 cm^2 culture flask. If flasks are tissue-treated, keep the flask upright with the cap at the top to avoid cell adhesion. 
 3. Label each 25 cm^2 culture flask with tissue type "M" or "R", and "P1" for first passage
 4. Take the PCM tubes out of the incubator now that 10-14 days have passed
-5. In fume hood, bring homogenizer, homogenizer probes, beaker of DI water, and PCM tubes
-6. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
-7. Submerge probe in PCM tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 5 clicks to the right, hold for 10 seconds - _Never run homogenizer dry_
-8. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, repeat step 7
-9. Clean probe immediately in DI bath for 10s
-10.  Repeat steps 6-9 for all tubes
-11. Once homogenized, inoculate the homogenized tissue in PCM tubes into the 25 cm^2 culture flasks
+5. Inoculate the contents of the PCM tubes into the 25 cm^2 culture flasks
