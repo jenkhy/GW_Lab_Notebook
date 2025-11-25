@@ -30,7 +30,8 @@
 	- Labeled two empty 5 mL tubes, one labeled "M" for mantle and one labeled "R" for rectum, to do a sterile transfer of RFTM-inoculated tissue into
 - In BSC, brought the two 5 mL tubes, now with the RFTM-inoculated tissue, added 2 mL of PCM w antibiotics into each. 
 - Pipetted up and down to dislodge tissue and vortexed each tube. This is now PCM w/ dislodged tissue
-- Labeled nine empty 5 mL tubes (four "M" for mantle, four "R" for rectum, and one "C" for control), added 2 mL of PCM into each. Then, inoculated 0.5 mL of the PCM w/ dislodged tissue into eight of these tubes into their respectively labeled tubes. 
+- Labeled nine empty 5 mL tubes ("M1", "M2",... "M4" for mantle, "R1", "R2",... "R4" for rectum, and one "C" for control), added 2 mL of PCM into each. Then, inoculated 0.5 mL of the PCM w/ dislodged tissue into eight of these tubes into their respectively labeled tubes. 
+- "M1" and "R1" contained the largest piece of tissue that was dislodged/vortexed
 - Placed in lab incubator at 26.5°C rather than at 27°C, led lights turning on occasionally for algae 
 
 11/18/2025 Tuesday (Day 7)
@@ -41,3 +42,41 @@
 11/25/2025 (Day 14)
 - PCM tubes were taken out of the incubator and homogenized for ten seconds each
 - The same homogenizer probe was used for each of the tubes since contamination between samples was not a concern as all tissue samples were from the same oyster 
+- After all tubes were homogenized, the homogenizer probe was rinsed in a DI bath for ten seconds, then in a soapy water bath for 10 seconds
+- PCM from "M1" and "R1" were taken and put on microscope slides
+- Potential perkinsus cells were seen, with lots of debris, many clusters, and many large non-round unknown cells were seen as well (potentially bacteria?)
+
+**Microscope Observations of Rectum in PCM:**
+![[IMG_8712.heic]]
+Lots of debris, but potential Perkinsus cells
+
+![[IMG_8713.heic]]
+Potential cells (ignore air bubbles)
+
+![[IMG_8715.jpg]]
+Unsure what these circled in red are... they are not perfectly round so doubting that they are Perkinsus, so possibly contamination. 
+
+![[IMG_8716.jpg]]
+Also unsure what these are circled in red, but potential cells in the background
+
+![[IMG_8717.jpg]]
+Potential cell at top of red circle, unsure what the bottom of red circle may be since it is not perfectly round
+
+![[IMG_8719.heic]]
+Closest looking to potential cells, many of them 
+
+![[IMG_8720.heic]]
+A cluster of unknown cells is seen in the center, potential cells are also seen in the background as clear round circles
+
+**Microscope observations of Mantle in PCM:**
+![[IMG_8723.heic]]
+Strangely shaped debris, but potential cells in background seen as clear small circles
+
+![[IMG_8724.heic]]
+Possible contamination...
+
+![[IMG_8726.heic]]
+More potential cells 
+
+![[IMG_8727.jpg]]
+If looking closely, there are clear growth of line-like cells, unsure what these are. 
