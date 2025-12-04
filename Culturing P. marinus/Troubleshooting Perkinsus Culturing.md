@@ -80,3 +80,10 @@ More potential cells
 
 ![[IMG_8727.jpg]]
 If looking closely, there are clear growth of line-like cells, unsure what these are. 
+
+12/4/2025 Day 23
+- PCM tubes stayed in the incubator for nine days after day 14 
+- Control tube (which should have been looked at on Day 14, but was not) contained debris and cells, which is a potential sign that algae ended up in the tubes 
+- Future PCM tubes should be kept in an incubator that is not shared with algae
+	Plan: 
+- Homogenize a new, larger oyster that will be put in culture media 
