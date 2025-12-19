@@ -97,6 +97,10 @@ Meeting with Jade:
 - NaOH is only used for dissolving tissue to make it easier to count Perkinsus cells (using iodine)
 - I looked at the fresh PCM from fridge and lots of debris was seen in there, I think it is because of the graduated cylinder I used to measure the saltwater when making it
 - Still need to do a control for the incubator, putting a tube of PCM without antibiotics into the incubator to see if anything grows
+
+12/19/2025
+- Discarded PCM tubes in the incubator by dumping into a beaker, swishing with bleach, and dumping in sink
+
 - Next steps for January: 
 	- Before asking Jose for Perkinsus strains to use
 	1. Attempt at homogenizing another larger oyster first thing next semester to use for inoculating into PCM 
