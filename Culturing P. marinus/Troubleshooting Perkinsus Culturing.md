@@ -87,3 +87,17 @@ If looking closely, there are clear growth of line-like cells, unsure what these
 - Future PCM tubes should be kept in an incubator that is not shared with algae
 	Plan: 
 - Homogenize a new, larger oyster that will be put in culture media 
+
+12/5/2025
+- Looked at PCM from fridge, w/o antibiotics, w/o being in incubator, under the microscope
+	- Lots of debris, explains the debris seen in the incubated PCM tubes 
+
+12/11/2025
+Meeting with Jade: 
+- NaOH is only used for dissolving tissue to make it easier to count Perkinsus cells (using iodine)
+- I looked at the fresh PCM from fridge and lots of debris was seen in there, I think it is because of the graduated cylinder I used to measure the saltwater when making it
+- Still need to do a control for the incubator, putting a tube of PCM without antibiotics into the incubator to see if anything grows
+- Next steps for January: 
+	- Before asking Jose for Perkinsus strains to use
+	1. Attempt at homogenizing another larger oyster first thing next semester to use for inoculating into PCM 
+	2. If cells are seen, troubleshoot passaging cells from tubes into culture flasks 
