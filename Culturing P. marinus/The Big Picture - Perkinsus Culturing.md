@@ -1,5 +1,6 @@
 **What requirements will I use this project towards?**
-- I will use this project as my honors thesis 
+- I still need to figure out if I can use the spring semester's work in the lab towards anything
+- I will use this summer project as my honors thesis 
 
 **What question will this project answer?**
 - Does salinity have an impact on Perkinsus marinus reproduction using in vitro culturing?
