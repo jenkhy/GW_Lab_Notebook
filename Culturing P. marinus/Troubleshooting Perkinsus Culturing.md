@@ -105,3 +105,9 @@ Meeting with Jade:
 	1. Attempt at homogenizing another larger oyster first thing next semester to use for inoculating into PCM 
 	2. If cells are seen, troubleshoot passaging cells from tubes into culture flasks 
 	3. Using Jose's Perkinsus strains as practice once we receive them
+
+1/22/2026
+Plans: 
+- Prepare 
+- Find a large oyster to shuck 
+- Dissect tissue 

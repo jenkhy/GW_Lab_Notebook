@@ -32,21 +32,23 @@ From paper: Dungan, Reece 2006
 	- Full rack of 5 mL glass tubes with covers 
 	- Two 100 mL screw cap bottles (one for RFTM with antibiotics and one for PCM with antibiotics)
 	- Three stir bars 
+2. Make PCM and RFTM if there is not any premade in the 4°C fridge
+
 **Day 1**
-2. Label four 5 mL tubes: two "M" and two "R"
-3. Weigh out antibiotics and measure RFTM as above into an autoclaved 100 mL screw cap bottle
-4. Stir with a stir bar and stir plate if necessary
-5. Set up an ethanol flaming station and sterilize forceps, tweezers, and dissecting scissors
-6. On a tray and paper towel, perform a sterile dissection of the oyster by dissecting a large piece of the mantle and the rectum. Cut the mantle tissue in half, and cut the rectum tissue in half
-7. Inoculate tissue samples into two tubes that will be used for iodine staining: one set of mantle into one tube of 2 mL of RFTM with antibiotics, and one set of rectum into one tube of 2 mL of RFTM with antibiotics
-8. Inoculate tissue samples into two tubes that will be used for culturing: one set of mantle into one tube of 2 mL of RFTM with antibiotics, and one set of rectum tissue into one tube of 2 mL of RFTM with antibiotics
-9. In fume hood, bring homogenizer, homogenizer probes, beaker of DI water, and the two tubes of RFTM that will be used for culturing
-10. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
-11. Submerge probe in RFTM tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 3 clicks to the right, hold for 10 seconds - _Never run homogenizer dry_
-12. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, repeat step 7
-13. Clean probe immediately in DI bath for 10s
-14.  Repeat steps 11-13 for all tubes
-15. Incubate the two tubes that will be used for culturing for 2 days (48h) at 27°C, leave two tubes that will be used for iodine staining to incubate for 7 days
+3. Label four 5 mL tubes: two "M" and two "R"
+4. Weigh out antibiotics and measure RFTM as above into an autoclaved 100 mL screw cap bottle
+5. Stir with a stir bar and stir plate if necessary
+6. Set up an ethanol flaming station and sterilize forceps, tweezers, and dissecting scissors
+7. On a tray and paper towel, perform a sterile dissection of the oyster by dissecting a large piece of the mantle and the rectum. Cut the mantle tissue in half, and cut the rectum tissue in half
+8. Inoculate tissue samples into two tubes that will be used for iodine staining: one set of mantle into one tube of 2 mL of RFTM with antibiotics, and one set of rectum into one tube of 2 mL of RFTM with antibiotics
+9. Inoculate tissue samples into two tubes that will be used for culturing: one set of mantle into one tube of 2 mL of RFTM with antibiotics, and one set of rectum tissue into one tube of 2 mL of RFTM with antibiotics
+10. In fume hood, bring homogenizer, homogenizer probes, beaker of DI water, and the two tubes of RFTM that will be used for culturing
+11. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
+12. Submerge probe in RFTM tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 3 clicks to the right, hold for 10 seconds - _Never run homogenizer dry_
+13. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, repeat step 7
+14. Clean probe immediately in DI bath for 10s
+15.  Repeat steps 11-13 for all tubes
+16. Incubate the two tubes that will be used for culturing for 2 days (48h) at 27°C, leave two tubes that will be used for iodine staining to incubate for 7 days
 ## Transferring Tissue from RFTM to PCM
 ### **Materials for transferring tissue from RFTM to PCM:**
 - Small empty beaker (for discarding RFTM)
@@ -62,7 +64,7 @@ From paper: Dungan, Reece 2006
 - Tweezers/forceps (for transferring tissue from RFTM to PCM)
 ### Protocol for transferring tissue from RFTM to PCM:
 **Day 3**
-1. If PCM with antibiotics has not been made already, weigh out antibiotics and measure RFTM as above into an autoclaved 100 mL screw cap bottle
+1. If PCM with antibiotics has not been made already, weigh out antibiotics and measure PCM as above into an autoclaved 100 mL screw cap bottle
 2. Stir with a stir bar and stir plate if necessary
 3. Label seven 5 mL tubes: "M", "M1", "M2", "R", "R1", "R2", and "C" for "control"
 4. In BSC, bring the 100 mL bottle of PCM and the labeled 5 mL tubes. Pipette 2 mL of PCM into each labeled 5 mL tube (this is to keep the main 100 mL bottle of PCM sterile)
