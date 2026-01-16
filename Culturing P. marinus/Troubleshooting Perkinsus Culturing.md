@@ -102,6 +102,6 @@ Meeting with Jade:
 - Discarded PCM tubes in the incubator by dumping into a beaker, swishing with bleach, and dumping in sink
 
 - Next steps for January: 
-	- Before asking Jose for Perkinsus strains to use
 	1. Attempt at homogenizing another larger oyster first thing next semester to use for inoculating into PCM 
 	2. If cells are seen, troubleshoot passaging cells from tubes into culture flasks 
+	3. Using Jose's Perkinsus strains as practice once we receive them
