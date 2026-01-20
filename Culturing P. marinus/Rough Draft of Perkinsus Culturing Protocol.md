@@ -1,5 +1,11 @@
 From paper: Dungan, Reece 2006
 
+**Day 0** 
+1. Materials to autoclave to prepare for RFTM inoculation and PCM inoculation:
+	- Full rack of 5 mL glass tubes with covers 
+	- Two 100 mL screw cap bottles (one for RFTM with antibiotics and one for PCM with antibiotics)
+	- Three stir bars 
+2. Make PCM and RFTM if there is not any premade in the 4°C fridge
 ## RFTM Inoculation and Incubation 
 ### **Materials for RFTM inoculation and incubation:**
 - One oyster 
@@ -18,24 +24,18 @@ From paper: Dungan, Reece 2006
 	- 2 mL of pen/strap
 	- 98 mL RFTM
 - Stir bar
+- Foil
 ### **Protocol** for RFTM inoculation and incubation: 
-**Day 0** 
-1. Autoclave:
-	- Full rack of 5 mL glass tubes with covers 
-	- Two 100 mL screw cap bottles (one for RFTM with antibiotics and one for PCM with antibiotics)
-	- Three stir bars 
-2. Make PCM and RFTM if there is not any premade in the 4°C fridge
-
 **Day 1**
 3. Label four 5 mL tubes: two "M" and two "R"
-4. Weigh out antibiotics and measure RFTM as above into an autoclaved 100 mL screw cap bottle
+4. Weigh out antibiotics and measure RFTM as above into an autoclaved 100 mL screw cap bottle. Cover the bottle of RFTM w/antibiotics with foil and store in the 4°C fridge for future use.
 5. Stir with a stir bar and stir plate if necessary
 6. In BSC, fill each labeled tube with enough RFTM for the tissue to be submerged 
 7. Set up an ethanol flaming station and sterilize forceps, tweezers, and dissecting scissors
 8. On a tray and paper towel, perform a sterile dissection of the oyster by dissecting a large piece of the mantle and the rectum. Cut the mantle tissue in half, and cut the rectum tissue in half
 9. Inoculate tissue samples into two tubes that will be used for iodine staining: one set of mantle into one tube of 2 mL of RFTM with antibiotics, and one set of rectum into one tube of 2 mL of RFTM with antibiotics
 10. Inoculate tissue samples into two tubes that will be used for culturing: one set of mantle into one tube of 2 mL of RFTM with antibiotics, and one set of rectum tissue into one tube of 2 mL of RFTM with antibiotics
-11. Incubate the two tubes that will be used for culturing for 2 days (48h) at 27°C, leave two tubes that will be used for iodine staining to incubate for 7 days
+11. Incubate the two tubes that will be used for culturing for 2 days (48h) at 27°C, leave two tubes that will be used for iodine staining to incubate for 7 days. If using the same incubator that uses LED lights for algae plates, cover the tubes with foil, as RFTM is light-sensitive. 
 ## Transferring Tissue from RFTM to PCM
 ### **Materials for transferring tissue from RFTM to PCM:**
 - Small empty beaker (for discarding RFTM)
