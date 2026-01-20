@@ -1,3 +1,5 @@
+## Fall 2025
+
 10/23/2025
 - Perkinsus culturing media has been made and is in the fridge
 - Two oysters will be used for the initial experiment, one rectum sample and one mantle sample will be taken from each oyster
@@ -106,8 +108,11 @@ Meeting with Jade:
 	2. If cells are seen, troubleshoot passaging cells from tubes into culture flasks 
 	3. Using Jose's Perkinsus strains as practice once we receive them
 
-1/22/2026
-Plans: 
-- Prepare 
-- Find a large oyster to shuck 
-- Dissect tissue 
+## Spring 2026
+1/20/2026 (Day 1)
+- Used the RFTM w/antibiotics stock that was made 11/11/2025, however, it was realized that this RFTM w/antibiotics was kept in the fridge without being covered in foil
+- Before storing the RFTM w/antibiotics again, it was covered in foil
+- In the BSC, ~2 mL RFTM w/antibiotics was pipetted into 5 mL tubes: two labeled R, two labeled M
+- Dissected the mantle and rectum from two wild oysters from Mudcreek (the two oysters were attached, one small oyster attached to the shell of the large oyster) 
+- 2-3 pieces of dissected tissue from the two oysters were inoculated into labeled 5 mL tubes of RFTM w/antibiotics
+- The 5 mL tubes of tissue-inoculated-RFTM w/antibiotics were covered in foil before being placed into the incubator since LED lights are used for algae 
