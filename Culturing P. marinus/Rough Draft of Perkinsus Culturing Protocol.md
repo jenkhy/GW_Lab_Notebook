@@ -4,6 +4,7 @@ From paper: Dungan, Reece 2006
 1. Materials to autoclave to prepare for RFTM inoculation and PCM inoculation:
 	- Full rack of 5 mL glass tubes with covers 
 	- Two 100 mL screw cap bottles (one for RFTM with antibiotics and one for PCM with antibiotics)
+	- 10 mL glass pipet tips 
 	- Three stir bars 
 2. Make PCM and RFTM if there is not any premade in the 4°C fridge
 ## RFTM Inoculation and Incubation 
@@ -18,6 +19,7 @@ From paper: Dungan, Reece 2006
 - Empty beaker (for storing hot tools)
 - Four autoclaved 5 mL tubes (for RFTM)
 - Autoclaved 100 mL screw cap bottle 
+- Autoclaved 10 mL glass pipet tips 
 - 100 mL RFTM with antibiotics (this includes extra RFTM)
 	- 5 mg nystatin
 	- 500 mg chloramphenicol

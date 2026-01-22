@@ -116,3 +116,5 @@ Meeting with Jade:
 - Dissected the mantle and rectum from two wild oysters from Mudcreek (the two oysters were attached, one small oyster attached to the shell of the large oyster) 
 - 2-3 pieces of dissected tissue from the two oysters were inoculated into labeled 5 mL tubes of RFTM w/antibiotics
 - The 5 mL tubes of tissue-inoculated-RFTM w/antibiotics were covered in foil before being placed into the incubator since LED lights are used for algae 
+
+1/22/2026 (Day 3)
