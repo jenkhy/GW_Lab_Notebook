@@ -109,12 +109,20 @@ Meeting with Jade:
 	3. Using Jose's Perkinsus strains as practice once we receive them
 
 ## Spring 2026
-1/20/2026 (Day 1)
-- Used the RFTM w/antibiotics stock that was made 11/11/2025, however, it was realized that this RFTM w/antibiotics was kept in the fridge without being covered in foil
+1/20/2026 (Day 1: Inoculating tissue into RFTM)
+- Used the RFTM w/antibiotics stock that was made 11/11/2025
+	- It was kept in the fridge and should have been covered in foil but was not
 - Before storing the RFTM w/antibiotics again, it was covered in foil
 - In the BSC, ~2 mL RFTM w/antibiotics was pipetted into 5 mL tubes: two labeled R, two labeled M
 - Dissected the mantle and rectum from two wild oysters from Mudcreek (the two oysters were attached, one small oyster attached to the shell of the large oyster) 
 - 2-3 pieces of dissected tissue from the two oysters were inoculated into labeled 5 mL tubes of RFTM w/antibiotics
 - The 5 mL tubes of tissue-inoculated-RFTM w/antibiotics were covered in foil before being placed into the incubator since LED lights are used for algae 
 
-1/22/2026 (Day 3)
+1/22/2026 (Day 3: transferring tissue from RFTM to PCM)
+- Used PCM w/antibiotics stock that was made 11/13/2025
+	- It was extremely cloudy, possibly due to the settling of antibiotics
+	- Became less cloudy after mixing 
+- In BSC, pipetted 2 mL of PCM w/antibiotics into labeled tubes,  "M", "M1", "M2", "R", "R1", "R2", and "C" 
+- Three tubes from Day 1 were taken out from incubator, one mantle in RFTM tube and two rectum in RFTM tubes
+	- The tissue in both rectum RFTM tubes was not submerged in the RFTM. Rectum tissue was still used 
+	- Some tissue in the mantle RFTM tubes was not submerged in the RFTM, but some tissue was submerged. Mantle tissue was still used. 

@@ -32,7 +32,7 @@ From paper: Dungan, Reece 2006
 3. Label four 5 mL tubes: two "M" and two "R"
 4. Weigh out antibiotics and measure RFTM as above into an autoclaved 100 mL screw cap bottle. Cover the bottle of RFTM w/antibiotics with foil and store in the 4°C fridge for future use.
 5. Stir with a stir bar and stir plate if necessary
-6. In BSC, fill each labeled tube with enough RFTM for the tissue to be submerged 
+6. In BSC, fill each labeled tube with enough RFTM for the tissue to be submerged using glass pipette tip
 7. Set up an ethanol flaming station and sterilize forceps, tweezers, and dissecting scissors
 8. On a tray and paper towel, perform a sterile dissection of the oyster by dissecting a large piece of the mantle and the rectum. Cut the mantle tissue in half, and cut the rectum tissue in half
 9. Inoculate tissue samples into two tubes that will be used for iodine staining: one set of mantle into one tube of 2 mL of RFTM with antibiotics, and one set of rectum into one tube of 2 mL of RFTM with antibiotics
@@ -51,6 +51,7 @@ From paper: Dungan, Reece 2006
 - Beaker of 100% ethanol 
 - Empty beaker (for storing hot tools)
 - Tweezers/forceps (for transferring tissue from RFTM to PCM)
+- 10 mL glass pipette tips
 ### Materials for Homogenizing Tissue: 
 - Homogenizer
 - Homogenizer probes 

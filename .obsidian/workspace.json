@@ -73,8 +73,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,11 +233,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc5f7cab4da1709d",
+  "active": "9cded8cc8d88eca3",
   "lastOpenFiles": [
-    "Culturing P. marinus/Notes Culturing Perkinsus.md",
     "Culturing P. marinus/Rough Draft of Perkinsus Culturing Protocol.md",
     "Culturing P. marinus/Troubleshooting Perkinsus Culturing.md",
+    "Culturing P. marinus/Notes Culturing Perkinsus.md",
     "Culturing P. marinus/The Big Picture - Perkinsus Culturing.md",
     "Papers/Perkinsus Culturing Papers.md",
     "Debris with potential cells in Rectum PCM.heic",
