@@ -122,7 +122,16 @@ Meeting with Jade:
 - Used PCM w/antibiotics stock that was made 11/13/2025
 	- It was extremely cloudy, possibly due to the settling of antibiotics
 	- Became less cloudy after mixing 
-- In BSC, pipetted 2 mL of PCM w/antibiotics into labeled tubes,  "M", "M1", "M2", "R", "R1", "R2", and "C" 
+- In BSC, pipetted 2 mL of PCM w/antibiotics into labeled tubes,  "M", "M1", "M2", "R", "R1", "R2", and and "C"
 - Three tubes from Day 1 were taken out from incubator, one mantle in RFTM tube and two rectum in RFTM tubes
 	- The tissue in both rectum RFTM tubes was not submerged in the RFTM. Rectum tissue was still used 
 	- Some tissue in the mantle RFTM tubes was not submerged in the RFTM, but some tissue was submerged. Mantle tissue was still used. 
+- RFTM from tubes were poured into a waste beaker
+- Each type of tissue was transferred into its respective PCM tube, "M" or "R"
+- Tissue in "M" and "R" PCM tubes were homogenized in fume hood
+- Homogenized tissue in "M" and "R" PCM tubes were evenly split and added to "M1", "M2", "R1", and "R2"
+- All PCM tubes "M", "M1", "M2", "R", "R1", "R2", and and "C" were covered in foil and placed in incubator 
+- Incubator is at 27.4°C
+
+[[Plan for arrival of Jose's Perkinsus strains]]
+
