@@ -12,6 +12,6 @@ Inoculating strains into media and incubating (Day 1):
 
 Check on the flasks whenever I am in the lab:
 - View the flasks under the microscope, take photos, and make observations by comparing them to what flask looked like on Day 1
-- Immediately place back in incubator 
+- Immediately place back in the incubator 
 
 
