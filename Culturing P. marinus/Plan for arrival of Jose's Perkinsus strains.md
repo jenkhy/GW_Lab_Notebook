@@ -6,12 +6,17 @@ Inoculating strains into media and incubating (Day 1):
 - Thaw strains 
 - Set aside ~50 uL of one of the strains to put on a microscope slide
 	- Take photos and make observations of what the perkinsus looks like under the microscope before being put into our own media
+- Would it make sense to keep some preserved in the freezer in case this trial fails? 
 -  Split each strain into two 25 cm^2 flask containing 10 mL of PCM 
 - View the flasks under the microscope before placing in incubator, take photos and make observations
-- Place flasks of PCM into 27°C incubator (covered in foil to avoid the algae LED light?) to incubate for 10-14 days
+- Place flasks of PCM into 27°C incubator (covered in foil to avoid the algae LED light?) to incubate for 10-14 days (based off of methods from Dungan, Reece 2006)
 
 Check on the flasks whenever I am in the lab:
 - View the flasks under the microscope, take photos, and make observations by comparing them to what flask looked like on Day 1
 - Immediately place back in the incubator 
+
+Passaging the flasks (Day 10)
+- 
+
 
 
