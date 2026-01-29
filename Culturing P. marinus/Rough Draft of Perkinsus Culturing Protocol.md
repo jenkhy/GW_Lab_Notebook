@@ -6,6 +6,7 @@ From paper: Dungan, Reece 2006
 	- Two 100 mL screw cap bottles (one for RFTM with antibiotics and one for PCM with antibiotics)
 	- 10 mL glass pipet tips 
 	- Three stir bars 
+	- Homogenizer probes (homogenizing tissue after inoculating it in PCM)
 2. Make PCM and RFTM if there is not any premade in the 4°C fridge
 ## RFTM Inoculation and Incubation 
 ### **Materials for RFTM inoculation and incubation:**
@@ -54,7 +55,7 @@ From paper: Dungan, Reece 2006
 - 10 mL glass pipette tips
 ### Materials for Homogenizing Tissue: 
 - Homogenizer
-- Homogenizer probes 
+- Autoclaved homogenizer probes 
 - Beaker of DI water 
 - PCM-inoculated tissue in tubes (in incubator)
 - Culture flasks 
