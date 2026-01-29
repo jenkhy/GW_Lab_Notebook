@@ -9,8 +9,6 @@
 	- One with rectum tissue inoculated in PCM
 	- One with mantle tissue inoculated in PCM
 	- One control with just PCM
-
-
 [[Rough draft of Perkinsus Culturing protocol]] is used 
 
 11/11/2025 Tuesday (Day 1)
@@ -135,3 +133,16 @@ Meeting with Jade:
 
 [[Plan for arrival of Jose's Perkinsus strains]]
 
+1/29/2026
+- Took photos of empty microscope slide
+![](../Images/PCM%20control%20debris%20false%20cells.png)
+
+![](../Images/PCM%20control%20air%20bubble.png)
+
+![](../Images/PCM%20control%20debris%20from%20coverslip.png)
+
+![](../Images/wiped%20clean%20empty%20microscope%20slide.png)
+
+![](../Images/clean%20unwiped%20empty%20microscope%20slide.png)
+
+![](../Images/PCM%20control%20debris.png)
