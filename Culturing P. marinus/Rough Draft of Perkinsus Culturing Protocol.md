@@ -71,17 +71,16 @@ From paper: Dungan, Reece 2006
 6. On a lab bench, discard RFTM from the tubes into a beaker
 7. Bring the 5 mL tubes containing PCM, "M" and "R" from the BSC. 
 8. Ethanol-flame sterilize tweezers/forceps to perform a sterile transfer of tissue from the RFTM tubes into the tubes containing 2 mL PCM with antibiotics 
-9. In the BSC, bring PCM-inoculated tissue and pipette up and down to disturb the tissue, this is to dislodge cells 
-10. In fume hood, bring homogenizer, homogenizer probes, beaker of DI water, and the two tubes of RFTM that will be used for culturing
-11. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
-12. Submerge probe in RFTM tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 3 clicks to the right, hold for 10 seconds - _Never run homogenizer dry_
-13. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, repeat step 12
-14. Clean probe immediately in DI bath for 10s
-15.  Repeat steps 11-14 for all tubes
-16. Inoculate 0.5 mL of "M" with disturbed oyster tissue into "M1", and 0.5 mL into "M2"
-17. Inoculate 0.5 mL of "R" with disturbed oyster tissue into "R1", and 0.5 mL into "R2"
-18. "C" does not contain any tissue, only containing PCM
-19. Incubate these four new tubes and the fifth tube (the control) at 27°C (this may take 10-14 days)
+9. In fume hood, bring homogenizer, homogenizer probes, beaker of DI water, and the two tubes of tissue in PCM 
+10. Insert sterile plastic probe into Homogenizer 150 making sure it locks into place
+11. Submerge probe in RFTM tube, hovering just above the bottom; turn on Homogenizer 150 and slide speed 3 clicks to the right, hold for 10 seconds - _Never run homogenizer dry_
+12. Carefully remove probe once the homogenizer has stopped and check if any tissue is still intact; if there is visible tissue, run homogenizer again
+13. Clean probe immediately in DI bath for 10s
+14.  Repeat steps 10-13 for all tubes
+15. Inoculate 0.5 mL of "M" with disturbed oyster tissue into "M1", and 0.5 mL into "M2"
+16. Inoculate 0.5 mL of "R" with disturbed oyster tissue into "R1", and 0.5 mL into "R2"
+17. "C" does not contain any tissue, only containing PCM
+18. Incubate these four new tubes and the fifth tube (the control) at 27°C (this may take 10-14 days)
 ## RFTM Assay Analysis of Tissue
 ***Goal**: We're aiming to determine if the oyster from which we took tissue samples to inoculate in PCM contains any Perkinsus. Performing an RFTM Assay Analysis will help us gauge the intensity of any Perkinsus infection this oyster may have had, or if it had any Perkinsus at all.*
 
