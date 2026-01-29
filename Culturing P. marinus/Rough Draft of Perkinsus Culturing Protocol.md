@@ -18,7 +18,7 @@ From paper: Dungan, Reece 2006
 - Ethanol lamp 
 - Empty beaker (for storing hot tools)
 - Four autoclaved 5 mL tubes (for RFTM)
-- Autoclaved 100 mL screw cap bottle 
+- Autoclaved 100 mL screw cap bottle (for storing RFTM with antibiotics)
 - Autoclaved 10 mL glass pipet tips 
 - 100 mL RFTM with antibiotics (this includes extra RFTM)
 	- 5 mg nystatin
@@ -41,12 +41,12 @@ From paper: Dungan, Reece 2006
 ## Transferring Tissue from RFTM to PCM
 ### **Materials for transferring tissue from RFTM to PCM:**
 - Small empty beaker (for discarding RFTM)
+- - Autoclaved 100 mL screw cap bottle (for storing PCM with antibiotics)
 - 100 mL Perkinsus Culturing Media (PCM) with antibiotics (this includes extra PCM)
 	- 5 mg nystatin 
 	- 500 mg chloramphenicol
 	- 2 mL of pen/strep
 	- 98 mL PCM
-- Autoclaved 100 mL screw cap bottle 
 - Ethanol lamp 
 - Beaker of 100% ethanol 
 - Empty beaker (for storing hot tools)
