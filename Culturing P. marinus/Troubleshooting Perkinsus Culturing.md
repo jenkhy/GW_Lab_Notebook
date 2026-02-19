@@ -107,16 +107,17 @@ Meeting with Jade:
 	3. Using Jose's Perkinsus strains as practice once we receive them
 
 ## Spring 2026
-1/20/2026 (Day 1: Inoculating tissue into RFTM)
+Tuesday 1/20/2026 (Day 1: Inoculating tissue into RFTM)
 - Used the RFTM w/antibiotics stock that was made 11/11/2025
 	- It was kept in the fridge and should have been covered in foil but was not
 - Before storing the RFTM w/antibiotics again, it was covered in foil
 - In the BSC, ~2 mL RFTM w/antibiotics was pipetted into 5 mL tubes: two labeled R, two labeled M
 - Dissected the mantle and rectum from two wild oysters from Mudcreek (the two oysters were attached, one small oyster attached to the shell of the large oyster) 
 - 2-3 pieces of dissected tissue from the two oysters were inoculated into labeled 5 mL tubes of RFTM w/antibiotics
+	- Later, it was realized that the tissue in all tubes were not properly submerged
 - The 5 mL tubes of tissue-inoculated-RFTM w/antibiotics were covered in foil before being placed into the incubator since LED lights are used for algae 
 
-1/22/2026 (Day 3: transferring tissue from RFTM to PCM)
+Thursday 1/22/2026 (Day 3: transferring tissue from RFTM to PCM)
 - Used PCM w/antibiotics stock that was made 11/13/2025
 	- It was extremely cloudy, possibly due to the settling of antibiotics
 	- Became less cloudy after mixing 
@@ -133,7 +134,8 @@ Meeting with Jade:
 
 [[Plan for arrival of Jose's Perkinsus strains]]
 
-1/29/2026
+Thursday 1/29/2026
+- Properly submerged the oyster mantle in RFTM tissue, will allow it to stay in RFTM properly for five days (check on Tuesday Feb 3)
 - Took photos of empty microscope slide
 ![](../Images/PCM%20control%20debris%20false%20cells.png)
 
@@ -146,3 +148,14 @@ Meeting with Jade:
 ![](../Images/clean%20unwiped%20empty%20microscope%20slide.png)
 
 ![](../Images/PCM%20control%20debris.png)
+
+
+Thursday Feb 5, 2026
+- Checked temperature of incubator using thermometer (it is set to be at 27°C)
+	- Thermometer reads 30°C
+- Viewed RFTM mantle tube under the microscope
+	- saw one potential Perkinsus cell
+- Viewed PCM tubes under microscope 
+	- Lots of debris from microscope slides and PCM seen in all slides 
+	- Potential cell clusters from M2 slide 
+	- To view only things in the PCM liquid, slight shakes help you see what stays stationary (is debris from the slide) and what moves (whats in the liquid)
