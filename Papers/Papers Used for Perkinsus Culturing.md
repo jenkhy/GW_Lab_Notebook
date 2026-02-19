@@ -9,4 +9,3 @@ Gauthier and Vasta 1995 _In Vitro_ Culture of the Eastern Oyster Parasite _Per
 - Using DMEM and Ham's F12
 - Useful seeding densities that will be used 
 Delisle, et al. 2025 Isolation, culture, and optimal growth conditions for the shellfish protozoan parasite, Perkinsus olseni
-- 
