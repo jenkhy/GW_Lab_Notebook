@@ -159,3 +159,5 @@ Thursday Feb 5, 2026
 	- Lots of debris from microscope slides and PCM seen in all slides 
 	- Potential cell clusters from M2 slide 
 	- To view only things in the PCM liquid, slight shakes help you see what stays stationary (is debris from the slide) and what moves (whats in the liquid)
+
+Thursday February 19, 2026
