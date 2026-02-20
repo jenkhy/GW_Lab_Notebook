@@ -21,4 +21,4 @@
 
 **Questions about him (looked at his profile on Bigelow website)**
 - Can you share more about how you made Perkinsus a genetically traceable system? Does this look like doing DNA sequencing of P. marinus and comparing it to the oyster's DNA sequencing?
-- I saw on your profile, you are currently working on creating oyster cell lines. In what ways is culturing oyster cells different from culturing P. marinus cells?
+- I saw on your profile, you are currently working on creating oyster cell lines. What would oyster cell lines be useful for? In what ways is culturing oyster cells different from culturing P. marinus cells?
