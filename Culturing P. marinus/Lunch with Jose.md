@@ -1,11 +1,13 @@
-Notes to share with him about what we're doing: 
-- Trying to culture Perkinsus from wild oysters
-	- To see if theres a difference between wild strains and the cell line strains 
-	- to see if theres different genetic strains
+**Notes to share with him about what we're doing:** 
+- Our media consists of DMEM and Ham's F12, L-glutamine, betaine, and glucose, all dissolved in 16 g/L saltwater made with Instant Ocean. We supply it with the antibiotics, nystatin, chloramphenicol, and pen/strep.
+- We filter the media with 0.22 um filter paper 
 
-Questions about Perkinsus culturing
-- What type of culture media do you use?
-	- Can we compare the compositions of our culture medias? We use DMEM and F12 with...
+- We are trying to culture Perkinsus from wild oysters
+	- To see if there's a difference between wild strains and the cell line strains 
+	- to see if there's different genetic strains
+
+**Questions about Perkinsus culturing**
+- Can we compare the compositions of our culture medias? We use DMEM and F12 with...
 - What was troubleshooting P. marinus culturing like for you?
 - Have you had issues with excess debris or contamination with your Perkinsus culturing?
 	- How do you filter the PCM? We filter using...

@@ -48,6 +48,20 @@
               "icon": "lucide-file",
               "title": "Rough Draft of Perkinsus Culturing Protocol"
             }
+          },
+          {
+            "id": "8a268b1b23aa93fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Papers Used for Perkinsus Culturing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Papers Used for Perkinsus Culturing"
+            }
           }
         ],
         "currentTab": 1
@@ -212,13 +226,13 @@
   },
   "active": "77bc48c79107d69a",
   "lastOpenFiles": [
-    "Papers/Papers Used for Perkinsus Culturing.md",
-    "Culturing P. marinus/Troubleshooting Perkinsus Culturing.md",
     "Culturing P. marinus/Rough Draft of Perkinsus Culturing Protocol.md",
+    "Papers/Papers Used for Perkinsus Culturing.md",
+    "Culturing P. marinus/Lunch with Jose.md",
+    "Culturing P. marinus/Troubleshooting Perkinsus Culturing.md",
     "Papers/Zotero Color Coding.md",
     "Papers/Perkinsus Culturing Papers.md",
     "Papers/\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\".md",
-    "Culturing P. marinus/Lunch with Jose.md",
     "Culturing P. marinus/Notes Culturing Perkinsus.md",
     "Images/PCM control debris.png",
     "Images/clean unwiped empty microscope slide.png",
