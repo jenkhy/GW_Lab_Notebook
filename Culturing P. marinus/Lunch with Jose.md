@@ -9,8 +9,8 @@
 **Questions about Perkinsus culturing**
 - Can we compare the compositions of our culture media? We use DMEM and F12 with...
 - Did you troubleshoot how often the cells are passaged? Is the initial maximum seeding density you tried the same as what it is now?
-- Have you had issues with excess debris or contamination with your Perkinsus culturing?
-	- How do you filter the PCM? We filter using 0.22 um filter paper
+- How do you filter the PCM? We filter using 0.22 um filter paper
+- Do you have issues with dirty microscope slides? 
 - What does culturing P. marinus look like for you in your lab? (be more specific)
 	- What do your cells look like?
 	- How fast do your cells grow?
