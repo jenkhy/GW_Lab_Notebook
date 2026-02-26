@@ -170,13 +170,22 @@ PCM tubes observations:
 
 Microscope observations:
 - Mixed contents of M1 to look at under microscope
+	- few salt-like shapes
+	- many small, short crystallized lines
+	- many potential cells 
+	- overall brown-yellow color
 - Did not mix contents of M2, looked at top layer PCM under microscope 
+	- less dense than mixed M1
+	- crystallized lines
+	- some potetntial cells
 - Mixed contents of R2 to look at under microscope
+	- more dense than R1 with dark clusters
 	- large salt-like shapes
 	- large crystallized lines 
 	- many small potential cells 
 	- one brown tissue-like mass
 - Did not mix contents of R1, looked at top layer PCM under microscope 
+	- less dense than R2 
 	- many large crystallized lines 
 	- many small salt-like shapes
 	- many potential cells 
