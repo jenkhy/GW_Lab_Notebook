@@ -160,4 +160,10 @@ Thursday Feb 5, 2026
 	- Potential cell clusters from M2 slide 
 	- To view only things in the PCM liquid, slight shakes help you see what stays stationary (is debris from the slide) and what moves (whats in the liquid)
 
-Thursday February 19, 2026
+2/26/2026
+PCM tubes observations: 
+- control tube is still bright transparent pink while all other PCM tubes witgh tissue are transparent orange-pink 
+- M1 and M2 has a very yellow precipitate at the bottom 
+- R1 has an off-white precipitate at the bottom 
+- R2 has a slightly yellow precipitate at the bottom 
+- Control tube has a white grainy precipitate at the bottom 
