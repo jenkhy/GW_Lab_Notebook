@@ -167,3 +167,9 @@ PCM tubes observations:
 - R1 has an off-white precipitate at the bottom 
 - R2 has a slightly yellow precipitate at the bottom 
 - Control tube has a white grainy precipitate at the bottom 
+
+Microscope:
+- Mixed contents of M1 to look at under microscope
+- Did not mix contents of M2, looked at top layer PCM under microscope 
+- Mixed contents of R2 to look at under microscope
+- Did not mix contents of R1, looked at top layer PCM under microscope 
