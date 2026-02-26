@@ -168,8 +168,15 @@ PCM tubes observations:
 - R2 has a slightly yellow precipitate at the bottom 
 - Control tube has a white grainy precipitate at the bottom 
 
-Microscope:
+Microscope observations:
 - Mixed contents of M1 to look at under microscope
 - Did not mix contents of M2, looked at top layer PCM under microscope 
 - Mixed contents of R2 to look at under microscope
+	- large salt-like shapes
+	- large crystallized lines 
+	- many small potential cells 
+	- one brown tissue-like mass
 - Did not mix contents of R1, looked at top layer PCM under microscope 
+	- many large crystallized lines 
+	- many small salt-like shapes
+	- many potential cells 
