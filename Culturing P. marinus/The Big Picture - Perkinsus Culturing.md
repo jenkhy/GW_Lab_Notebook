@@ -1,7 +1,3 @@
-
-**What question will this project answer?**
-- Does salinity have an impact on Perkinsus marinus reproduction using in vitro culturing?
-
 **What have I done and know so far as of now? (Fall 2025 has ended)**
 - I know how to make Perkinsus Culturing Media (PCM)
 - Homogenizing is the best method for inoculating Perkinsus into PCM 
