@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Culturing P. marinus/Troubleshooting Perkinsus Culturing.md",
+                "file": "Culturing P. marinus/Lunch with Jose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Troubleshooting Perkinsus Culturing"
+              "title": "Lunch with Jose"
+            }
+          },
+          {
+            "id": "4de0f519f4fdb4f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Culturing P. marinus/The Big Picture - Perkinsus Culturing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Big Picture - Perkinsus Culturing"
             }
           },
           {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,12 +238,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77bc48c79107d69a",
+  "active": "4de0f519f4fdb4f5",
   "lastOpenFiles": [
-    "Culturing P. marinus/Lunch with Jose.md",
     "Culturing P. marinus/Rough Draft of Perkinsus Culturing Protocol.md",
-    "Papers/Papers Used for Perkinsus Culturing.md",
+    "Culturing P. marinus/Plan for arrival of Jose's Perkinsus strains.md",
     "Culturing P. marinus/Troubleshooting Perkinsus Culturing.md",
+    "Culturing P. marinus/The Big Picture - Perkinsus Culturing.md",
+    "Culturing P. marinus/Lunch with Jose.md",
+    "Papers/Papers Used for Perkinsus Culturing.md",
     "Papers/Zotero Color Coding.md",
     "Papers/Perkinsus Culturing Papers.md",
     "Papers/\"Oyster disease in a changing environment Decrypting the link between pathogen, microbiome and environment\".md",
@@ -252,8 +268,6 @@
     "Images/PCM control debris from coverslip.heic",
     "Images",
     "Photos of Perkinsus",
-    "Culturing P. marinus/Plan for arrival of Jose's Perkinsus strains.md",
-    "Culturing P. marinus/The Big Picture - Perkinsus Culturing.md",
     "Algae/Old Protocol Draft Algae Culturing.md",
     "Debris with potential cells in Rectum PCM.heic",
     "Debris with potential cells .heic",
